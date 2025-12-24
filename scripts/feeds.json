@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    { "name": "首相官邸", "url": "https://www.kantei.go.jp/index-jnews.rdf" },
+    { "name": "内閣府", "url": "https://www.cao.go.jp/rss/news.rdf" },
+    { "name": "Google Blog", "url": "https://blog.google/rss/" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml" },
+    { "name": "UNEP", "url": "https://www.unep.org/news-and-stories/rss.xml" }
+  ]
+}
