@@ -1,24 +1,89 @@
 {
-  "dateKey": "INIT",
+  "dateKey": "2025-12-24",
   "importantPoints": [
-    "初回ビルド待ち：GitHub Actionsを実行すると今日のニュースが入ります",
-    "このサイトはRSS（直近72時間）から自動収集します",
-    "👍が増えるテーマは翌日以降選ばれやすくなります"
+    "最重要：Here’s where you can use Nano Banana Pro（A_GLOBAL）",
+    "次点：「ふるさとの風」「しおかぜ」放送用　木原内閣官房長官兼拉致問題担当大臣ラジオメッセージ（B_JAPAN）",
+    "注目：高市総理は年末エコノミスト懇親会に出席しました（B_JAPAN）"
   ],
   "implications": [
-    "求人広告：景況・規制・AI動向で訴求軸と配分を微調整する",
-    "AI面接：公平性・説明可能性・規制の動きは提案の前提条件にする",
-    "BPO：採用難が続くほど非コア業務の外出し＋自動化の優先度が上がる"
+    "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
+    "AI面接：ルール・ガイドライン動向を追い、説明可能性/公平性を担保した導入提案を前提にする",
+    "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
     {
-      "id": "demo1",
-      "title": "（デモ）ここに今日のニュース見出しが入ります",
+      "id": "67862692c14e",
+      "title": "Here’s where you can use Nano Banana Pro",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2025-12-24 02:00 JST"
+    },
+    {
+      "id": "c355f3c17d86",
+      "title": "「ふるさとの風」「しおかぜ」放送用　木原内閣官房長官兼拉致問題担当大臣ラジオメッセージ",
       "category": "B_JAPAN",
-      "tags": ["生成AI", "業務自動化"],
-      "sourceName": "INIT",
-      "summaryShort": "初回ビルド前のダミーデータです（Actions実行で差し替わります）",
-      "publishedAtJst": "INIT"
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-24 10:00 JST"
+    },
+    {
+      "id": "013581e93710",
+      "title": "高市総理は年末エコノミスト懇親会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-23 18:20 JST"
+    },
+    {
+      "id": "548801362ea5",
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-23 23:07 JST"
+    },
+    {
+      "id": "35040deb8468",
+      "title": "高市総理は共同通信加盟社編集局長会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-23 17:55 JST"
+    },
+    {
+      "id": "3b4643d60828",
+      "title": "高市総理は新潟県の花角 英世（はなずみ ひでよ）知事と面会しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-23 16:40 JST"
+    },
+    {
+      "id": "bf8276d48476",
+      "title": "木原内閣官房長官は大規模太陽光発電事業に関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-23 11:00 JST"
+    },
+    {
+      "id": "50dfc9520e4b",
+      "title": "高市総理は自由民主党・治安・テロ・サイバー犯罪対策調査会による申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-23 10:30 JST"
     }
   ]
 }
