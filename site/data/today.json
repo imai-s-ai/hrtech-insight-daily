@@ -1,0 +1,24 @@
+{
+  "dateKey": "INIT",
+  "importantPoints": [
+    "初回ビルド待ち：GitHub Actionsを実行すると今日のニュースが入ります",
+    "このサイトはRSS（直近72時間）から自動収集します",
+    "👍が増えるテーマは翌日以降選ばれやすくなります"
+  ],
+  "implications": [
+    "求人広告：景況・規制・AI動向で訴求軸と配分を微調整する",
+    "AI面接：公平性・説明可能性・規制の動きは提案の前提条件にする",
+    "BPO：採用難が続くほど非コア業務の外出し＋自動化の優先度が上がる"
+  ],
+  "articles": [
+    {
+      "id": "demo1",
+      "title": "（デモ）ここに今日のニュース見出しが入ります",
+      "category": "B_JAPAN",
+      "tags": ["生成AI", "業務自動化"],
+      "sourceName": "INIT",
+      "summaryShort": "初回ビルド前のダミーデータです（Actions実行で差し替わります）",
+      "publishedAtJst": "INIT"
+    }
+  ]
+}
