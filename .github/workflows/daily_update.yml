@@ -1,0 +1,39 @@
+name: Daily Update (JST 08:00)
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install
+        run: npm install
+
+      - name: Build today.json / items.json
+        env:
+          LIKE_API_BASE: ${{ secrets.LIKE_API_BASE }}
+        run: npm run build:today
+
+      - name: Commit & Push
+        run: |
+          git config user.name "hrtech-insight-bot"
+          git config user.email "hrtech-insight-bot@users.noreply.github.com"
+          git add site/data/*.json
+          git commit -m "Daily update" || echo "No changes"
+          git push
