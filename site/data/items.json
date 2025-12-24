@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": "demo1",
+      "title": "（デモ）ここに今日のニュース見出しが入ります",
+      "category": "B_JAPAN",
+      "tags": ["生成AI", "業務自動化"],
+      "sourceName": "INIT",
+      "publishedAtJst": "INIT",
+      "summaryShort": "初回ビルド前のダミーデータです（Actions実行で差し替わります）",
+      "summaryFull": "――――――――――\n📰 （デモ）ここに今日のニュース見出しが入ります\n\n■ 概要（3行以内）\n・初回ビルド前のダミーデータです\n・GitHub Actionsが動くと、RSSから今日のニュースが自動で入ります\n\n■ 背景・補足\n・公開元：INIT\n・公開日時：INIT\n\n■ ビジネス／採用への示唆\n・顧客提案：このニュースの影響（採用/集客/AI/規制/景況）を一言でつなげる\n・社内戦略：重要テーマは継続ウォッチして次の打ち手に落とし込む\n――――――――――",
+      "sources": [
+        { "name": "INIT", "url": "https://example.com" }
+      ]
+    }
+  ]
+}
