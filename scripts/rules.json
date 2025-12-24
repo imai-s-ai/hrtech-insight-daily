@@ -1,0 +1,20 @@
+{
+  "limits": { "minA": 1, "minB": 2, "minC": 2, "maxTotal": 8, "minTotal": 5, "hiringCap": 0.4 },
+  "sourceWeights": { "首相官邸": 3.0, "内閣府": 3.0, "Google Blog": 2.2, "Hugging Face Blog": 2.0, "UNEP": 2.0 },
+  "tagRules": [
+    { "tag": "生成AI", "keywords": ["AI","人工知能","LLM","生成","ChatGPT","モデル"] },
+    { "tag": "規制", "keywords": ["規制","法","ガイドライン","独禁","個人情報","プライバシー"] },
+    { "tag": "金融", "keywords": ["金利","利上げ","利下げ","円","ドル","インフレ","国債"] },
+    { "tag": "雇用・賃金", "keywords": ["雇用","失業","賃金","春闘","最低賃金","労働"] },
+    { "tag": "広告・マーケ", "keywords": ["広告","マーケ","CPA","CVR","獲得","集客"] },
+    { "tag": "採用", "keywords": ["採用","求人","面接","選考","人材","リクルート"] },
+    { "tag": "業務自動化", "keywords": ["自動化","BPO","業務効率","DX","RPA","バックオフィス"] },
+    { "tag": "地政学", "keywords": ["紛争","戦争","制裁","安全保障","ウクライナ","中東"] }
+  ],
+  "categoryRules": [
+    { "category": "A_GLOBAL", "keywords": ["UN","EU","米国","中国","制裁","WTO","紛争","戦争","国連","NATO"] },
+    { "category": "B_JAPAN", "keywords": ["日本","日銀","内閣府","首相官邸","厚労省","経産省","総務省","国会","円"] },
+    { "category": "C_BIZ_AI", "keywords": ["AI","SaaS","クラウド","半導体","生成","モデル","自動化","広告"] }
+  ],
+  "hiringTags": ["採用","雇用・賃金"]
+}
