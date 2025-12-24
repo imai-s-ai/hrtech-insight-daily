@@ -1,0 +1,1 @@
+# hrtech-insight-daily
