@@ -1,9 +1,9 @@
 {
-  "dateKey": "2025-12-25",
+  "dateKey": "2025-12-26",
   "importantPoints": [
     "最重要：Here’s where you can use Nano Banana Pro（A_GLOBAL）",
-    "次点：高市総理は第２６回規制改革推進会議に出席しました（B_JAPAN）",
-    "注目：高市総理は第２回日本成長戦略会議を開催しました（B_JAPAN）"
+    "次点：高市総理は政府与党政策懇談会に出席しました（B_JAPAN）",
+    "注目：高市総理は内外情勢調査会全国懇談会に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,24 +21,22 @@
       "publishedAtJst": "2025-12-24 02:00 JST"
     },
     {
-      "id": "b302ebf5662f",
-      "title": "高市総理は第２６回規制改革推進会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-24 18:15 JST"
-    },
-    {
-      "id": "769d6cd8e18b",
-      "title": "高市総理は第２回日本成長戦略会議を開催しました",
+      "id": "bf4328207531",
+      "title": "高市総理は政府与党政策懇談会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-24 17:20 JST"
+      "publishedAtJst": "2025-12-25 14:15 JST"
+    },
+    {
+      "id": "c5d5fdf2c63b",
+      "title": "高市総理は内外情勢調査会全国懇談会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2025-12-25 13:10 JST"
     },
     {
       "id": "548801362ea5",
@@ -52,40 +50,42 @@
       "publishedAtJst": "2025-12-23 23:07 JST"
     },
     {
-      "id": "c6ae476548a1",
-      "title": "高市総理は第１２回デジタル行財政改革会議を開催しました",
+      "id": "d24b5a485b09",
+      "title": "高市総理は第１４回日本経済団体連合会審議員会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-24 16:30 JST"
+      "publishedAtJst": "2025-12-25 12:30 JST"
     },
     {
-      "id": "1434b4d4e325",
-      "title": "高市総理は令和７年度バリアフリー・ユニバーサルデザイン推進功労者表彰 表彰式に出席しました",
+      "id": "9cb65e5705bb",
+      "title": "高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-24 14:00 JST"
+      "publishedAtJst": "2025-12-25 11:00 JST"
     },
     {
-      "id": "c355f3c17d86",
-      "title": "「ふるさとの風」「しおかぜ」放送用　木原内閣官房長官兼拉致問題担当大臣ラジオメッセージ",
+      "id": "ced7d33ad70d",
+      "title": "高市総理は令和７年第１５回経済財政諮問会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-24 10:00 JST"
+      "publishedAtJst": "2025-12-25 10:00 JST"
     },
     {
-      "id": "013581e93710",
-      "title": "高市総理は年末エコノミスト懇親会に出席しました",
+      "id": "b302ebf5662f",
+      "title": "高市総理は第２６回規制改革推進会議に出席しました",
       "category": "B_JAPAN",
-      "tags": [],
+      "tags": [
+        "規制"
+      ],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-23 18:20 JST"
+      "publishedAtJst": "2025-12-24 18:15 JST"
     }
   ]
 }
