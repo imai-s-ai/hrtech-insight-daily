@@ -1,9 +1,8 @@
 {
-  "dateKey": "2025-12-29",
+  "dateKey": "2025-12-30",
   "importantPoints": [
-    "最重要：高市総理は令和８年度当初予算案の閣議決定についての会見を行いました（B_JAPAN）",
-    "次点：閣議の概要／エネルギー・食料等国民生活を支える基盤の戦略的強化に向けた関係閣僚会議について（B_JAPAN）",
-    "注目：エネルギー・食料等国民生活を支える基盤の戦略的強化に向けた関係閣僚会議（B_JAPAN）"
+    "最重要：The latest AI news we announced in December（A_GLOBAL）",
+    "次点：13 of the best Nano Banana trends from 2025（A_GLOBAL）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,31 +11,24 @@
   ],
   "articles": [
     {
-      "id": "6423fe5156b5",
-      "title": "高市総理は令和８年度当初予算案の閣議決定についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-26 17:25 JST"
+      "id": "e5c818063768",
+      "title": "The latest AI news we announced in December",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2025-12-30 03:15 JST"
     },
     {
-      "id": "e9acc2269d6a",
-      "title": "閣議の概要／エネルギー・食料等国民生活を支える基盤の戦略的強化に向けた関係閣僚会議について",
-      "category": "B_JAPAN",
+      "id": "81c7e0f9017c",
+      "title": "13 of the best Nano Banana trends from 2025",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-26 09:40 JST"
-    },
-    {
-      "id": "a28bbc1be1ce",
-      "title": "エネルギー・食料等国民生活を支える基盤の戦略的強化に向けた関係閣僚会議",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2025-12-26 09:30 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2025-12-30 01:00 JST"
     }
   ]
 }
