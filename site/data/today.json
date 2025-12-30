@@ -1,8 +1,9 @@
 {
-  "dateKey": "2025-12-30",
+  "dateKey": "2025-12-31",
   "importantPoints": [
     "最重要：The latest AI news we announced in December（A_GLOBAL）",
-    "次点：13 of the best Nano Banana trends from 2025（A_GLOBAL）"
+    "次点：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）",
+    "注目：13 of the best Nano Banana trends from 2025（A_GLOBAL）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -20,6 +21,15 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2025-12-30 03:15 JST"
+    },
+    {
+      "id": "2daa08c741be",
+      "title": "高市総理は日本取引所グループ大納会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-12-30 15:30 JST"
     },
     {
       "id": "81c7e0f9017c",
