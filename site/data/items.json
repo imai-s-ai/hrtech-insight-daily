@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "id": "e5c818063768",
-      "title": "The latest AI news we announced in December",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2025-12-30 03:15 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 The latest AI news we announced in December\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dec_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from December 2025\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2025-12-30 03:15 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/"
-        }
-      ]
-    },
-    {
       "id": "b1b93d9b8301",
       "title": "カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出",
       "category": "B_JAPAN",
@@ -63,22 +45,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/104/statement/2026/0101nentou.html"
-        }
-      ]
-    },
-    {
-      "id": "81c7e0f9017c",
-      "title": "13 of the best Nano Banana trends from 2025",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2025-12-30 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 13 of the best Nano Banana trends from 2025\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB_Hero_.max-600x600.format-webp.webp\">From pet figurines to isometric images, here are some of our favorite Nano Banana trends of the year.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2025-12-30 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products/gemini/nano-banana-google-trends-2025/"
         }
       ]
     }

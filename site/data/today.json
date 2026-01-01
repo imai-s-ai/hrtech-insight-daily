@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-01",
+  "dateKey": "2026-01-02",
   "importantPoints": [
-    "最重要：The latest AI news we announced in December（A_GLOBAL）",
-    "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
-    "注目：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）"
+    "最重要：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
+    "次点：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）",
+    "注目：高市内閣総理大臣　令和８年　年頭所感（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,17 +11,6 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
-    {
-      "id": "e5c818063768",
-      "title": "The latest AI news we announced in December",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2025-12-30 03:15 JST"
-    },
     {
       "id": "b1b93d9b8301",
       "title": "カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出",
@@ -48,15 +37,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-01 00:00 JST"
-    },
-    {
-      "id": "81c7e0f9017c",
-      "title": "13 of the best Nano Banana trends from 2025",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2025-12-30 01:00 JST"
     }
   ]
 }
