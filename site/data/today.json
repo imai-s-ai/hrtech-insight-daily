@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-01-06",
+  "dateKey": "2026-01-07",
   "importantPoints": [
     "最重要：Android XR lights up Sphere in Las Vegas for CES.（A_GLOBAL）",
     "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
@@ -39,13 +39,13 @@
       "publishedAtJst": "2026-12-30 15:30 JST"
     },
     {
-      "id": "2d6c573bd510",
-      "title": "Generalist Robot Policy Evaluation in Simulation with NVIDIA Isaac Lab-Arena and LeRobot",
+      "id": "3dec23e2d9b5",
+      "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-06 07:56 JST"
+      "publishedAtJst": "2026-01-07 06:16 JST"
     },
     {
       "id": "a1e1d46195a5",
@@ -57,31 +57,31 @@
       "publishedAtJst": "2026-01-05 09:00 JST"
     },
     {
-      "id": "786b1d441e2e",
-      "title": "高市総理は年頭記者会見を行いました",
+      "id": "463a0e427a1b",
+      "title": "偽動画に御注意ください（注意喚起）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-05 14:00 JST"
+      "publishedAtJst": "2026-01-06 18:30 JST"
     },
     {
-      "id": "73a869adb5e1",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "id": "48c6c225d9a3",
+      "title": "高市総理は時事通信社の新年互礼会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-04 08:30 JST"
+      "publishedAtJst": "2026-01-06 17:20 JST"
     },
     {
-      "id": "4d4cb23d96ea",
-      "title": "Google introduces new Gemini for Google TV features.",
-      "category": "A_GLOBAL",
+      "id": "b68f862e9ab0",
+      "title": "高市総理は経済３団体共催２０２６年新年祝賀会に出席しました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-05 23:00 JST"
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-06 14:30 JST"
     }
   ]
 }
