@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-01-08",
+  "dateKey": "2026-01-09",
   "importantPoints": [
-    "最重要：Android XR lights up Sphere in Las Vegas for CES.（A_GLOBAL）",
+    "最重要：Gmail is entering the Gemini era（A_GLOBAL）",
     "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
     "注目：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）"
   ],
@@ -12,13 +12,15 @@
   ],
   "articles": [
     {
-      "id": "02c1a8b5d17d",
-      "title": "Android XR lights up Sphere in Las Vegas for CES.",
+      "id": "5a2acdf063d0",
+      "title": "Gmail is entering the Gemini era",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-06 02:00 JST"
+      "publishedAtJst": "2026-01-08 22:00 JST"
     },
     {
       "id": "b1b93d9b8301",
@@ -39,22 +41,13 @@
       "publishedAtJst": "2026-12-30 15:30 JST"
     },
     {
-      "id": "3dec23e2d9b5",
-      "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models",
-      "category": "C_BIZ_AI",
+      "id": "a3e523672585",
+      "title": "高市総理は澤田日米経済協議会顧問他による表敬を受けました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-07 06:16 JST"
-    },
-    {
-      "id": "a1e1d46195a5",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-05 09:00 JST"
+      "publishedAtJst": "2026-01-08 16:00 JST"
     },
     {
       "id": "463a0e427a1b",
@@ -82,6 +75,15 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-06 14:30 JST"
+    },
+    {
+      "id": "721d8ee1ab1e",
+      "title": "高市総理は島根県東部を震源とする地震についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-06 11:05 JST"
     }
   ]
 }
