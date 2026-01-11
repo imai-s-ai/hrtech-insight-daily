@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-01-11",
+  "dateKey": "2026-01-12",
   "importantPoints": [
-    "最重要：Gmail is entering the Gemini era（A_GLOBAL）",
+    "最重要：Google at the National Retail Federation 2026（A_GLOBAL）",
     "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
     "注目：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "5a2acdf063d0",
-      "title": "Gmail is entering the Gemini era",
+      "id": "6e6987da8c27",
+      "title": "Google at the National Retail Federation 2026",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-08 22:00 JST"
+      "publishedAtJst": "2026-01-12 01:00 JST"
     },
     {
       "id": "b1b93d9b8301",
