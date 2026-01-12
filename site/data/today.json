@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-01-12",
+  "dateKey": "2026-01-13",
   "importantPoints": [
-    "最重要：Google at the National Retail Federation 2026（A_GLOBAL）",
+    "最重要：Google Search is celebrating 250 years of America.（A_GLOBAL）",
     "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
     "注目：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）"
   ],
@@ -12,15 +12,13 @@
   ],
   "articles": [
     {
-      "id": "6e6987da8c27",
-      "title": "Google at the National Retail Federation 2026",
+      "id": "c4a6493d9381",
+      "title": "Google Search is celebrating 250 years of America.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-12 01:00 JST"
+      "publishedAtJst": "2026-01-13 02:30 JST"
     },
     {
       "id": "b1b93d9b8301",
@@ -41,49 +39,53 @@
       "publishedAtJst": "2026-12-30 15:30 JST"
     },
     {
-      "id": "f87923293a3c",
-      "title": "木原内閣官房長官はノウフク交流会に出席しました",
-      "category": "B_JAPAN",
+      "id": "5f7d7a5cffe7",
+      "title": "Increased file size limits and expanded inputs support in Gemini API",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-09 16:30 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-13 02:00 JST"
     },
     {
-      "id": "e29278166693",
-      "title": "高市総理は政府与党連絡会議に出席しました",
-      "category": "B_JAPAN",
+      "id": "1facdef82fdc",
+      "title": "New biddable capabilities for live sports with Display & Video 360",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-09 13:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-13 01:00 JST"
     },
     {
-      "id": "a79a0633ae24",
-      "title": "木原内閣官房長官は次官連絡会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "54499aee0eda",
+      "title": "Joint statement from Google and Apple",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-09 11:45 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-12 20:33 JST"
     },
     {
-      "id": "d74c821affe8",
-      "title": "高市総理は山形県の吉村美栄子知事等より「啓翁桜」の贈呈を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-09 11:30 JST"
+      "id": "6e6987da8c27",
+      "title": "Google at the National Retail Federation 2026",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-12 01:00 JST"
     },
     {
-      "id": "6a07fbe6db32",
-      "title": "閣議の概要／李在明（イ・ジェミョン）韓国大統領の訪日／ジョルジャ・メローニ伊首相の訪日／北朝鮮による拉致問題について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-09 11:00 JST"
+      "id": "06f03be64186",
+      "title": "The AI platform shift and the opportunity ahead for retail",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-12 00:30 JST"
     }
   ]
 }
