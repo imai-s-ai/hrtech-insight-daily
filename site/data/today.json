@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-01-14",
+  "dateKey": "2026-01-15",
   "importantPoints": [
-    "最重要：Enhanced Veo 3.1 capabilities are now available in the Gemini API.（A_GLOBAL）",
+    "最重要：Celebrating 250 years of America, from its history to its future（A_GLOBAL）",
     "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
     "注目：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）"
   ],
@@ -12,15 +12,13 @@
   ],
   "articles": [
     {
-      "id": "a1dd663ed0ad",
-      "title": "Enhanced Veo 3.1 capabilities are now available in the Gemini API.",
+      "id": "20aaac0b8dc2",
+      "title": "Celebrating 250 years of America, from its history to its future",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-14 02:00 JST"
+      "publishedAtJst": "2026-01-15 03:40 JST"
     },
     {
       "id": "b1b93d9b8301",
@@ -41,6 +39,26 @@
       "publishedAtJst": "2026-12-30 15:30 JST"
     },
     {
+      "id": "87c8a7379079",
+      "title": "高市総理は第６６回交通安全国民運動中央大会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-14 15:00 JST"
+    },
+    {
+      "id": "fee77b336760",
+      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と共に奈良県の法隆寺を訪問しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "規制"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-14 10:00 JST"
+    },
+    {
       "id": "eae07fca4830",
       "title": "木原内閣官房長官は第２３回農林水産物・食品の輸出拡大のための輸入国規制への対応等に関する関係閣僚会議を開催しました",
       "category": "B_JAPAN",
@@ -52,40 +70,22 @@
       "publishedAtJst": "2026-01-13 17:00 JST"
     },
     {
+      "id": "2b4bf849280d",
+      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と首脳会談を行いました（２）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-13 16:30 JST"
+    },
+    {
       "id": "72ab5b7aab20",
-      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と共に奈良県を訪問し、日韓首脳会談を行いました",
+      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と首脳会談を行いました（１）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-13 14:00 JST"
-    },
-    {
-      "id": "712a6032f9f7",
-      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-14 02:00 JST"
-    },
-    {
-      "id": "c4a6493d9381",
-      "title": "Google Search is celebrating 250 years of America.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-13 02:30 JST"
-    },
-    {
-      "id": "5f7d7a5cffe7",
-      "title": "Increased file size limits and expanded inputs support in Gemini API",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-13 02:00 JST"
     }
   ]
 }
