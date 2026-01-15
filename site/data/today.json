@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-15",
+  "dateKey": "2026-01-16",
   "importantPoints": [
-    "最重要：Celebrating 250 years of America, from its history to its future（A_GLOBAL）",
+    "最重要：Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.（A_GLOBAL）",
     "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
-    "注目：高市総理は日本取引所グループ大納会に出席しました（B_JAPAN）"
+    "注目：高市総理は駐日女性大使の会との懇談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,15 @@
   ],
   "articles": [
     {
-      "id": "20aaac0b8dc2",
-      "title": "Celebrating 250 years of America, from its history to its future",
+      "id": "187f033e6773",
+      "title": "Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-15 03:40 JST"
+      "publishedAtJst": "2026-01-16 02:00 JST"
     },
     {
       "id": "b1b93d9b8301",
@@ -30,13 +32,40 @@
       "publishedAtJst": "2026-12-30 22:45 JST"
     },
     {
-      "id": "2daa08c741be",
-      "title": "高市総理は日本取引所グループ大納会に出席しました",
+      "id": "2562b11ad1d2",
+      "title": "高市総理は駐日女性大使の会との懇談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-12-30 15:30 JST"
+      "publishedAtJst": "2026-01-15 15:30 JST"
+    },
+    {
+      "id": "89963152d6f2",
+      "title": "Introducing OptiMind, a research model designed for optimization",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-16 03:49 JST"
+    },
+    {
+      "id": "0d54849bb01b",
+      "title": "Open Responses: What you need to know",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-15 09:00 JST"
+    },
+    {
+      "id": "6112aeaefb6c",
+      "title": "ＳＡＪ４０周年記念祝賀パーティ　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-15 10:00 JST"
     },
     {
       "id": "87c8a7379079",
@@ -57,35 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-14 10:00 JST"
-    },
-    {
-      "id": "eae07fca4830",
-      "title": "木原内閣官房長官は第２３回農林水産物・食品の輸出拡大のための輸入国規制への対応等に関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-13 17:00 JST"
-    },
-    {
-      "id": "2b4bf849280d",
-      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と首脳会談を行いました（２）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-13 16:30 JST"
-    },
-    {
-      "id": "72ab5b7aab20",
-      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と首脳会談を行いました（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-13 14:00 JST"
     }
   ]
 }
