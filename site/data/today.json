@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-16",
+  "dateKey": "2026-01-17",
   "importantPoints": [
-    "最重要：Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.（A_GLOBAL）",
-    "次点：カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出（B_JAPAN）",
-    "注目：高市総理は駐日女性大使の会との懇談を行いました（B_JAPAN）"
+    "最重要：Why we’re appealing the DOJ Search distribution case（A_GLOBAL）",
+    "次点：高市総理は「東南アジア青年の船」参加青年代表による表敬を受けました（B_JAPAN）",
+    "注目：高市総理は「水戸の梅まつり」関係者による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,33 @@
   ],
   "articles": [
     {
-      "id": "187f033e6773",
-      "title": "Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.",
+      "id": "8a897018dd64",
+      "title": "Why we’re appealing the DOJ Search distribution case",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-16 02:00 JST"
+      "publishedAtJst": "2026-01-17 06:00 JST"
     },
     {
-      "id": "b1b93d9b8301",
-      "title": "カレダ・ジア元バングラデシュ人民共和国首相の逝去を受けた高市総理大臣による弔意メッセージの発出",
+      "id": "589ad64e8e1e",
+      "title": "高市総理は「東南アジア青年の船」参加青年代表による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-12-30 22:45 JST"
+      "publishedAtJst": "2026-01-16 17:05 JST"
     },
     {
-      "id": "2562b11ad1d2",
-      "title": "高市総理は駐日女性大使の会との懇談を行いました",
+      "id": "cfa8409eaac1",
+      "title": "高市総理は「水戸の梅まつり」関係者による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-15 15:30 JST"
+      "publishedAtJst": "2026-01-16 15:35 JST"
     },
     {
       "id": "89963152d6f2",
@@ -59,33 +59,31 @@
       "publishedAtJst": "2026-01-15 09:00 JST"
     },
     {
-      "id": "6112aeaefb6c",
-      "title": "ＳＡＪ４０周年記念祝賀パーティ　高市総理ビデオメッセージ",
+      "id": "a9ebde5d5238",
+      "title": "高市総理は第８回日本医療研究開発大賞 表彰式に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-15 10:00 JST"
+      "publishedAtJst": "2026-01-16 15:00 JST"
     },
     {
-      "id": "87c8a7379079",
-      "title": "高市総理は第６６回交通安全国民運動中央大会に出席しました",
+      "id": "e61de0ae30fd",
+      "title": "高市総理はイタリア共和国のジョルジャ・メローニ首相と会談しました（２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-14 15:00 JST"
+      "publishedAtJst": "2026-01-16 12:20 JST"
     },
     {
-      "id": "fee77b336760",
-      "title": "高市総理は韓国の李在明（イ・ジェミョン）大統領と共に奈良県の法隆寺を訪問しました",
+      "id": "8d56c591a2ad",
+      "title": "高市総理はイタリア共和国のジョルジャ・メローニ首相と会談しました（１）",
       "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
+      "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-14 10:00 JST"
+      "publishedAtJst": "2026-01-16 11:30 JST"
     }
   ]
 }
