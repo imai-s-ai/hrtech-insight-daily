@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-01-18",
+  "dateKey": "2026-01-19",
   "importantPoints": [
     "最重要：Why we’re appealing the DOJ Search distribution case（A_GLOBAL）",
     "次点：高市総理は「東南アジア青年の船」参加青年代表による表敬を受けました（B_JAPAN）",
@@ -41,24 +41,6 @@
       "publishedAtJst": "2026-01-16 15:35 JST"
     },
     {
-      "id": "89963152d6f2",
-      "title": "Introducing OptiMind, a research model designed for optimization",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 03:49 JST"
-    },
-    {
-      "id": "0d54849bb01b",
-      "title": "Open Responses: What you need to know",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-15 09:00 JST"
-    },
-    {
       "id": "a9ebde5d5238",
       "title": "高市総理は第８回日本医療研究開発大賞 表彰式に出席しました",
       "category": "B_JAPAN",
@@ -84,6 +66,24 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-16 11:30 JST"
+    },
+    {
+      "id": "d79178a99032",
+      "title": "木原内閣官房長官は第１２回人身取引対策推進会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-16 10:15 JST"
+    },
+    {
+      "id": "8ebf762d0816",
+      "title": "閣議の概要／内閣府の人事について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-16 09:40 JST"
     }
   ]
 }
