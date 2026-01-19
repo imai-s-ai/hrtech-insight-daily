@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-19",
+  "dateKey": "2026-01-20",
   "importantPoints": [
-    "最重要：Why we’re appealing the DOJ Search distribution case（A_GLOBAL）",
-    "次点：高市総理は「東南アジア青年の船」参加青年代表による表敬を受けました（B_JAPAN）",
-    "注目：高市総理は「水戸の梅まつり」関係者による表敬を受けました（B_JAPAN）"
+    "最重要：高市総理は記者会見を行いました（B_JAPAN）",
+    "次点：木原内閣官房長官は第３４次地方制度調査会第１回総会に出席しました（B_JAPAN）",
+    "注目：高市総理はＦＩＦＡワールドカップ２０２６ トロフィーツアーによる表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,78 +12,49 @@
   ],
   "articles": [
     {
-      "id": "8a897018dd64",
-      "title": "Why we’re appealing the DOJ Search distribution case",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-17 06:00 JST"
-    },
-    {
-      "id": "589ad64e8e1e",
-      "title": "高市総理は「東南アジア青年の船」参加青年代表による表敬を受けました",
+      "id": "ad24eb0372a3",
+      "title": "高市総理は記者会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 17:05 JST"
+      "publishedAtJst": "2026-01-19 18:00 JST"
     },
     {
-      "id": "cfa8409eaac1",
-      "title": "高市総理は「水戸の梅まつり」関係者による表敬を受けました",
+      "id": "014912d62908",
+      "title": "木原内閣官房長官は第３４次地方制度調査会第１回総会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 15:35 JST"
+      "publishedAtJst": "2026-01-19 17:50 JST"
     },
     {
-      "id": "a9ebde5d5238",
-      "title": "高市総理は第８回日本医療研究開発大賞 表彰式に出席しました",
+      "id": "f826917e140c",
+      "title": "高市総理はＦＩＦＡワールドカップ２０２６ トロフィーツアーによる表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 15:00 JST"
+      "publishedAtJst": "2026-01-19 13:30 JST"
     },
     {
-      "id": "e61de0ae30fd",
-      "title": "高市総理はイタリア共和国のジョルジャ・メローニ首相と会談しました（２）",
+      "id": "e930cee582da",
+      "title": "高市総理は日本経済団体連合会との懇談会を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 12:20 JST"
+      "publishedAtJst": "2026-01-19 12:00 JST"
     },
     {
-      "id": "8d56c591a2ad",
-      "title": "高市総理はイタリア共和国のジョルジャ・メローニ首相と会談しました（１）",
+      "id": "e1c030c0e15c",
+      "title": "ミラノ・コルティナ２０２６オリンピック競技大会日本代表選手団壮行会　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 11:30 JST"
-    },
-    {
-      "id": "d79178a99032",
-      "title": "木原内閣官房長官は第１２回人身取引対策推進会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 10:15 JST"
-    },
-    {
-      "id": "8ebf762d0816",
-      "title": "閣議の概要／内閣府の人事について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-16 09:40 JST"
+      "publishedAtJst": "2026-01-19 10:15 JST"
     }
   ]
 }
