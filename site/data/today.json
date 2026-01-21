@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-21",
+  "dateKey": "2026-01-22",
   "importantPoints": [
-    "最重要：Building a community-led future for AI in film with Sundance Institute（A_GLOBAL）",
-    "次点：木原内閣官房長官は第９回インフラメンテナンス大賞 表彰式に出席しました（B_JAPAN）",
-    "注目：高市総理はＣＥＩＰＡ・音楽５団体合同新年賀詞交歓会に出席しました（B_JAPAN）"
+    "最重要：3 Fitbit holiday health stats to help you plan for 2026 goals（A_GLOBAL）",
+    "次点：1月21日からの大雪についての特設ページを公開しました（B_JAPAN）",
+    "注目：木原内閣官房長官は大雪に関する関係閣僚会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,78 +12,78 @@
   ],
   "articles": [
     {
-      "id": "18f3223f7b94",
-      "title": "Building a community-led future for AI in film with Sundance Institute",
+      "id": "355a62fb77f9",
+      "title": "3 Fitbit holiday health stats to help you plan for 2026 goals",
       "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-22 02:00 JST"
+    },
+    {
+      "id": "a938415fe262",
+      "title": "1月21日からの大雪についての特設ページを公開しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-21 18:30 JST"
+    },
+    {
+      "id": "913eb5dd68ff",
+      "title": "木原内閣官房長官は大雪に関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-21 17:40 JST"
+    },
+    {
+      "id": "a4ebdacc6f25",
+      "title": "Bett 2026: Celebrating the art of teaching and the science of learning",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-21 17:00 JST"
+    },
+    {
+      "id": "b3e55251abd8",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-21 05:30 JST"
-    },
-    {
-      "id": "8c8bfb2b90cd",
-      "title": "木原内閣官房長官は第９回インフラメンテナンス大賞 表彰式に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 16:30 JST"
-    },
-    {
-      "id": "1cc399cd8b69",
-      "title": "高市総理はＣＥＩＰＡ・音楽５団体合同新年賀詞交歓会に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 15:00 JST"
-    },
-    {
-      "id": "d6ae64ab3b5d",
-      "title": "Differential Transformer V2",
-      "category": "C_BIZ_AI",
-      "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 12:20 JST"
+      "publishedAtJst": "2026-01-21 15:25 JST"
     },
     {
-      "id": "787dc2960702",
-      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 09:00 JST"
-    },
-    {
-      "id": "dd58f2969a19",
-      "title": "高市総理大臣発ドゥンブヤ・ギニア共和国大統領宛就任祝意の伝達",
+      "id": "5df3d2296028",
+      "title": "１月２１日からの大雪について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 12:20 JST"
+      "publishedAtJst": "2026-01-21 16:00 JST"
     },
     {
-      "id": "66bc6d8ffadd",
-      "title": "木原内閣官房長官は「ディスカバー農山漁村（むら）の宝」交流会に出席しました",
+      "id": "bb1c8c6d7cca",
+      "title": "１月２１日からの大雪についての総理指示（１６：００）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 11:00 JST"
+      "publishedAtJst": "2026-01-21 16:00 JST"
     },
     {
-      "id": "6796359172c9",
-      "title": "閣議の概要／国務大臣、副大臣及び大臣政務官規範の一部改正／内閣官房・内閣府の見直しについて",
+      "id": "e09a13c61b99",
+      "title": "高市総理は福島県知事等による「あんぽ柿」贈呈を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-20 09:40 JST"
+      "publishedAtJst": "2026-01-21 14:40 JST"
     }
   ]
 }
