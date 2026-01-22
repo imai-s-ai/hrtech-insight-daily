@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-22",
+  "dateKey": "2026-01-23",
   "importantPoints": [
-    "最重要：3 Fitbit holiday health stats to help you plan for 2026 goals（A_GLOBAL）",
-    "次点：1月21日からの大雪についての特設ページを公開しました（B_JAPAN）",
-    "注目：木原内閣官房長官は大雪に関する関係閣僚会議を開催しました（B_JAPAN）"
+    "最重要：See the newest product features in January’s Demand Gen Drop.（A_GLOBAL）",
+    "次点：高市総理は令和８年第１回経済財政諮問会議を開催しました（B_JAPAN）",
+    "注目：高市総理は月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,31 +12,31 @@
   ],
   "articles": [
     {
-      "id": "355a62fb77f9",
-      "title": "3 Fitbit holiday health stats to help you plan for 2026 goals",
+      "id": "37e77643c8a5",
+      "title": "See the newest product features in January’s Demand Gen Drop.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-22 02:00 JST"
+      "publishedAtJst": "2026-01-23 02:00 JST"
     },
     {
-      "id": "a938415fe262",
-      "title": "1月21日からの大雪についての特設ページを公開しました",
+      "id": "94d270753209",
+      "title": "高市総理は令和８年第１回経済財政諮問会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 18:30 JST"
+      "publishedAtJst": "2026-01-22 17:45 JST"
     },
     {
-      "id": "913eb5dd68ff",
-      "title": "木原内閣官房長官は大雪に関する関係閣僚会議を開催しました",
+      "id": "788d3430414f",
+      "title": "高市総理は月例経済報告等に関する関係閣僚会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 17:40 JST"
+      "publishedAtJst": "2026-01-22 16:30 JST"
     },
     {
       "id": "a4ebdacc6f25",
@@ -59,31 +59,31 @@
       "publishedAtJst": "2026-01-21 15:25 JST"
     },
     {
-      "id": "5df3d2296028",
-      "title": "１月２１日からの大雪について",
+      "id": "4e521a512cca",
+      "title": "高市総理は日本維新の会・人口戦略としての外国人の受入れ抑制に向けた量的マネジメントの確立に関する提言を受け取りました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 16:00 JST"
+      "publishedAtJst": "2026-01-22 15:35 JST"
     },
     {
-      "id": "bb1c8c6d7cca",
-      "title": "１月２１日からの大雪についての総理指示（１６：００）",
+      "id": "e06472de836c",
+      "title": "高市総理は自由民主党・外国人政策本部による提言を受け取りました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 16:00 JST"
+      "publishedAtJst": "2026-01-22 15:20 JST"
     },
     {
-      "id": "e09a13c61b99",
-      "title": "高市総理は福島県知事等による「あんぽ柿」贈呈を受けました",
+      "id": "678b950da0a1",
+      "title": "高市総理は東京都の小池百合子（ゆりこ）知事と面会しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 14:40 JST"
+      "publishedAtJst": "2026-01-22 12:00 JST"
     }
   ]
 }
