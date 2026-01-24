@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-01-24",
+  "dateKey": "2026-01-25",
   "importantPoints": [
     "最重要：See the newest product features in January’s Demand Gen Drop.（A_GLOBAL）",
     "次点：首相官邸ホームページの偽サイトに御注意ください（注意喚起）（B_JAPAN）",
@@ -39,26 +39,6 @@
       "publishedAtJst": "2026-01-23 18:43 JST"
     },
     {
-      "id": "a4ebdacc6f25",
-      "title": "Bett 2026: Celebrating the art of teaching and the science of learning",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 17:00 JST"
-    },
-    {
-      "id": "b3e55251abd8",
-      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-21 15:25 JST"
-    },
-    {
       "id": "efa7355cb1a1",
       "title": "政府声明について",
       "category": "B_JAPAN",
@@ -84,6 +64,24 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-23 09:40 JST"
+    },
+    {
+      "id": "18779b112c2e",
+      "title": "木原内閣官房長官は第２回外国人の受入れ・秩序ある共生社会実現に関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-23 08:55 JST"
+    },
+    {
+      "id": "94d270753209",
+      "title": "高市総理は令和８年第１回経済財政諮問会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-22 17:45 JST"
     }
   ]
 }
