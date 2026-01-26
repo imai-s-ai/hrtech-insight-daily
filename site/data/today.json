@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-26",
+  "dateKey": "2026-01-27",
   "importantPoints": [
-    "最重要：首相官邸ホームページの偽サイトに御注意ください（注意喚起）（B_JAPAN）",
-    "次点：高市総理は衆議院解散についての会見を行いました（B_JAPAN）",
-    "注目：政府声明について（B_JAPAN）"
+    "最重要：How animators and AI researchers made ‘Dear Upstairs Neighbors’（A_GLOBAL）",
+    "次点：**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**（C_BIZ_AI）",
+    "注目：We’re announcing the 12 recipients of our AI for Science fund（A_GLOBAL）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,58 +12,35 @@
   ],
   "articles": [
     {
-      "id": "acdda950c905",
-      "title": "首相官邸ホームページの偽サイトに御注意ください（注意喚起）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-23 22:26 JST"
+      "id": "dbd1d99afe08",
+      "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-27 03:00 JST"
     },
     {
-      "id": "340a0df63cf7",
-      "title": "高市総理は衆議院解散についての会見を行いました",
-      "category": "B_JAPAN",
+      "id": "8482226600fd",
+      "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-23 18:43 JST"
+      "publishedAtJst": "2026-01-26 23:53 JST"
     },
     {
-      "id": "efa7355cb1a1",
-      "title": "政府声明について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-23 14:00 JST"
-    },
-    {
-      "id": "b9f78569cbb0",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-23 11:19 JST"
-    },
-    {
-      "id": "6bb7106d07b9",
-      "title": "木原内閣官房長官は第１回ＣＢＲＮＥテロ対策会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-23 09:40 JST"
-    },
-    {
-      "id": "18779b112c2e",
-      "title": "木原内閣官房長官は第２回外国人の受入れ・秩序ある共生社会実現に関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-23 08:55 JST"
+      "id": "5d9ef74fdfe5",
+      "title": "We’re announcing the 12 recipients of our AI for Science fund",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-27 02:00 JST"
     }
   ]
 }
