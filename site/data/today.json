@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-27",
+  "dateKey": "2026-01-28",
   "importantPoints": [
-    "最重要：How animators and AI researchers made ‘Dear Upstairs Neighbors’（A_GLOBAL）",
-    "次点：**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**（C_BIZ_AI）",
-    "注目：We’re announcing the 12 recipients of our AI for Science fund（A_GLOBAL）"
+    "最重要：Introducing Agentic Vision in Gemini 3 Flash（A_GLOBAL）",
+    "次点：首相官邸ホームページを装った偽サイトに関する特設ページを公開しました（B_JAPAN）",
+    "注目：高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,35 +12,84 @@
   ],
   "articles": [
     {
-      "id": "dbd1d99afe08",
-      "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+      "id": "f5897f644787",
+      "title": "Introducing Agentic Vision in Gemini 3 Flash",
       "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-28 04:00 JST"
+    },
+    {
+      "id": "7bab44b0f16d",
+      "title": "首相官邸ホームページを装った偽サイトに関する特設ページを公開しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-27 22:12 JST"
+    },
+    {
+      "id": "cd2d674369e1",
+      "title": "高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-27 16:03 JST"
+    },
+    {
+      "id": "c44613a2ec7f",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-27 03:00 JST"
-    },
-    {
-      "id": "8482226600fd",
-      "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-      "category": "C_BIZ_AI",
-      "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-26 23:53 JST"
+      "publishedAtJst": "2026-01-28 00:01 JST"
     },
     {
-      "id": "5d9ef74fdfe5",
-      "title": "We’re announcing the 12 recipients of our AI for Science fund",
+      "id": "5ba81dd8abe4",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-27 19:26 JST"
+    },
+    {
+      "id": "c7fc1b8d9366",
+      "title": "衆議院議員の総選挙についての内閣官房長官談話",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-27 09:30 JST"
+    },
+    {
+      "id": "4ac21cfaee15",
+      "title": "New developer tools for Google AI Pro and Ultra subscribers",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-27 02:00 JST"
+      "publishedAtJst": "2026-01-28 03:10 JST"
+    },
+    {
+      "id": "bf3f226baeee",
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-28 03:00 JST"
     }
   ]
 }

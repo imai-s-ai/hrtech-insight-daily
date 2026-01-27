@@ -1,54 +1,138 @@
 {
   "items": [
     {
-      "id": "dbd1d99afe08",
-      "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+      "id": "f5897f644787",
+      "title": "Introducing Agentic Vision in Gemini 3 Flash",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-01-27 03:00 JST",
+      "publishedAtJst": "2026-01-28 04:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 How animators and AI researchers made ‘Dear Upstairs Neighbors’\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DUN_poster_16x9_v02.max-600x600.format-webp.webp\">Today, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-27 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Introducing Agentic Vision in Gemini 3 Flash\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-vision-gemini-3_flash_b.max-600x600.format-webp.webp\">Agentic Vision, a new capability introduced in Gemini 3 Flash, converts image understanding from a static act into an agentic process\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/"
         }
       ]
     },
     {
-      "id": "8482226600fd",
-      "title": "**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**",
-      "category": "C_BIZ_AI",
+      "id": "7bab44b0f16d",
+      "title": "首相官邸ホームページを装った偽サイトに関する特設ページを公開しました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-01-26 23:53 JST",
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-01-27 22:12 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 **NVIDIA Earth-2 Open Models Span the Whole Weather Stack**\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-01-26 23:53 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 首相官邸ホームページを装った偽サイトに関する特設ページを公開しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-01-27 22:12 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/headline/kantei-fake-website/index.html"
+        }
+      ]
+    },
+    {
+      "id": "cd2d674369e1",
+      "title": "高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-01-27 16:03 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-01-27 16:03 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/104/discourse/20260127shiji.html"
+        }
+      ]
+    },
+    {
+      "id": "c44613a2ec7f",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-01-28 00:01 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-01-28 00:01 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/nvidia/earth-2-open-models"
+          "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2"
         }
       ]
     },
     {
-      "id": "5d9ef74fdfe5",
-      "title": "We’re announcing the 12 recipients of our AI for Science fund",
+      "id": "5ba81dd8abe4",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-01-27 19:26 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-01-27 19:26 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
+        }
+      ]
+    },
+    {
+      "id": "c7fc1b8d9366",
+      "title": "衆議院議員の総選挙についての内閣官房長官談話",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-01-27 09:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 衆議院議員の総選挙についての内閣官房長官談話\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-01-27 09:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/tyokan/104/20260127danwa.html"
+        }
+      ]
+    },
+    {
+      "id": "4ac21cfaee15",
+      "title": "New developer tools for Google AI Pro and Ultra subscribers",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-01-27 02:00 JST",
+      "publishedAtJst": "2026-01-28 03:10 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 We’re announcing the 12 recipients of our AI for Science fund\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fund_Hero.max-600x600.format-webp.webp\">A look at the 12 recipients of the first AI for Science fund.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-27 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 New developer tools for Google AI Pro and Ultra subscribers\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0029-GDP-Google-One-Announcemen.max-600x600.format-webp.webp\">Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 03:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/announcing-ai-for-science-awardees/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/"
+        }
+      ]
+    },
+    {
+      "id": "bf3f226baeee",
+      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-01-28 03:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 Google AI Plus is now available everywhere our AI plans are available, including the U.S.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\">We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are \n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/"
         }
       ]
     }
