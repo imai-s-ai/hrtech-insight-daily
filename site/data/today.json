@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-01-28",
+  "dateKey": "2026-01-29",
   "importantPoints": [
-    "最重要：Introducing Agentic Vision in Gemini 3 Flash（A_GLOBAL）",
+    "最重要：The new era of browsing: Putting Gemini to work in Chrome（A_GLOBAL）",
     "次点：首相官邸ホームページを装った偽サイトに関する特設ページを公開しました（B_JAPAN）",
     "注目：高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました（B_JAPAN）"
   ],
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "f5897f644787",
-      "title": "Introducing Agentic Vision in Gemini 3 Flash",
+      "id": "b93f744b820b",
+      "title": "The new era of browsing: Putting Gemini to work in Chrome",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-28 04:00 JST"
+      "publishedAtJst": "2026-01-29 03:00 JST"
     },
     {
       "id": "7bab44b0f16d",
@@ -39,26 +39,24 @@
       "publishedAtJst": "2026-01-27 16:03 JST"
     },
     {
-      "id": "c44613a2ec7f",
-      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "id": "05385cc77d7c",
+      "title": "The Ads Decoded Podcast",
       "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
+      "tags": [],
+      "sourceName": "Google Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-28 00:01 JST"
+      "publishedAtJst": "2026-01-28 23:00 JST"
     },
     {
-      "id": "5ba81dd8abe4",
-      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "id": "72210db09ff1",
+      "title": "Our approach to website controls for Search AI features",
       "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-27 19:26 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "Today, the UK’s Competition and Markets Authority (CMA) opened a consu…",
+      "publishedAtJst": "2026-01-28 19:00 JST"
     },
     {
       "id": "c7fc1b8d9366",
@@ -70,26 +68,26 @@
       "publishedAtJst": "2026-01-27 09:30 JST"
     },
     {
-      "id": "4ac21cfaee15",
-      "title": "New developer tools for Google AI Pro and Ultra subscribers",
+      "id": "6890083804b5",
+      "title": "We’re launching the Ads Decoded Podcast to connect advertisers with the people building Google Ads.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-28 03:10 JST"
+      "publishedAtJst": "2026-01-28 23:00 JST"
     },
     {
-      "id": "bf3f226baeee",
-      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "id": "3ff8be0e139d",
+      "title": "Ads Decoded presents three AI strategies to master the future of marketing in 2026.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-28 03:00 JST"
+      "publishedAtJst": "2026-01-28 23:00 JST"
     }
   ]
 }

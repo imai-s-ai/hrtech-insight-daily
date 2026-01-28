@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "id": "f5897f644787",
-      "title": "Introducing Agentic Vision in Gemini 3 Flash",
+      "id": "b93f744b820b",
+      "title": "The new era of browsing: Putting Gemini to work in Chrome",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-01-28 04:00 JST",
+      "publishedAtJst": "2026-01-29 03:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Introducing Agentic Vision in Gemini 3 Flash\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-vision-gemini-3_flash_b.max-600x600.format-webp.webp\">Agentic Vision, a new capability introduced in Gemini 3 Flash, converts image understanding from a static act into an agentic process\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 The new era of browsing: Putting Gemini to work in Chrome\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/chrome_rollercoaster.max-600x600.format-webp.webp\">Learn more about new agentic capabilities coming to Chrome, powered by Gemini 3.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-29 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/"
+          "url": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/"
         }
       ]
     },
@@ -49,38 +49,36 @@
       ]
     },
     {
-      "id": "c44613a2ec7f",
-      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "id": "05385cc77d7c",
+      "title": "The Ads Decoded Podcast",
       "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-01-28 00:01 JST",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-01-28 23:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-01-28 00:01 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 The Ads Decoded Podcast\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2"
+          "name": "Google Blog",
+          "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-collection/"
         }
       ]
     },
     {
-      "id": "5ba81dd8abe4",
-      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "id": "72210db09ff1",
+      "title": "Our approach to website controls for Search AI features",
       "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-01-27 19:26 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-01-27 19:26 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-01-28 19:00 JST",
+      "summaryShort": "Today, the UK’s Competition and Markets Authority (CMA) opened a consu…",
+      "summaryFull": "――――――――――\n📰 Our approach to website controls for Search AI features\n\n■ 概要（3行以内）\n・Today, the UK’s Competition and Markets Authority (CMA) opened a consultation on potential new requirements for Google Search, including on the controls we provide to we…\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 19:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/search-ai-features-controls/"
         }
       ]
     },
@@ -101,38 +99,38 @@
       ]
     },
     {
-      "id": "4ac21cfaee15",
-      "title": "New developer tools for Google AI Pro and Ultra subscribers",
+      "id": "6890083804b5",
+      "title": "We’re launching the Ads Decoded Podcast to connect advertisers with the people building Google Ads.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-01-28 03:10 JST",
+      "publishedAtJst": "2026-01-28 23:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 New developer tools for Google AI Pro and Ultra subscribers\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0029-GDP-Google-One-Announcemen.max-600x600.format-webp.webp\">Google Developer Program (GDP) premium benefits are now included in Google AI Pro and Google AI Ultra.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 03:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 We’re launching the Ads Decoded Podcast to connect advertisers with the people building Google Ads.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Cover.max-600x600.format-webp.webp\">See the trailer for the new Ads Decoded podcast, a bridge between marketers and the product teams behind Google Ads.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gdp-premium-ai-pro-ultra/"
+          "url": "https://blog.google/products/ads-commerce/launching-ads-decoded-podcast/"
         }
       ]
     },
     {
-      "id": "bf3f226baeee",
-      "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+      "id": "3ff8be0e139d",
+      "title": "Ads Decoded presents three AI strategies to master the future of marketing in 2026.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-01-28 03:00 JST",
+      "publishedAtJst": "2026-01-28 23:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Google AI Plus is now available everywhere our AI plans are available, including the U.S.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Plus_Hero_Visual_2096.max-600x600.format-webp_4ffr2GI.webp\">We’re launching Google AI Plus in 35 new countries and territories including the US, making it available everywhere Google AI plans are \n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Ads Decoded presents three AI strategies to master the future of marketing in 2026.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/decodedTakeaways_Social.max-600x600.format-webp.webp\">A look at three AI strategies to master the future of marketing in 2026.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-01-28 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/"
+          "url": "https://blog.google/products/ads-commerce/ai-strategies-master-marketing-2026/"
         }
       ]
     }
