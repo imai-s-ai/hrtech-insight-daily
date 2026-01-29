@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-29",
+  "dateKey": "2026-01-30",
   "importantPoints": [
-    "最重要：The new era of browsing: Putting Gemini to work in Chrome（A_GLOBAL）",
-    "次点：首相官邸ホームページを装った偽サイトに関する特設ページを公開しました（B_JAPAN）",
-    "注目：高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました（B_JAPAN）"
+    "最重要：Project Genie: Experimenting with infinite, interactive worlds（A_GLOBAL）",
+    "次点：木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました（B_JAPAN）",
+    "注目：首相官邸ホームページを装った偽サイトに関する特設ページを公開しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,24 @@
   ],
   "articles": [
     {
-      "id": "b93f744b820b",
-      "title": "The new era of browsing: Putting Gemini to work in Chrome",
+      "id": "a024414bce3c",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-29 03:00 JST"
+      "publishedAtJst": "2026-01-30 02:00 JST"
+    },
+    {
+      "id": "52baaeadc6dc",
+      "title": "木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-29 10:30 JST"
     },
     {
       "id": "7bab44b0f16d",
@@ -30,6 +41,26 @@
       "publishedAtJst": "2026-01-27 22:12 JST"
     },
     {
+      "id": "698e108810af",
+      "title": "TAG Bulletin: Q4 2025",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "An overview of coordinated influence operation campaigns terminated on…",
+      "publishedAtJst": "2026-01-30 04:30 JST"
+    },
+    {
+      "id": "29ea826f2ab2",
+      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-30 02:03 JST"
+    },
+    {
       "id": "cd2d674369e1",
       "title": "高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました",
       "category": "B_JAPAN",
@@ -37,26 +68,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-27 16:03 JST"
-    },
-    {
-      "id": "05385cc77d7c",
-      "title": "The Ads Decoded Podcast",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-28 23:00 JST"
-    },
-    {
-      "id": "72210db09ff1",
-      "title": "Our approach to website controls for Search AI features",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "Today, the UK’s Competition and Markets Authority (CMA) opened a consu…",
-      "publishedAtJst": "2026-01-28 19:00 JST"
     },
     {
       "id": "c7fc1b8d9366",
@@ -68,26 +79,15 @@
       "publishedAtJst": "2026-01-27 09:30 JST"
     },
     {
-      "id": "6890083804b5",
-      "title": "We’re launching the Ads Decoded Podcast to connect advertisers with the people building Google Ads.",
+      "id": "935c43cb30ce",
+      "title": "Gemini in navigation is now available for walking and cycling in Google Maps.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-28 23:00 JST"
-    },
-    {
-      "id": "3ff8be0e139d",
-      "title": "Ads Decoded presents three AI strategies to master the future of marketing in 2026.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-28 23:00 JST"
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ori…",
+      "publishedAtJst": "2026-01-29 23:30 JST"
     }
   ]
 }
