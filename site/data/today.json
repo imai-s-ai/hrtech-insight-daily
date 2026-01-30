@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-30",
+  "dateKey": "2026-01-31",
   "importantPoints": [
-    "最重要：Project Genie: Experimenting with infinite, interactive worlds（A_GLOBAL）",
+    "最重要：Music meets rewards: The Google Play Rewards Tour takes LA（A_GLOBAL）",
     "次点：木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました（B_JAPAN）",
-    "注目：首相官邸ホームページを装った偽サイトに関する特設ページを公開しました（B_JAPAN）"
+    "注目：TAG Bulletin: Q4 2025（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,13 @@
   ],
   "articles": [
     {
-      "id": "a024414bce3c",
-      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "id": "04b7f051a89f",
+      "title": "Music meets rewards: The Google Play Rewards Tour takes LA",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-30 02:00 JST"
+      "publishedAtJst": "2026-01-31 03:00 JST"
     },
     {
       "id": "52baaeadc6dc",
@@ -30,15 +28,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-01-29 10:30 JST"
-    },
-    {
-      "id": "7bab44b0f16d",
-      "title": "首相官邸ホームページを装った偽サイトに関する特設ページを公開しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-27 22:12 JST"
     },
     {
       "id": "698e108810af",
@@ -52,31 +41,42 @@
       "publishedAtJst": "2026-01-30 04:30 JST"
     },
     {
-      "id": "29ea826f2ab2",
-      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+      "id": "05385cc77d7c",
+      "title": "The Ads Decoded Podcast",
       "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "Google Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-30 02:03 JST"
+      "publishedAtJst": "2026-01-28 23:00 JST"
     },
     {
-      "id": "cd2d674369e1",
-      "title": "高市総理は北朝鮮による弾道ミサイルの可能性があるものの発射事案について指示を行いました",
-      "category": "B_JAPAN",
+      "id": "3a3043a7dbff",
+      "title": "Find out what’s new in the Gemini app in January's Gemini Drop.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-27 16:03 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-31 02:00 JST"
     },
     {
-      "id": "c7fc1b8d9366",
-      "title": "衆議院議員の総選挙についての内閣官房長官談話",
-      "category": "B_JAPAN",
+      "id": "aa1428a94d0a",
+      "title": "Here’s how we disrupted a massive, malicious proxy network.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-27 09:30 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-31 01:00 JST"
+    },
+    {
+      "id": "a024414bce3c",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-30 02:00 JST"
     },
     {
       "id": "935c43cb30ce",
