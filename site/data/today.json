@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-01-31",
+  "dateKey": "2026-02-01",
   "importantPoints": [
     "最重要：Music meets rewards: The Google Play Rewards Tour takes LA（A_GLOBAL）",
-    "次点：木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました（B_JAPAN）",
-    "注目：TAG Bulletin: Q4 2025（C_BIZ_AI）"
+    "次点：高市総理は英国のキア・スターマー首相と首脳会談を行いました（２）（B_JAPAN）",
+    "注目：高市総理は英国のキア・スターマー首相と首脳会談を行いました（１）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,13 +21,22 @@
       "publishedAtJst": "2026-01-31 03:00 JST"
     },
     {
-      "id": "52baaeadc6dc",
-      "title": "木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました",
+      "id": "82c717b58c58",
+      "title": "高市総理は英国のキア・スターマー首相と首脳会談を行いました（２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-29 10:30 JST"
+      "publishedAtJst": "2026-01-31 20:10 JST"
+    },
+    {
+      "id": "42f3d0af477d",
+      "title": "高市総理は英国のキア・スターマー首相と首脳会談を行いました（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-31 19:30 JST"
     },
     {
       "id": "698e108810af",
@@ -41,13 +50,22 @@
       "publishedAtJst": "2026-01-30 04:30 JST"
     },
     {
-      "id": "05385cc77d7c",
-      "title": "The Ads Decoded Podcast",
+      "id": "29ea826f2ab2",
+      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
       "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "Google Blog",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-28 23:00 JST"
+      "publishedAtJst": "2026-01-30 02:03 JST"
+    },
+    {
+      "id": "52baaeadc6dc",
+      "title": "木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-01-29 10:30 JST"
     },
     {
       "id": "3a3043a7dbff",
@@ -66,28 +84,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-01-31 01:00 JST"
-    },
-    {
-      "id": "a024414bce3c",
-      "title": "Project Genie: Experimenting with infinite, interactive worlds",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-30 02:00 JST"
-    },
-    {
-      "id": "935c43cb30ce",
-      "title": "Gemini in navigation is now available for walking and cycling in Google Maps.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ori…",
-      "publishedAtJst": "2026-01-29 23:30 JST"
     }
   ]
 }
