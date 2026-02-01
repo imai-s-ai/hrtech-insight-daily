@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-02-01",
+  "dateKey": "2026-02-02",
   "importantPoints": [
-    "最重要：Music meets rewards: The Google Play Rewards Tour takes LA（A_GLOBAL）",
+    "最重要：We're celebrating Black history, culture and creativity.（A_GLOBAL）",
     "次点：高市総理は英国のキア・スターマー首相と首脳会談を行いました（２）（B_JAPAN）",
     "注目：高市総理は英国のキア・スターマー首相と首脳会談を行いました（１）（B_JAPAN）"
   ],
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "04b7f051a89f",
-      "title": "Music meets rewards: The Google Play Rewards Tour takes LA",
+      "id": "a6cf7a1d292e",
+      "title": "We're celebrating Black history, culture and creativity.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-31 03:00 JST"
+      "publishedAtJst": "2026-02-01 20:06 JST"
     },
     {
       "id": "82c717b58c58",
@@ -39,33 +39,13 @@
       "publishedAtJst": "2026-01-31 19:30 JST"
     },
     {
-      "id": "698e108810af",
-      "title": "TAG Bulletin: Q4 2025",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
+      "id": "04b7f051a89f",
+      "title": "Music meets rewards: The Google Play Rewards Tour takes LA",
+      "category": "A_GLOBAL",
+      "tags": [],
       "sourceName": "Google Blog",
-      "summaryShort": "An overview of coordinated influence operation campaigns terminated on…",
-      "publishedAtJst": "2026-01-30 04:30 JST"
-    },
-    {
-      "id": "29ea826f2ab2",
-      "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-30 02:03 JST"
-    },
-    {
-      "id": "52baaeadc6dc",
-      "title": "木原内閣官房長官は「ノウフク・アワード２０２５」表彰式にビデオメッセージを発出しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-01-29 10:30 JST"
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-01-31 03:00 JST"
     },
     {
       "id": "3a3043a7dbff",
