@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-02",
+  "dateKey": "2026-02-03",
   "importantPoints": [
-    "最重要：We're celebrating Black history, culture and creativity.（A_GLOBAL）",
-    "次点：高市総理は英国のキア・スターマー首相と首脳会談を行いました（２）（B_JAPAN）",
-    "注目：高市総理は英国のキア・スターマー首相と首脳会談を行いました（１）（B_JAPAN）"
+    "最重要：How we’re helping preserve the genetic information of endangered species with AI（A_GLOBAL）",
+    "次点：サイバーセキュリティ月間における高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：高市総理は英国のキア・スターマー首相と首脳会談を行いました（２）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,24 @@
   ],
   "articles": [
     {
-      "id": "a6cf7a1d292e",
-      "title": "We're celebrating Black history, culture and creativity.",
+      "id": "f95fc1287dbb",
+      "title": "How we’re helping preserve the genetic information of endangered species with AI",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-01 20:06 JST"
+      "publishedAtJst": "2026-02-03 03:00 JST"
+    },
+    {
+      "id": "6849dbb1974d",
+      "title": "サイバーセキュリティ月間における高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-02 18:30 JST"
     },
     {
       "id": "82c717b58c58",
@@ -39,31 +50,33 @@
       "publishedAtJst": "2026-01-31 19:30 JST"
     },
     {
-      "id": "04b7f051a89f",
-      "title": "Music meets rewards: The Google Play Rewards Tour takes LA",
+      "id": "3b7c2548b871",
+      "title": "Advancing AI benchmarking with Game Arena",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-31 03:00 JST"
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ori…",
+      "publishedAtJst": "2026-02-03 02:00 JST"
     },
     {
-      "id": "3a3043a7dbff",
-      "title": "Find out what’s new in the Gemini app in January's Gemini Drop.",
+      "id": "dd5f381143e2",
+      "title": "10 ways to plan your 2026 budget with Gemini",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-31 02:00 JST"
+      "publishedAtJst": "2026-02-03 01:00 JST"
     },
     {
-      "id": "aa1428a94d0a",
-      "title": "Here’s how we disrupted a massive, malicious proxy network.",
+      "id": "a6cf7a1d292e",
+      "title": "We're celebrating Black history, culture and creativity.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-01-31 01:00 JST"
+      "publishedAtJst": "2026-02-01 20:06 JST"
     }
   ]
 }
