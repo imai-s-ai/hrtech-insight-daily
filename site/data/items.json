@@ -1,18 +1,20 @@
 {
   "items": [
     {
-      "id": "b2f67d6fe29d",
-      "title": "Draw with the World’s Wind: Artist Jitish Kallat makes the invisible visible",
+      "id": "f5a33177b778",
+      "title": "Q4 earnings call: Remarks from our CEO",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-03 19:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Draw with the World’s Wind: Artist Jitish Kallat makes the invisible visible\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Artboard_1.max-600x600.format-webp.webp\">Wind Study (Hilbert Curve) is a new interactive experience from Google Arts & Culture that takes you inside artist Jitish Kallat’s work.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-03 19:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "publishedAtJst": "2026-02-05 07:25 JST",
+      "summaryShort": "Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings ca…",
+      "summaryFull": "――――――――――\n📰 Q4 earnings call: Remarks from our CEO\n\n■ 概要（3行以内）\n・Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-05 07:25 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/wind-study-hilbert-curve/"
+          "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/"
         }
       ]
     },
@@ -49,6 +51,24 @@
       ]
     },
     {
+      "id": "53ee9a9e540a",
+      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-02-05 00:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-02-05 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2"
+        }
+      ]
+    },
+    {
       "id": "2e3c21398d9c",
       "title": "H Company's new Holo2 model takes the lead in UI Localization",
       "category": "C_BIZ_AI",
@@ -61,24 +81,6 @@
         {
           "name": "Hugging Face Blog",
           "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
-        }
-      ]
-    },
-    {
-      "id": "4ef281278407",
-      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-02-04 00:03 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-02-04 00:03 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
         }
       ]
     },
@@ -115,18 +117,20 @@
       ]
     },
     {
-      "id": "bc10af74d7b2",
-      "title": "Here’s how to tune into the Winter Olympics with Google",
+      "id": "86d4a18f89c2",
+      "title": "The latest AI news we announced in January",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-03 17:00 JST",
+      "publishedAtJst": "2026-02-05 01:55 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Here’s how to tune into the Winter Olympics with Google\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Winterolympics_02_2096X118.max-600x600.format-webp.webp\">Learn more about using Google tools to stay in the know on the 2026 Winter Olympics.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-03 17:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 The latest AI news we announced in January\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LatestAI_v5.max-600x600.format-webp.webp\">Google AI announcements from January\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-05 01:55 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/winter-olympics-2026/"
+          "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/"
         }
       ]
     }
