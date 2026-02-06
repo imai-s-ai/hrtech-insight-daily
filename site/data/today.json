@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-06",
+  "dateKey": "2026-02-07",
   "importantPoints": [
-    "最重要：Natively Adaptive Interfaces: A new framework for AI accessibility（A_GLOBAL）",
+    "最重要：The quantum era is coming. Are we ready to secure it?（A_GLOBAL）",
     "次点：高市総理はシーシー・ウェイ・ＴＳＭＣ会長兼ＣＥＯによる表敬を受けました（B_JAPAN）",
-    "注目：高市総理はネパールのラムチャンドラ・ポーデル大統領と会談を行いました（B_JAPAN）"
+    "注目：Introducing SyGra Studio（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,13 @@
   ],
   "articles": [
     {
-      "id": "daae96d0a807",
-      "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+      "id": "38a7e2fd459f",
+      "title": "The quantum era is coming. Are we ready to secure it?",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-06 02:00 JST"
+      "publishedAtJst": "2026-02-07 07:15 JST"
     },
     {
       "id": "d04d27d6cc1e",
@@ -30,15 +28,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-05 11:00 JST"
-    },
-    {
-      "id": "6cc400692998",
-      "title": "高市総理はネパールのラムチャンドラ・ポーデル大統領と会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-03 18:30 JST"
     },
     {
       "id": "f54671b0bef5",
@@ -61,13 +50,15 @@
       "publishedAtJst": "2026-02-05 00:00 JST"
     },
     {
-      "id": "dec5cdb8f979",
-      "title": "閣議の概要／ムハンマド・アラブ首長国連邦大統領の訪日延期について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-03 10:00 JST"
+      "id": "daae96d0a807",
+      "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-06 02:00 JST"
     },
     {
       "id": "b5044626874c",
@@ -90,6 +81,17 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-02-05 23:30 JST"
+    },
+    {
+      "id": "f5a33177b778",
+      "title": "Q4 earnings call: Remarks from our CEO",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings ca…",
+      "publishedAtJst": "2026-02-05 07:25 JST"
     }
   ]
 }
