@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-07",
+  "dateKey": "2026-02-08",
   "importantPoints": [
     "最重要：The quantum era is coming. Are we ready to secure it?（A_GLOBAL）",
-    "次点：高市総理はシーシー・ウェイ・ＴＳＭＣ会長兼ＣＥＯによる表敬を受けました（B_JAPAN）",
-    "注目：Introducing SyGra Studio（C_BIZ_AI）"
+    "次点：高市総理は北方領土返還要求全国大会に出席しました（B_JAPAN）",
+    "注目：高市総理はシーシー・ウェイ・ＴＳＭＣ会長兼ＣＥＯによる表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -19,6 +19,15 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-02-07 07:15 JST"
+    },
+    {
+      "id": "1534b12b8967",
+      "title": "高市総理は北方領土返還要求全国大会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-07 12:15 JST"
     },
     {
       "id": "d04d27d6cc1e",
@@ -37,17 +46,6 @@
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-06 01:52 JST"
-    },
-    {
-      "id": "53ee9a9e540a",
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-05 00:00 JST"
     },
     {
       "id": "daae96d0a807",
@@ -81,17 +79,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-02-05 23:30 JST"
-    },
-    {
-      "id": "f5a33177b778",
-      "title": "Q4 earnings call: Remarks from our CEO",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings ca…",
-      "publishedAtJst": "2026-02-05 07:25 JST"
     }
   ]
 }

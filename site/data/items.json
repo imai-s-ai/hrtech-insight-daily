@@ -17,6 +17,22 @@
       ]
     },
     {
+      "id": "1534b12b8967",
+      "title": "高市総理は北方領土返還要求全国大会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-02-07 12:15 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は北方領土返還要求全国大会に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-02-07 12:15 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/104/actions/202602/07hoppou.html"
+        }
+      ]
+    },
+    {
       "id": "d04d27d6cc1e",
       "title": "高市総理はシーシー・ウェイ・ＴＳＭＣ会長兼ＣＥＯによる表敬を受けました",
       "category": "B_JAPAN",
@@ -45,24 +61,6 @@
         {
           "name": "Hugging Face Blog",
           "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio"
-        }
-      ]
-    },
-    {
-      "id": "53ee9a9e540a",
-      "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-02-05 00:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-02-05 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2"
         }
       ]
     },
@@ -117,24 +115,6 @@
         {
           "name": "Google Blog",
           "url": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/"
-        }
-      ]
-    },
-    {
-      "id": "f5a33177b778",
-      "title": "Q4 earnings call: Remarks from our CEO",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-05 07:25 JST",
-      "summaryShort": "Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings ca…",
-      "summaryFull": "――――――――――\n📰 Q4 earnings call: Remarks from our CEO\n\n■ 概要（3行以内）\n・Read CEO Sundar Pichai’s remarks from the Alphabet Q4 2025 earnings call.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-05 07:25 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/"
         }
       ]
     }
