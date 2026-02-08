@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-08",
+  "dateKey": "2026-02-09",
   "importantPoints": [
     "最重要：The quantum era is coming. Are we ready to secure it?（A_GLOBAL）",
-    "次点：高市総理は北方領土返還要求全国大会に出席しました（B_JAPAN）",
-    "注目：高市総理はシーシー・ウェイ・ＴＳＭＣ会長兼ＣＥＯによる表敬を受けました（B_JAPAN）"
+    "次点：高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました（B_JAPAN）",
+    "注目：高市総理は北方領土返還要求全国大会に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,17 @@
       "publishedAtJst": "2026-02-07 07:15 JST"
     },
     {
+      "id": "9c06def95c93",
+      "title": "高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました",
+      "category": "B_JAPAN",
+      "tags": [
+        "広告・マーケ"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-08 20:50 JST"
+    },
+    {
       "id": "1534b12b8967",
       "title": "高市総理は北方領土返還要求全国大会に出席しました",
       "category": "B_JAPAN",
@@ -28,57 +39,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-07 12:15 JST"
-    },
-    {
-      "id": "d04d27d6cc1e",
-      "title": "高市総理はシーシー・ウェイ・ＴＳＭＣ会長兼ＣＥＯによる表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-05 11:00 JST"
-    },
-    {
-      "id": "f54671b0bef5",
-      "title": "Introducing SyGra Studio",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-06 01:52 JST"
-    },
-    {
-      "id": "daae96d0a807",
-      "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-06 02:00 JST"
-    },
-    {
-      "id": "b5044626874c",
-      "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-06 01:00 JST"
-    },
-    {
-      "id": "e93ca455975a",
-      "title": "Watch our new Gemini ad ahead of football’s biggest weekend",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-05 23:30 JST"
     }
   ]
 }
