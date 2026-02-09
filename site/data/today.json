@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-02-09",
+  "dateKey": "2026-02-10",
   "importantPoints": [
-    "最重要：The quantum era is coming. Are we ready to secure it?（A_GLOBAL）",
+    "最重要：Here’s how we’re marking Safer Internet Day in the UK.（A_GLOBAL）",
     "次点：高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました（B_JAPAN）",
     "注目：高市総理は北方領土返還要求全国大会に出席しました（B_JAPAN）"
   ],
@@ -12,13 +12,13 @@
   ],
   "articles": [
     {
-      "id": "38a7e2fd459f",
-      "title": "The quantum era is coming. Are we ready to secure it?",
+      "id": "b949c0f07ac8",
+      "title": "Here’s how we’re marking Safer Internet Day in the UK.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-07 07:15 JST"
+      "publishedAtJst": "2026-02-10 06:00 JST"
     },
     {
       "id": "9c06def95c93",
@@ -39,6 +39,28 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-07 12:15 JST"
+    },
+    {
+      "id": "3f12cf518fa5",
+      "title": "Transformers.js v4 Preview: Now Available on NPM!",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-09 09:00 JST"
+    },
+    {
+      "id": "dcfd715fe4b5",
+      "title": "Safer Internet Day: 5 tips for safe, effective learning",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-10 06:00 JST"
     }
   ]
 }
