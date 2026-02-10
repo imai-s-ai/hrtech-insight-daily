@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-10",
+  "dateKey": "2026-02-11",
   "importantPoints": [
-    "最重要：Here’s how we’re marking Safer Internet Day in the UK.（A_GLOBAL）",
-    "次点：高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました（B_JAPAN）",
-    "注目：高市総理は北方領土返還要求全国大会に出席しました（B_JAPAN）"
+    "最重要：9 fun questions to try asking Google Photos（A_GLOBAL）",
+    "次点：「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージ（B_JAPAN）",
+    "注目：「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージについて（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,31 @@
   ],
   "articles": [
     {
-      "id": "b949c0f07ac8",
-      "title": "Here’s how we’re marking Safer Internet Day in the UK.",
+      "id": "78d3a7d6df5f",
+      "title": "9 fun questions to try asking Google Photos",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-10 06:00 JST"
+      "publishedAtJst": "2026-02-11 02:00 JST"
     },
     {
-      "id": "9c06def95c93",
-      "title": "高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました",
-      "category": "B_JAPAN",
-      "tags": [
-        "広告・マーケ"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-08 20:50 JST"
-    },
-    {
-      "id": "1534b12b8967",
-      "title": "高市総理は北方領土返還要求全国大会に出席しました",
+      "id": "b8845c8f0ee6",
+      "title": "「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-07 12:15 JST"
+      "publishedAtJst": "2026-02-10 16:30 JST"
+    },
+    {
+      "id": "c5626182f7d3",
+      "title": "「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージについて",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-10 16:26 JST"
     },
     {
       "id": "3f12cf518fa5",
@@ -52,15 +50,42 @@
       "publishedAtJst": "2026-02-09 09:00 JST"
     },
     {
-      "id": "dcfd715fe4b5",
-      "title": "Safer Internet Day: 5 tips for safe, effective learning",
-      "category": "A_GLOBAL",
+      "id": "43390685c290",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-10 11:00 JST"
+    },
+    {
+      "id": "9c06def95c93",
+      "title": "高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました",
+      "category": "B_JAPAN",
       "tags": [
-        "生成AI"
+        "広告・マーケ"
       ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-08 20:50 JST"
+    },
+    {
+      "id": "3d7f143177b4",
+      "title": "Fitbit’s personal health coach is expanding to more people in public preview.",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "Fitbit’s personal health coach experience is expanding to more people …",
+      "publishedAtJst": "2026-02-11 02:00 JST"
+    },
+    {
+      "id": "16e4e608d42e",
+      "title": "A simpler way to remove explicit images from Search",
+      "category": "A_GLOBAL",
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-10 06:00 JST"
+      "publishedAtJst": "2026-02-10 23:00 JST"
     }
   ]
 }
