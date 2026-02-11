@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-02-11",
+  "dateKey": "2026-02-12",
   "importantPoints": [
-    "最重要：9 fun questions to try asking Google Photos（A_GLOBAL）",
+    "最重要：Is your campaign structure holding you back in the era of AI?（A_GLOBAL）",
     "次点：「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージ（B_JAPAN）",
     "注目：「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージについて（B_JAPAN）"
   ],
@@ -12,13 +12,15 @@
   ],
   "articles": [
     {
-      "id": "78d3a7d6df5f",
-      "title": "9 fun questions to try asking Google Photos",
+      "id": "a7c856388396",
+      "title": "Is your campaign structure holding you back in the era of AI?",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-11 02:00 JST"
+      "publishedAtJst": "2026-02-12 07:00 JST"
     },
     {
       "id": "b8845c8f0ee6",
@@ -59,15 +61,22 @@
       "publishedAtJst": "2026-02-10 11:00 JST"
     },
     {
-      "id": "9c06def95c93",
-      "title": "高市総理はミラノ・コルティナ２０２６オリンピックで金メダルを獲得した木村葵来選手へお祝いの電話をかけました",
-      "category": "B_JAPAN",
-      "tags": [
-        "広告・マーケ"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-08 20:50 JST"
+      "id": "34f2a104c5b4",
+      "title": "What to expect in digital advertising and commerce in 2026",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-12 01:00 JST"
+    },
+    {
+      "id": "78d3a7d6df5f",
+      "title": "9 fun questions to try asking Google Photos",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-11 02:00 JST"
     },
     {
       "id": "3d7f143177b4",
@@ -77,15 +86,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "Fitbit’s personal health coach experience is expanding to more people …",
       "publishedAtJst": "2026-02-11 02:00 JST"
-    },
-    {
-      "id": "16e4e608d42e",
-      "title": "A simpler way to remove explicit images from Search",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-10 23:00 JST"
     }
   ]
 }
