@@ -1,20 +1,18 @@
 {
   "items": [
     {
-      "id": "a7c856388396",
-      "title": "Is your campaign structure holding you back in the era of AI?",
+      "id": "59ff762820f3",
+      "title": "3 ways you can use Pixel for translation help this Lunar Year.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-12 07:00 JST",
+      "publishedAtJst": "2026-02-13 02:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Is your campaign structure holding you back in the era of AI?\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S1E2.max-600x600.format-webp.webp\">For years, the gold standard in Search ads was granularity. Advertisers built elaborate, multi-layered campaigns to cover every variable, from match types to device bids…\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-12 07:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 3 ways you can use Pixel for translation help this Lunar Year.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_social_SOzf361.max-600x600.format-webp.webp\">Lunar New Year is approaching, and 2026 is the Year of the Horse. Whether you’re traveling for the holiday or connecting with loved ones overseas, lang\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-13 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/"
+          "url": "https://blog.google/products-and-platforms/devices/pixel/lunar-new-year-2026-translation-tools/"
         }
       ]
     },
@@ -51,20 +49,18 @@
       ]
     },
     {
-      "id": "3f12cf518fa5",
-      "title": "Transformers.js v4 Preview: Now Available on NPM!",
+      "id": "4ca3f118d865",
+      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
       "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-02-09 09:00 JST",
+      "publishedAtJst": "2026-02-12 09:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Transformers.js v4 Preview: Now Available on NPM!\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-02-09 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-02-12 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/transformersjs-v4"
+          "url": "https://huggingface.co/blog/openenv-turing"
         }
       ]
     },
@@ -85,50 +81,54 @@
       ]
     },
     {
-      "id": "34f2a104c5b4",
-      "title": "What to expect in digital advertising and commerce in 2026",
+      "id": "746e2ce6afae",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-12 01:00 JST",
+      "publishedAtJst": "2026-02-13 01:13 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 What to expect in digital advertising and commerce in 2026\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Retouched_Final_copy.max-600x600.format-webp.webp\">Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-12 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Gemini 3 Deep Think: Advancing science, research and engineering\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_keyword_hea.max-600x600.format-webp.webp\">We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-13 01:13 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/"
         }
       ]
     },
     {
-      "id": "78d3a7d6df5f",
-      "title": "9 fun questions to try asking Google Photos",
+      "id": "8ae53a17bd6a",
+      "title": "Our new report details the latest ways threat actors are misusing AI.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-11 02:00 JST",
+      "publishedAtJst": "2026-02-13 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 9 fun questions to try asking Google Photos\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_hero.max-600x600.format-webp.webp\">Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-11 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Our new report details the latest ways threat actors are misusing AI.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp\">Learn more about how threat actors are misusing AI, and what Google is doing to stop it.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-13 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/"
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/"
         }
       ]
     },
     {
-      "id": "3d7f143177b4",
-      "title": "Fitbit’s personal health coach is expanding to more people in public preview.",
+      "id": "1045d538fabe",
+      "title": "3 new experiences bridging AI with India’s timeless heritage",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-11 02:00 JST",
-      "summaryShort": "Fitbit’s personal health coach experience is expanding to more people …",
-      "summaryFull": "――――――――――\n📰 Fitbit’s personal health coach is expanding to more people in public preview.\n\n■ 概要（3行以内）\n・Fitbit’s personal health coach experience is expanding to more people around the world.Starting today and over the next few weeks, the personal health coach (which is al…\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-11 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "publishedAtJst": "2026-02-12 19:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 3 new experiences bridging AI with India’s timeless heritage\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MovingScripts_UI_Hindi_01.max-600x600.format-webp.webp\">Ahead of the India AI Summit, Google Arts & Culture is releasing new experiences that delve into India’s cultural heritage.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-12 19:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/devices/fitbit/personal-health-coach-expansion/"
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/india-ai-creativity/"
         }
       ]
     }
