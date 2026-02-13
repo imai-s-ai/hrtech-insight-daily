@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-13",
+  "dateKey": "2026-02-14",
   "importantPoints": [
-    "最重要：3 ways you can use Pixel for translation help this Lunar Year.（A_GLOBAL）",
-    "次点：「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージ（B_JAPAN）",
-    "注目：「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージについて（B_JAPAN）"
+    "最重要：5 ways Gemini can help students work smarter（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：ミラノ・コルティナ２０２６パラリンピック競技大会日本代表選手団結団式　高市総理ビデオメッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,31 +12,40 @@
   ],
   "articles": [
     {
-      "id": "59ff762820f3",
-      "title": "3 ways you can use Pixel for translation help this Lunar Year.",
+      "id": "d197ac30c995",
+      "title": "5 ways Gemini can help students work smarter",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-13 02:00 JST"
+      "publishedAtJst": "2026-02-14 03:00 JST"
     },
     {
-      "id": "b8845c8f0ee6",
-      "title": "「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージ",
+      "id": "ca30fb56aa3f",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-10 16:30 JST"
+      "publishedAtJst": "2026-02-13 09:40 JST"
     },
     {
-      "id": "c5626182f7d3",
-      "title": "「建国記念の日」を迎えるに当たっての内閣総理大臣メッセージについて",
+      "id": "500d76442c0c",
+      "title": "ミラノ・コルティナ２０２６パラリンピック競技大会日本代表選手団結団式　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-10 16:26 JST"
+      "publishedAtJst": "2026-02-12 18:30 JST"
+    },
+    {
+      "id": "835809aa0dbe",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-13 09:00 JST"
     },
     {
       "id": "4ca3f118d865",
@@ -48,44 +57,33 @@
       "publishedAtJst": "2026-02-12 09:00 JST"
     },
     {
-      "id": "43390685c290",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-10 11:00 JST"
-    },
-    {
-      "id": "746e2ce6afae",
-      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-13 01:13 JST"
-    },
-    {
-      "id": "8ae53a17bd6a",
-      "title": "Our new report details the latest ways threat actors are misusing AI.",
+      "id": "7f2c2367afa2",
+      "title": "Take a look at these incredible photos from Lunar New Year celebrations.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-13 01:00 JST"
+      "publishedAtJst": "2026-02-14 01:00 JST"
     },
     {
-      "id": "1045d538fabe",
-      "title": "3 new experiences bridging AI with India’s timeless heritage",
+      "id": "be6915d68479",
+      "title": "Cybersecurity founders: Apply now for the Google for Startups Gemini Startup Forum.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-12 19:00 JST"
+      "publishedAtJst": "2026-02-13 17:00 JST"
+    },
+    {
+      "id": "59ff762820f3",
+      "title": "3 ways you can use Pixel for translation help this Lunar Year.",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-13 02:00 JST"
     }
   ]
 }
