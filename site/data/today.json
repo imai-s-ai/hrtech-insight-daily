@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-19",
+  "dateKey": "2026-02-20",
   "importantPoints": [
-    "最重要：A new way to express yourself: Gemini can now create music（A_GLOBAL）",
-    "次点：初閣議の概要について（B_JAPAN）",
-    "注目：内閣総理大臣談話を掲載しました（B_JAPAN）"
+    "最重要：Train AI models with Unsloth and Hugging Face Jobs for FREE（A_GLOBAL）",
+    "次点：第２次高市内閣の大臣政務官が決定しました（B_JAPAN）",
+    "注目：第２次高市内閣の副大臣が決定しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,33 @@
   ],
   "articles": [
     {
-      "id": "1576d5b5ef75",
-      "title": "A new way to express yourself: Gemini can now create music",
+      "id": "921e5a859005",
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-19 01:00 JST"
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-20 09:00 JST"
     },
     {
-      "id": "209f93961cd9",
-      "title": "初閣議の概要について",
+      "id": "12334947f830",
+      "title": "第２次高市内閣の大臣政務官が決定しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 23:50 JST"
+      "publishedAtJst": "2026-02-19 21:45 JST"
     },
     {
-      "id": "a6f747cc9acf",
-      "title": "内閣総理大臣談話を掲載しました",
+      "id": "2ac94d13e04b",
+      "title": "第２次高市内閣の副大臣が決定しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 23:40 JST"
+      "publishedAtJst": "2026-02-19 21:00 JST"
     },
     {
       "id": "a48598059a69",
@@ -61,31 +61,31 @@
       "publishedAtJst": "2026-02-18 09:00 JST"
     },
     {
-      "id": "eab66fc8daa5",
-      "title": "基本方針を掲載しました",
+      "id": "c85dc7afe97c",
+      "title": "臨時閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-19 10:00 JST"
+    },
+    {
+      "id": "209f93961cd9",
+      "title": "初閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-18 23:50 JST"
+    },
+    {
+      "id": "a6f747cc9acf",
+      "title": "内閣総理大臣談話を掲載しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-18 23:40 JST"
-    },
-    {
-      "id": "80d5d7ac573b",
-      "title": "第２次高市内閣が発足しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 23:10 JST"
-    },
-    {
-      "id": "1630eaee7fe5",
-      "title": "高市総理は第２次高市内閣発足に当たっての記者会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 22:10 JST"
     }
   ]
 }
