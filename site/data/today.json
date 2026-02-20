@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-20",
+  "dateKey": "2026-02-21",
   "importantPoints": [
-    "最重要：Train AI models with Unsloth and Hugging Face Jobs for FREE（A_GLOBAL）",
-    "次点：第２次高市内閣の大臣政務官が決定しました（B_JAPAN）",
-    "注目：第２次高市内閣の副大臣が決定しました（B_JAPAN）"
+    "最重要：Celebrating 250 years of America, from its history to its future（A_GLOBAL）",
+    "次点：高市総理は第２２１回国会における施政方針演説を行いました（B_JAPAN）",
+    "注目：木原内閣官房長官は次官連絡会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,42 @@
   ],
   "articles": [
     {
-      "id": "921e5a859005",
-      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "id": "20aaac0b8dc2",
+      "title": "Celebrating 250 years of America, from its history to its future",
       "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-21 00:00 JST"
+    },
+    {
+      "id": "ab7e5dd43860",
+      "title": "高市総理は第２２１回国会における施政方針演説を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-20 14:00 JST"
+    },
+    {
+      "id": "d01c865267de",
+      "title": "木原内閣官房長官は次官連絡会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-20 11:30 JST"
+    },
+    {
+      "id": "ca4b92433d4b",
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-20 09:00 JST"
-    },
-    {
-      "id": "12334947f830",
-      "title": "第２次高市内閣の大臣政務官が決定しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-19 21:45 JST"
-    },
-    {
-      "id": "2ac94d13e04b",
-      "title": "第２次高市内閣の副大臣が決定しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-19 21:00 JST"
     },
     {
       "id": "a48598059a69",
@@ -52,40 +61,31 @@
       "publishedAtJst": "2026-02-19 01:15 JST"
     },
     {
-      "id": "a10c31319962",
-      "title": "One-Shot Any Web App with Gradio's gr.HTML",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 09:00 JST"
-    },
-    {
-      "id": "c85dc7afe97c",
-      "title": "臨時閣議の概要について",
+      "id": "2850247cbd95",
+      "title": "ＡＩインパクト・サミット　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-19 10:00 JST"
+      "publishedAtJst": "2026-02-20 10:00 JST"
     },
     {
-      "id": "209f93961cd9",
-      "title": "初閣議の概要について",
+      "id": "20cd9a77c87e",
+      "title": "閣議の概要について／内閣府の人事について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 23:50 JST"
+      "publishedAtJst": "2026-02-20 10:00 JST"
     },
     {
-      "id": "a6f747cc9acf",
-      "title": "内閣総理大臣談話を掲載しました",
+      "id": "12334947f830",
+      "title": "第２次高市内閣の大臣政務官が決定しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-18 23:40 JST"
+      "publishedAtJst": "2026-02-19 21:45 JST"
     }
   ]
 }
