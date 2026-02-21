@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-02-21",
+  "dateKey": "2026-02-22",
   "importantPoints": [
     "最重要：Celebrating 250 years of America, from its history to its future（A_GLOBAL）",
     "次点：高市総理は第２２１回国会における施政方針演説を行いました（B_JAPAN）",
@@ -21,7 +21,7 @@
       "publishedAtJst": "2026-02-21 00:00 JST"
     },
     {
-      "id": "ab7e5dd43860",
+      "id": "a4732ea67a1c",
       "title": "高市総理は第２２１回国会における施政方針演説を行いました",
       "category": "B_JAPAN",
       "tags": [],
@@ -50,17 +50,6 @@
       "publishedAtJst": "2026-02-20 09:00 JST"
     },
     {
-      "id": "a48598059a69",
-      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-19 01:15 JST"
-    },
-    {
       "id": "2850247cbd95",
       "title": "ＡＩインパクト・サミット　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
@@ -86,6 +75,15 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-19 21:45 JST"
+    },
+    {
+      "id": "2ac94d13e04b",
+      "title": "第２次高市内閣の副大臣が決定しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-19 21:00 JST"
     }
   ]
 }
