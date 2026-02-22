@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-02-22",
+  "dateKey": "2026-02-23",
   "importantPoints": [
     "最重要：Celebrating 250 years of America, from its history to its future（A_GLOBAL）",
     "次点：高市総理は第２２１回国会における施政方針演説を行いました（B_JAPAN）",
@@ -68,22 +68,15 @@
       "publishedAtJst": "2026-02-20 10:00 JST"
     },
     {
-      "id": "12334947f830",
-      "title": "第２次高市内閣の大臣政務官が決定しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
+      "id": "921e5a859005",
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-19 21:45 JST"
-    },
-    {
-      "id": "2ac94d13e04b",
-      "title": "第２次高市内閣の副大臣が決定しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-19 21:00 JST"
+      "publishedAtJst": "2026-02-20 09:00 JST"
     }
   ]
 }
