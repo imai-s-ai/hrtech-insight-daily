@@ -1,9 +1,8 @@
 {
-  "dateKey": "2026-02-23",
+  "dateKey": "2026-02-24",
   "importantPoints": [
-    "最重要：Celebrating 250 years of America, from its history to its future（A_GLOBAL）",
-    "次点：高市総理は第２２１回国会における施政方針演説を行いました（B_JAPAN）",
-    "注目：木原内閣官房長官は次官連絡会議を開催しました（B_JAPAN）"
+    "最重要：6 tips for prompting Lyria 3 in the Gemini app（A_GLOBAL）",
+    "次点：Our commitment to make AI training available to all 6 million U.S. educators（A_GLOBAL）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,71 +11,26 @@
   ],
   "articles": [
     {
-      "id": "20aaac0b8dc2",
-      "title": "Celebrating 250 years of America, from its history to its future",
+      "id": "205268f93abf",
+      "title": "6 tips for prompting Lyria 3 in the Gemini app",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-21 00:00 JST"
+      "publishedAtJst": "2026-02-24 02:00 JST"
     },
     {
-      "id": "a4732ea67a1c",
-      "title": "高市総理は第２２１回国会における施政方針演説を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-20 14:00 JST"
-    },
-    {
-      "id": "d01c865267de",
-      "title": "木原内閣官房長官は次官連絡会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-20 11:30 JST"
-    },
-    {
-      "id": "ca4b92433d4b",
-      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-20 09:00 JST"
-    },
-    {
-      "id": "2850247cbd95",
-      "title": "ＡＩインパクト・サミット　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-20 10:00 JST"
-    },
-    {
-      "id": "20cd9a77c87e",
-      "title": "閣議の概要について／内閣府の人事について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-20 10:00 JST"
-    },
-    {
-      "id": "921e5a859005",
-      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "id": "040c190816c7",
+      "title": "Our commitment to make AI training available to all 6 million U.S. educators",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-20 09:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-23 21:00 JST"
     }
   ]
 }
