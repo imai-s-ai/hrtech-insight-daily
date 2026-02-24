@@ -1,38 +1,134 @@
 {
   "items": [
     {
-      "id": "205268f93abf",
-      "title": "6 tips for prompting Lyria 3 in the Gemini app",
+      "id": "dcec99169bc9",
+      "title": "Build dynamic agentic workflows in Opal",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-24 02:00 JST",
+      "publishedAtJst": "2026-02-25 04:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 6 tips for prompting Lyria 3 in the Gemini app\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tips_for_prompting_Lyria_3_Hero.max-600x600.format-webp.webp\">Learn more about Lyria 3, Google DeepMind’s newest generative AI that can help you create your own tunes.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-24 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Build dynamic agentic workflows in Opal\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Agent_banner_1.max-600x600.format-webp.webp\">We’re launching a new agent step in Opal, available for all users today.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-25 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/gemini/tips-prompting-lyria-3/"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent/"
         }
       ]
     },
     {
-      "id": "040c190816c7",
-      "title": "Our commitment to make AI training available to all 6 million U.S. educators",
+      "id": "1615828ce844",
+      "title": "高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-02-24 18:35 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-02-24 18:35 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202602/24tel_kaidan.html"
+        }
+      ]
+    },
+    {
+      "id": "1d5b963ba589",
+      "title": "高市総理は令和８年第２回経済財政諮問会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-02-24 18:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は令和８年第２回経済財政諮問会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-02-24 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202602/24keizai.html"
+        }
+      ]
+    },
+    {
+      "id": "328ac70aed76",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-02-24 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Deploying Open Source Vision Language Models (VLM) on Jetson\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-02-24 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-on-jetson"
+        }
+      ]
+    },
+    {
+      "id": "d58e4c99eb16",
+      "title": "閣議の概要／カーニー・カナダ首相の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-02-24 11:21 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 閣議の概要／カーニー・カナダ首相の訪日について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-02-24 11:21 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202602/24_a.html"
+        }
+      ]
+    },
+    {
+      "id": "0b63765392a2",
+      "title": "イェッテン・オランダ首相に対する高市総理大臣からの祝意の伝達",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-02-24 10:40 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 イェッテン・オランダ首相に対する高市総理大臣からの祝意の伝達\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-02-24 10:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20260224message.html"
+        }
+      ]
+    },
+    {
+      "id": "941909c2edc2",
+      "title": "Our February Demand Gen Drop has more ways to unlock high-performing Demand Gen campaigns.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-02-23 21:00 JST",
+      "publishedAtJst": "2026-02-25 02:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Our commitment to make AI training available to all 6 million U.S. educators\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/educators_learn_AI_literacy_Her.max-600x600.format-webp.webp\">Learn about Google’s partnership to bring AI skills to every classroom with free training for 6 million U.S. educators.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-23 21:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Our February Demand Gen Drop has more ways to unlock high-performing Demand Gen campaigns.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_Feb-01.max-600x600.format-webp.webp\">Learn more about our latest Demand Gen Drop and ways to maximize campaign performance in Demand Gen campaigns.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-25 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/"
+          "url": "https://blog.google/products/ads-commerce/demand-gen-drop-february-2026/"
+        }
+      ]
+    },
+    {
+      "id": "4b2becbe2355",
+      "title": "Google is coming to Minnesota and advancing clean energy goals",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-02-24 23:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 Google is coming to Minnesota and advancing clean energy goals\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MinnesotaHero.max-600x600.format-webp.webp\">An overview of Google’s new data center and collaboration with Xcel Energy in Pine Island, Minnesota.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-02-24 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/"
         }
       ]
     }

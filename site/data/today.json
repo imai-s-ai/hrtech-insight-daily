@@ -1,8 +1,9 @@
 {
-  "dateKey": "2026-02-24",
+  "dateKey": "2026-02-25",
   "importantPoints": [
-    "最重要：6 tips for prompting Lyria 3 in the Gemini app（A_GLOBAL）",
-    "次点：Our commitment to make AI training available to all 6 million U.S. educators（A_GLOBAL）"
+    "最重要：Build dynamic agentic workflows in Opal（A_GLOBAL）",
+    "次点：高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました（B_JAPAN）",
+    "注目：高市総理は令和８年第２回経済財政諮問会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,26 +12,80 @@
   ],
   "articles": [
     {
-      "id": "205268f93abf",
-      "title": "6 tips for prompting Lyria 3 in the Gemini app",
+      "id": "dcec99169bc9",
+      "title": "Build dynamic agentic workflows in Opal",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-24 02:00 JST"
+      "publishedAtJst": "2026-02-25 04:00 JST"
     },
     {
-      "id": "040c190816c7",
-      "title": "Our commitment to make AI training available to all 6 million U.S. educators",
+      "id": "1615828ce844",
+      "title": "高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-24 18:35 JST"
+    },
+    {
+      "id": "1d5b963ba589",
+      "title": "高市総理は令和８年第２回経済財政諮問会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-24 18:00 JST"
+    },
+    {
+      "id": "328ac70aed76",
+      "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-24 09:00 JST"
+    },
+    {
+      "id": "d58e4c99eb16",
+      "title": "閣議の概要／カーニー・カナダ首相の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-24 11:21 JST"
+    },
+    {
+      "id": "0b63765392a2",
+      "title": "イェッテン・オランダ首相に対する高市総理大臣からの祝意の伝達",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-24 10:40 JST"
+    },
+    {
+      "id": "941909c2edc2",
+      "title": "Our February Demand Gen Drop has more ways to unlock high-performing Demand Gen campaigns.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-23 21:00 JST"
+      "publishedAtJst": "2026-02-25 02:00 JST"
+    },
+    {
+      "id": "4b2becbe2355",
+      "title": "Google is coming to Minnesota and advancing clean energy goals",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-02-24 23:00 JST"
     }
   ]
 }
