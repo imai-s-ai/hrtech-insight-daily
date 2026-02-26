@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-26",
+  "dateKey": "2026-02-27",
   "importantPoints": [
-    "最重要：Intrinsic is joining Google to accelerate the future of physical AI.（A_GLOBAL）",
-    "次点：高市総理は月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
-    "注目：ウクライナに関する有志連合オンライン首脳会合に際する高市内閣総理大臣書面メッセージ（B_JAPAN）"
+    "最重要：Old masters, new perspectives: The Gemäldegalerie in Berlin（A_GLOBAL）",
+    "次点：高市総理は第１回社会保障国民会議を開催しました（B_JAPAN）",
+    "注目：高市総理は月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,24 @@
   ],
   "articles": [
     {
-      "id": "6e00666433eb",
-      "title": "Intrinsic is joining Google to accelerate the future of physical AI.",
+      "id": "42a490a63517",
+      "title": "Old masters, new perspectives: The Gemäldegalerie in Berlin",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-26 05:05 JST"
+      "publishedAtJst": "2026-02-27 04:00 JST"
+    },
+    {
+      "id": "d205147e638b",
+      "title": "高市総理は第１回社会保障国民会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-26 17:45 JST"
     },
     {
       "id": "e867c589b071",
@@ -32,15 +41,13 @@
       "publishedAtJst": "2026-02-25 17:20 JST"
     },
     {
-      "id": "eadc41d63b83",
-      "title": "ウクライナに関する有志連合オンライン首脳会合に際する高市内閣総理大臣書面メッセージ",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
+      "id": "e44d72287f61",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-24 22:30 JST"
+      "publishedAtJst": "2026-02-26 09:00 JST"
     },
     {
       "id": "328ac70aed76",
@@ -50,6 +57,17 @@
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-24 09:00 JST"
+    },
+    {
+      "id": "eadc41d63b83",
+      "title": "ウクライナに関する有志連合オンライン首脳会合に際する高市内閣総理大臣書面メッセージ",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-24 22:30 JST"
     },
     {
       "id": "1615828ce844",
@@ -68,24 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-02-24 18:00 JST"
-    },
-    {
-      "id": "d58e4c99eb16",
-      "title": "閣議の概要／カーニー・カナダ首相の訪日について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-24 11:21 JST"
-    },
-    {
-      "id": "0b63765392a2",
-      "title": "イェッテン・オランダ首相に対する高市総理大臣からの祝意の伝達",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-24 10:40 JST"
     }
   ]
 }
