@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-02-28",
+  "dateKey": "2026-03-01",
   "importantPoints": [
     "最重要：Find out what’s new in the Gemini app in February's Gemini Drop.（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：高市総理は第１回社会保障国民会議を開催しました（B_JAPAN）"
+    "次点：国家安全保障会議四大臣会合の開催について（B_JAPAN）",
+    "注目：高市総理はイラン情勢についての会見を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -19,6 +19,35 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-02-28 02:00 JST"
+    },
+    {
+      "id": "80dc4159789c",
+      "title": "国家安全保障会議四大臣会合の開催について",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-01 00:30 JST"
+    },
+    {
+      "id": "b21f56dfa777",
+      "title": "高市総理はイラン情勢についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-28 22:30 JST"
+    },
+    {
+      "id": "e44d72287f61",
+      "title": "Mixture of Experts (MoEs) in Transformers",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-02-26 09:00 JST"
     },
     {
       "id": "3536dc08f71f",
@@ -39,24 +68,6 @@
       "publishedAtJst": "2026-02-26 17:45 JST"
     },
     {
-      "id": "e44d72287f61",
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-26 09:00 JST"
-    },
-    {
-      "id": "e867c589b071",
-      "title": "高市総理は月例経済報告等に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-25 17:20 JST"
-    },
-    {
       "id": "98b0f89ba0f9",
       "title": "Create personalized “Year of the Fire Horse” musical tracks with Gemini",
       "category": "A_GLOBAL",
@@ -75,17 +86,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-02-27 04:00 JST"
-    },
-    {
-      "id": "185b45df433c",
-      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-27 03:55 JST"
     }
   ]
 }
