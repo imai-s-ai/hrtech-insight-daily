@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-03-01",
+  "dateKey": "2026-03-02",
   "importantPoints": [
     "最重要：Find out what’s new in the Gemini app in February's Gemini Drop.（A_GLOBAL）",
     "次点：国家安全保障会議四大臣会合の開催について（B_JAPAN）",
@@ -41,15 +41,6 @@
       "publishedAtJst": "2026-02-28 22:30 JST"
     },
     {
-      "id": "e44d72287f61",
-      "title": "Mixture of Experts (MoEs) in Transformers",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-26 09:00 JST"
-    },
-    {
       "id": "3536dc08f71f",
       "title": "閣議の概要について",
       "category": "B_JAPAN",
@@ -59,15 +50,6 @@
       "publishedAtJst": "2026-02-27 10:23 JST"
     },
     {
-      "id": "d205147e638b",
-      "title": "高市総理は第１回社会保障国民会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-26 17:45 JST"
-    },
-    {
       "id": "98b0f89ba0f9",
       "title": "Create personalized “Year of the Fire Horse” musical tracks with Gemini",
       "category": "A_GLOBAL",
@@ -75,17 +57,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-02-27 12:26 JST"
-    },
-    {
-      "id": "42a490a63517",
-      "title": "Old masters, new perspectives: The Gemäldegalerie in Berlin",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-27 04:00 JST"
     }
   ]
 }
