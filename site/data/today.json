@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-02",
+  "dateKey": "2026-03-03",
   "importantPoints": [
-    "最重要：Find out what’s new in the Gemini app in February's Gemini Drop.（A_GLOBAL）",
-    "次点：国家安全保障会議四大臣会合の開催について（B_JAPAN）",
-    "注目：高市総理はイラン情勢についての会見を行いました（B_JAPAN）"
+    "最重要：VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.（A_GLOBAL）",
+    "次点：第６回帰国留学生総会　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：内閣官房の人事について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,33 @@
   ],
   "articles": [
     {
-      "id": "e22b666d0b42",
-      "title": "Find out what’s new in the Gemini app in February's Gemini Drop.",
+      "id": "60563b2ab026",
+      "title": "VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-28 02:00 JST"
+      "publishedAtJst": "2026-03-03 05:00 JST"
+    },
+    {
+      "id": "9bde7ca35a6f",
+      "title": "第６回帰国留学生総会　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-02 14:00 JST"
+    },
+    {
+      "id": "f9613347e946",
+      "title": "内閣官房の人事について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-02 11:00 JST"
     },
     {
       "id": "80dc4159789c",
@@ -41,22 +61,15 @@
       "publishedAtJst": "2026-02-28 22:30 JST"
     },
     {
-      "id": "3536dc08f71f",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-27 10:23 JST"
-    },
-    {
-      "id": "98b0f89ba0f9",
-      "title": "Create personalized “Year of the Fire Horse” musical tracks with Gemini",
+      "id": "21b6bc7cb54a",
+      "title": "Learn about our Android and Google AI updates at MWC Barcelona.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-02-27 12:26 JST"
+      "publishedAtJst": "2026-03-02 17:00 JST"
     }
   ]
 }
