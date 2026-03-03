@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-03",
+  "dateKey": "2026-03-04",
   "importantPoints": [
-    "最重要：VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.（A_GLOBAL）",
-    "次点：第６回帰国留学生総会　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：内閣官房の人事について（B_JAPAN）"
+    "最重要：Help find your lost luggage with Google’s Find Hub（A_GLOBAL）",
+    "次点：高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,44 @@
   ],
   "articles": [
     {
-      "id": "60563b2ab026",
-      "title": "VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.",
+      "id": "7d05e11c66d1",
+      "title": "Help find your lost luggage with Google’s Find Hub",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-03 05:00 JST"
+      "publishedAtJst": "2026-03-04 04:00 JST"
+    },
+    {
+      "id": "e30709347eb4",
+      "title": "高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-03 17:35 JST"
+    },
+    {
+      "id": "72481eccaef0",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-03 09:40 JST"
+    },
+    {
+      "id": "0490fd40e37c",
+      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-04 01:50 JST"
     },
     {
       "id": "9bde7ca35a6f",
@@ -41,35 +70,24 @@
       "publishedAtJst": "2026-03-02 11:00 JST"
     },
     {
-      "id": "80dc4159789c",
-      "title": "国家安全保障会議四大臣会合の開催について",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-01 00:30 JST"
-    },
-    {
-      "id": "b21f56dfa777",
-      "title": "高市総理はイラン情勢についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-02-28 22:30 JST"
-    },
-    {
-      "id": "21b6bc7cb54a",
-      "title": "Learn about our Android and Google AI updates at MWC Barcelona.",
+      "id": "5320a72ca1c9",
+      "title": "March Pixel Drop: New personalization and AI tools",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-02 17:00 JST"
+      "publishedAtJst": "2026-03-04 04:00 JST"
+    },
+    {
+      "id": "ff916add7283",
+      "title": "New on Android: Find friends, lost luggage and great apps",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-04 04:00 JST"
     }
   ]
 }
