@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-03-04",
+  "dateKey": "2026-03-05",
   "importantPoints": [
-    "最重要：Help find your lost luggage with Google’s Find Hub（A_GLOBAL）",
+    "最重要：Supporting the White House Ratepayer Protection Pledge: Google’s approach for responsible energy growth（A_GLOBAL）",
     "次点：高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました（B_JAPAN）",
     "注目：閣議の概要について（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "7d05e11c66d1",
-      "title": "Help find your lost luggage with Google’s Find Hub",
+      "id": "d725f8a20819",
+      "title": "Supporting the White House Ratepayer Protection Pledge: Google’s approach for responsible energy growth",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-04 04:00 JST"
+      "publishedAtJst": "2026-03-05 06:25 JST"
     },
     {
       "id": "e30709347eb4",
@@ -70,24 +70,26 @@
       "publishedAtJst": "2026-03-02 11:00 JST"
     },
     {
-      "id": "5320a72ca1c9",
-      "title": "March Pixel Drop: New personalization and AI tools",
+      "id": "35d45c288eb6",
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-04 04:00 JST"
+      "publishedAtJst": "2026-03-05 02:00 JST"
     },
     {
-      "id": "ff916add7283",
-      "title": "New on Android: Find friends, lost luggage and great apps",
+      "id": "bb5d2daba7fa",
+      "title": "Generate your own Cinematic Video Overviews in NotebookLM.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-04 04:00 JST"
+      "publishedAtJst": "2026-03-05 02:00 JST"
     }
   ]
 }
