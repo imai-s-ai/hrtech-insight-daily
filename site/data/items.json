@@ -1,52 +1,68 @@
 {
   "items": [
     {
-      "id": "d725f8a20819",
-      "title": "Supporting the White House Ratepayer Protection Pledge: Google’s approach for responsible energy growth",
+      "id": "53664da7e9d5",
+      "title": "Play AI-based games in our I/O Save the date",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-05 06:25 JST",
+      "publishedAtJst": "2026-03-07 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Supporting the White House Ratepayer Protection Pledge: Google’s approach for responsible energy growth\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG-Gradient-Hero.max-600x600.format-webp.webp\">Google signs the White House Ratepayer Protection Pledge and shares details about protecting ratepayers, the electric grid and creating jobs.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-05 06:25 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Play AI-based games in our I/O Save the date\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5GeminigamesI_O2026_Social.max-600x600.format-webp.webp\">For this year’s I/O Save the date, we’re showing how anyone can build incredible games with help from Gemini.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-07 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/affordability-pledge-responsible-energy-growth/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/io-save-the-date-2026-gemini/"
         }
       ]
     },
     {
-      "id": "e30709347eb4",
-      "title": "高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました",
+      "id": "4090f0c62f9a",
+      "title": "高市総理は日本医師会赤ひげ大賞表彰式に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-03 17:35 JST",
+      "publishedAtJst": "2026-03-05 17:30 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-03 17:35 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は日本医師会赤ひげ大賞表彰式に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-05 17:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202603/03teigen.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/05akahige.html"
         }
       ]
     },
     {
-      "id": "72481eccaef0",
-      "title": "閣議の概要について",
+      "id": "aea32397df93",
+      "title": "高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-03 09:40 JST",
+      "publishedAtJst": "2026-03-05 17:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-03 09:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-05 17:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202603/3_a.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/05tel_kaidan.html"
+        }
+      ]
+    },
+    {
+      "id": "41daf44b6dc9",
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-03-05 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-05 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/modular-diffusers"
         }
       ]
     },
@@ -69,70 +85,50 @@
       ]
     },
     {
-      "id": "9bde7ca35a6f",
-      "title": "第６回帰国留学生総会　高市総理ビデオメッセージ",
+      "id": "dd5074642ee0",
+      "title": "高市総理はアラブ首長国連邦のスルタン・アル・ジャーベル産業・先端技術大臣兼日本担当特使による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-02 14:00 JST",
+      "publishedAtJst": "2026-03-05 16:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 第６回帰国留学生総会　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-02 14:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理はアラブ首長国連邦のスルタン・アル・ジャーベル産業・先端技術大臣兼日本担当特使による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-05 16:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260302message.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/05hyoukei2.html"
         }
       ]
     },
     {
-      "id": "f9613347e946",
-      "title": "内閣官房の人事について",
+      "id": "b520925312e4",
+      "title": "高市総理はパランティア・テクノロジーズ社のピーター・ティール共同創業者兼会長による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-02 11:00 JST",
+      "publishedAtJst": "2026-03-05 15:20 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 内閣官房の人事について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-02 11:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理はパランティア・テクノロジーズ社のピーター・ティール共同創業者兼会長による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-05 15:20 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202603/2_a.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/05hyoukei.html"
         }
       ]
     },
     {
-      "id": "35d45c288eb6",
-      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-05 02:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp\">Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-05 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "id": "e30709347eb4",
+      "title": "高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-03 17:35 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-03 17:35 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/"
-        }
-      ]
-    },
-    {
-      "id": "bb5d2daba7fa",
-      "title": "Generate your own Cinematic Video Overviews in NotebookLM.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-05 02:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Generate your own Cinematic Video Overviews in NotebookLM.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NLM_CinematicVideo_Social.max-600x600.format-webp.webp\">NotebookLM is introducing Cinematic Video Overviews, a major update to its AI-powered video creation capabilities. This new feature moves beyond narra\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-05 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/"
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/03teigen.html"
         }
       ]
     }
