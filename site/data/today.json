@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-06",
+  "dateKey": "2026-03-07",
   "importantPoints": [
-    "最重要：Play AI-based games in our I/O Save the date（A_GLOBAL）",
-    "次点：高市総理は日本医師会赤ひげ大賞表彰式に出席しました（B_JAPAN）",
-    "注目：高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました（B_JAPAN）"
+    "最重要：How our open-source AI model SpeciesNet is helping to promote wildlife conservation（A_GLOBAL）",
+    "次点：高市総理はカナダのマーク・カーニー首相と首脳会談を行いました（B_JAPAN）",
+    "注目：イラン情勢を受けた邦人保護について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,44 @@
   ],
   "articles": [
     {
-      "id": "53664da7e9d5",
-      "title": "Play AI-based games in our I/O Save the date",
+      "id": "ea451c9a9950",
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-07 01:00 JST"
+      "publishedAtJst": "2026-03-07 03:00 JST"
     },
     {
-      "id": "4090f0c62f9a",
-      "title": "高市総理は日本医師会赤ひげ大賞表彰式に出席しました",
+      "id": "d129ab2b6010",
+      "title": "高市総理はカナダのマーク・カーニー首相と首脳会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-05 17:30 JST"
+      "publishedAtJst": "2026-03-06 19:00 JST"
     },
     {
-      "id": "aea32397df93",
-      "title": "高市総理はドイツ連邦共和国のフリードリヒ・メルツ首相と電話会談を行いました",
+      "id": "bf93ab1cdadd",
+      "title": "イラン情勢を受けた邦人保護について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-05 17:00 JST"
+      "publishedAtJst": "2026-03-06 16:00 JST"
+    },
+    {
+      "id": "e090e2e5d095",
+      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-07 03:56 JST"
     },
     {
       "id": "41daf44b6dc9",
@@ -50,42 +61,31 @@
       "publishedAtJst": "2026-03-05 09:00 JST"
     },
     {
-      "id": "0490fd40e37c",
-      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-04 01:50 JST"
-    },
-    {
-      "id": "dd5074642ee0",
-      "title": "高市総理はアラブ首長国連邦のスルタン・アル・ジャーベル産業・先端技術大臣兼日本担当特使による表敬を受けました",
+      "id": "02e8b74206dd",
+      "title": "閣議の概要について／東日本大震災について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-05 16:00 JST"
+      "publishedAtJst": "2026-03-06 11:00 JST"
     },
     {
-      "id": "b520925312e4",
-      "title": "高市総理はパランティア・テクノロジーズ社のピーター・ティール共同創業者兼会長による表敬を受けました",
+      "id": "a81993de9ee4",
+      "title": "東日本大震災の発生から１５年を迎えるに当たっての高市内閣総理大臣メッセージ「国民の皆様へ」を掲載しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-05 15:20 JST"
+      "publishedAtJst": "2026-03-06 09:30 JST"
     },
     {
-      "id": "e30709347eb4",
-      "title": "高市総理は自由民主党・インテリジェンス戦略本部による提言申入れを受けました",
+      "id": "eaa7a04d7be4",
+      "title": "木原内閣官房長官は第３回循環経済に関する関係閣僚会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-03 17:35 JST"
+      "publishedAtJst": "2026-03-06 08:05 JST"
     }
   ]
 }
