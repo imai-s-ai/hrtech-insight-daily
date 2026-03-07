@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-03-07",
+  "dateKey": "2026-03-08",
   "importantPoints": [
     "最重要：How our open-source AI model SpeciesNet is helping to promote wildlife conservation（A_GLOBAL）",
     "次点：高市総理はカナダのマーク・カーニー首相と首脳会談を行いました（B_JAPAN）",
@@ -41,17 +41,6 @@
       "publishedAtJst": "2026-03-06 16:00 JST"
     },
     {
-      "id": "e090e2e5d095",
-      "title": "Conversational LLM Evaluations in Minutes with NVIDIA NeMo Evaluator Agent Skills",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-07 03:56 JST"
-    },
-    {
       "id": "41daf44b6dc9",
       "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
       "category": "C_BIZ_AI",
@@ -86,6 +75,15 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-06 08:05 JST"
+    },
+    {
+      "id": "4090f0c62f9a",
+      "title": "高市総理は日本医師会赤ひげ大賞表彰式に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-05 17:30 JST"
     }
   ]
 }
