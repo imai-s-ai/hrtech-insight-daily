@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-09",
+  "dateKey": "2026-03-10",
   "importantPoints": [
     "最重要：Enabling Gemini for Education across all Malaysian public universities（A_GLOBAL）",
-    "次点：「国際女性の日」に当たっての高市内閣総理大臣メッセージ（B_JAPAN）",
-    "注目：高市総理はカナダのマーク・カーニー首相と首脳会談を行いました（B_JAPAN）"
+    "次点：令和７年度防衛医科大学校卒業式　高市内閣総理大臣ビデオメッセージ（B_JAPAN）",
+    "注目：「国際女性の日」に当たっての高市内閣総理大臣メッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,15 @@
       "publishedAtJst": "2026-03-09 03:00 JST"
     },
     {
+      "id": "a2e7984594b9",
+      "title": "令和７年度防衛医科大学校卒業式　高市内閣総理大臣ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-09 10:00 JST"
+    },
+    {
       "id": "5433a2c0a108",
       "title": "「国際女性の日」に当たっての高市内閣総理大臣メッセージ",
       "category": "B_JAPAN",
@@ -30,40 +39,24 @@
       "publishedAtJst": "2026-03-08 10:00 JST"
     },
     {
-      "id": "d129ab2b6010",
-      "title": "高市総理はカナダのマーク・カーニー首相と首脳会談を行いました",
-      "category": "B_JAPAN",
+      "id": "ec92a6e121b6",
+      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-06 19:00 JST"
+      "publishedAtJst": "2026-03-10 03:36 JST"
     },
     {
-      "id": "bf93ab1cdadd",
-      "title": "イラン情勢を受けた邦人保護について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
+      "id": "59a06e2a252a",
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-06 16:00 JST"
-    },
-    {
-      "id": "02e8b74206dd",
-      "title": "閣議の概要について／東日本大震災について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-06 11:00 JST"
-    },
-    {
-      "id": "a81993de9ee4",
-      "title": "東日本大震災の発生から１５年を迎えるに当たっての高市内閣総理大臣メッセージ「国民の皆様へ」を掲載しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-06 09:30 JST"
+      "publishedAtJst": "2026-03-09 09:00 JST"
     },
     {
       "id": "40859d02b8c9",
@@ -75,15 +68,13 @@
       "publishedAtJst": "2026-03-09 01:00 JST"
     },
     {
-      "id": "ea451c9a9950",
-      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-07 03:00 JST"
+      "id": "96b2284ecdf3",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-09 09:00 JST"
     }
   ]
 }
