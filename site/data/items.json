@@ -1,116 +1,132 @@
 {
   "items": [
     {
-      "id": "903c513305e0",
-      "title": "Enabling Gemini for Education across all Malaysian public universities",
+      "id": "82461bf25aca",
+      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-09 03:00 JST",
+      "publishedAtJst": "2026-03-11 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Enabling Gemini for Education across all Malaysian public universities\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_for_Education_Resizing_I.max-600x600.format-webp.webp\">Gemini for Education is now in all 20 Malaysian public universities, reaching 600,000 students and 75,000 faculty members.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-09 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Gemini Embedding 2: Our first natively multimodal embedding model\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-2_embedding_keyword_blog.max-600x600.format-webp.webp\">An overview of Gemini Embedding 2, our first fully multimodal embedding model that maps text, images, video, audio and documents into a single s\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-11 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/"
         }
       ]
     },
     {
-      "id": "a2e7984594b9",
-      "title": "令和７年度防衛医科大学校卒業式　高市内閣総理大臣ビデオメッセージ",
+      "id": "a3df57d0f2c8",
+      "title": "高市総理は第３回日本成長戦略会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-09 10:00 JST",
+      "publishedAtJst": "2026-03-10 17:45 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 令和７年度防衛医科大学校卒業式　高市内閣総理大臣ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-09 10:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は第３回日本成長戦略会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-10 17:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260309message.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/10seichyou.html"
         }
       ]
     },
     {
-      "id": "5433a2c0a108",
-      "title": "「国際女性の日」に当たっての高市内閣総理大臣メッセージ",
+      "id": "4b5873c754f4",
+      "title": "高市総理は、アメリカ合衆国のジョージ・グラス駐日大使による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-08 10:00 JST",
+      "publishedAtJst": "2026-03-10 17:10 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 「国際女性の日」に当たっての高市内閣総理大臣メッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-08 10:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は、アメリカ合衆国のジョージ・グラス駐日大使による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-10 17:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260308message.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/10hyoukei2.html"
         }
       ]
     },
     {
-      "id": "ec92a6e121b6",
-      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-03-10 03:36 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-10 03:36 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech"
-        }
-      ]
-    },
-    {
-      "id": "59a06e2a252a",
-      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "id": "087b7ac98b37",
+      "title": "How NVIDIA Builds Open Data for AI",
       "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-03-09 09:00 JST",
+      "publishedAtJst": "2026-03-11 04:49 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Ulysses Sequence Parallelism: Training with Million-Token Contexts\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-09 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 How NVIDIA Builds Open Data for AI\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-11 04:49 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/ulysses-sp"
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-ai"
         }
       ]
     },
     {
-      "id": "40859d02b8c9",
-      "title": "Honoring the art of the possible this International Women’s Day",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-09 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Honoring the art of the possible this International Women’s Day\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/artofpossible_hero.max-600x600.format-webp.webp\">Google is honoring International Women’s Day and Women’s History Month across its products along with a new film on Dr. Marian Croak.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-09 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/"
-        }
-      ]
-    },
-    {
-      "id": "96b2284ecdf3",
-      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "id": "2ae52e2df01b",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-03-09 09:00 JST",
+      "publishedAtJst": "2026-03-10 09:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 LeRobot v0.5.0: Scaling Every Dimension\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-09 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Introducing Storage Buckets on the Hugging Face Hub\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-10 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/lerobot-release-v050"
+          "url": "https://huggingface.co/blog/storage-buckets"
+        }
+      ]
+    },
+    {
+      "id": "37cfccd22b61",
+      "title": "高市総理は「北方領土を考える」高校生弁論大会で最優秀賞及び優秀賞を受賞した高校生による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-10 11:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は「北方領土を考える」高校生弁論大会で最優秀賞及び優秀賞を受賞した高校生による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-10 11:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/10hyoukei.html"
+        }
+      ]
+    },
+    {
+      "id": "8093b030cfe0",
+      "title": "高市総理は第２０回犯罪被害者等施策推進会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-10 10:05 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は第２０回犯罪被害者等施策推進会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-10 10:05 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/10hanzaihigai.html"
+        }
+      ]
+    },
+    {
+      "id": "d33500c4b91a",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-10 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-10 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202603/10_a.html"
         }
       ]
     }

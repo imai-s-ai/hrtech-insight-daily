@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-10",
+  "dateKey": "2026-03-11",
   "importantPoints": [
-    "最重要：Enabling Gemini for Education across all Malaysian public universities（A_GLOBAL）",
-    "次点：令和７年度防衛医科大学校卒業式　高市内閣総理大臣ビデオメッセージ（B_JAPAN）",
-    "注目：「国際女性の日」に当たっての高市内閣総理大臣メッセージ（B_JAPAN）"
+    "最重要：Gemini Embedding 2: Our first natively multimodal embedding model（A_GLOBAL）",
+    "次点：高市総理は第３回日本成長戦略会議を開催しました（B_JAPAN）",
+    "注目：高市総理は、アメリカ合衆国のジョージ・グラス駐日大使による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,69 +12,78 @@
   ],
   "articles": [
     {
-      "id": "903c513305e0",
-      "title": "Enabling Gemini for Education across all Malaysian public universities",
+      "id": "82461bf25aca",
+      "title": "Gemini Embedding 2: Our first natively multimodal embedding model",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-09 03:00 JST"
+      "publishedAtJst": "2026-03-11 01:00 JST"
     },
     {
-      "id": "a2e7984594b9",
-      "title": "令和７年度防衛医科大学校卒業式　高市内閣総理大臣ビデオメッセージ",
+      "id": "a3df57d0f2c8",
+      "title": "高市総理は第３回日本成長戦略会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-09 10:00 JST"
+      "publishedAtJst": "2026-03-10 17:45 JST"
     },
     {
-      "id": "5433a2c0a108",
-      "title": "「国際女性の日」に当たっての高市内閣総理大臣メッセージ",
+      "id": "4b5873c754f4",
+      "title": "高市総理は、アメリカ合衆国のジョージ・グラス駐日大使による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-08 10:00 JST"
+      "publishedAtJst": "2026-03-10 17:10 JST"
     },
     {
-      "id": "ec92a6e121b6",
-      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-10 03:36 JST"
-    },
-    {
-      "id": "59a06e2a252a",
-      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "id": "087b7ac98b37",
+      "title": "How NVIDIA Builds Open Data for AI",
       "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-09 09:00 JST"
+      "publishedAtJst": "2026-03-11 04:49 JST"
     },
     {
-      "id": "40859d02b8c9",
-      "title": "Honoring the art of the possible this International Women’s Day",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-09 01:00 JST"
-    },
-    {
-      "id": "96b2284ecdf3",
-      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "id": "2ae52e2df01b",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-09 09:00 JST"
+      "publishedAtJst": "2026-03-10 09:00 JST"
+    },
+    {
+      "id": "37cfccd22b61",
+      "title": "高市総理は「北方領土を考える」高校生弁論大会で最優秀賞及び優秀賞を受賞した高校生による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-10 11:00 JST"
+    },
+    {
+      "id": "8093b030cfe0",
+      "title": "高市総理は第２０回犯罪被害者等施策推進会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-10 10:05 JST"
+    },
+    {
+      "id": "d33500c4b91a",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-10 09:00 JST"
     }
   ]
 }
