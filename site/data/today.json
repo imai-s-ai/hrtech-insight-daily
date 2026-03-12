@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-12",
+  "dateKey": "2026-03-13",
   "importantPoints": [
     "最重要：How AI is helping improve heart health in rural Australia（A_GLOBAL）",
-    "次点：高市総理はＧ７首脳オンライン会議に出席しました（B_JAPAN）",
-    "注目：高市総理はイラン情勢に関する政府の対応についての会見を行いました（B_JAPAN）"
+    "次点：木原内閣官房長官は在京イスラム諸国外交団とのイフタールを開催しました（B_JAPAN）",
+    "注目：木原内閣官房長官は湾岸協力理事会(ＧＣＣ)諸国駐日大使による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -23,6 +23,53 @@
       "publishedAtJst": "2026-03-13 00:00 JST"
     },
     {
+      "id": "ef8f6a6e348e",
+      "title": "木原内閣官房長官は在京イスラム諸国外交団とのイフタールを開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-12 18:41 JST"
+    },
+    {
+      "id": "e279e8acb817",
+      "title": "木原内閣官房長官は湾岸協力理事会(ＧＣＣ)諸国駐日大使による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-12 18:30 JST"
+    },
+    {
+      "id": "74a942baffcf",
+      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-12 12:53 JST"
+    },
+    {
+      "id": "2ae52e2df01b",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-10 09:00 JST"
+    },
+    {
+      "id": "432540aa214e",
+      "title": "佐藤内閣官房副長官は「世界青年の船」事業参加青年代表による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-12 17:20 JST"
+    },
+    {
       "id": "4176498a7b1d",
       "title": "高市総理はＧ７首脳オンライン会議に出席しました",
       "category": "B_JAPAN",
@@ -39,53 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-11 19:15 JST"
-    },
-    {
-      "id": "89cf392ae0bd",
-      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-12 00:50 JST"
-    },
-    {
-      "id": "2ae52e2df01b",
-      "title": "Introducing Storage Buckets on the Hugging Face Hub",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-10 09:00 JST"
-    },
-    {
-      "id": "ff8652558f20",
-      "title": "New ways to try, buy and master paid games with Google Play",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-12 08:00 JST"
-    },
-    {
-      "id": "5cc85b0f29c6",
-      "title": "東日本大震災追悼復興祈念式出席等についての会見",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-11 16:00 JST"
-    },
-    {
-      "id": "0fce4ef85607",
-      "title": "「東日本大震災追悼復興祈念式」における内閣総理大臣追悼の辞",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-11 15:00 JST"
     }
   ]
 }
