@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-13",
+  "dateKey": "2026-03-14",
   "importantPoints": [
-    "最重要：How AI is helping improve heart health in rural Australia（A_GLOBAL）",
-    "次点：木原内閣官房長官は在京イスラム諸国外交団とのイフタールを開催しました（B_JAPAN）",
-    "注目：木原内閣官房長官は湾岸協力理事会(ＧＣＣ)諸国駐日大使による表敬を受けました（B_JAPAN）"
+    "最重要：How Google Earth AI’s planetary intelligence is supporting global public health（A_GLOBAL）",
+    "次点：高市総理はブータン王国のツェリン・トブゲー首相と首脳会談を行いました。（B_JAPAN）",
+    "注目：高市総理は自由民主党によるエネルギーの安定供給確保及び海上輸送途絶対策に向けた緊急提言申入れを受け取りました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,51 @@
   ],
   "articles": [
     {
-      "id": "dbf82fe6e648",
-      "title": "How AI is helping improve heart health in rural Australia",
+      "id": "c1436d344bc6",
+      "title": "How Google Earth AI’s planetary intelligence is supporting global public health",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-13 00:00 JST"
+      "publishedAtJst": "2026-03-14 00:00 JST"
+    },
+    {
+      "id": "0cd50c0b6cf9",
+      "title": "高市総理はブータン王国のツェリン・トブゲー首相と首脳会談を行いました。",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-13 19:10 JST"
+    },
+    {
+      "id": "148d124c6c38",
+      "title": "高市総理は自由民主党によるエネルギーの安定供給確保及び海上輸送途絶対策に向けた緊急提言申入れを受け取りました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-13 12:45 JST"
+    },
+    {
+      "id": "a8faebcc5f7f",
+      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-14 05:00 JST"
+    },
+    {
+      "id": "2c661836b227",
+      "title": "閣議の概要／プラボウォ・インドネシア共和国大統領の訪日／マクロン・フランス共和国大統領夫妻の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-13 09:40 JST"
     },
     {
       "id": "ef8f6a6e348e",
@@ -41,26 +77,6 @@
       "publishedAtJst": "2026-03-12 18:30 JST"
     },
     {
-      "id": "74a942baffcf",
-      "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-12 12:53 JST"
-    },
-    {
-      "id": "2ae52e2df01b",
-      "title": "Introducing Storage Buckets on the Hugging Face Hub",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-10 09:00 JST"
-    },
-    {
       "id": "432540aa214e",
       "title": "佐藤内閣官房副長官は「世界青年の船」事業参加青年代表による表敬を受けました",
       "category": "B_JAPAN",
@@ -68,24 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-12 17:20 JST"
-    },
-    {
-      "id": "4176498a7b1d",
-      "title": "高市総理はＧ７首脳オンライン会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-11 23:00 JST"
-    },
-    {
-      "id": "e17b804573d4",
-      "title": "高市総理はイラン情勢に関する政府の対応についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-11 19:15 JST"
     }
   ]
 }
