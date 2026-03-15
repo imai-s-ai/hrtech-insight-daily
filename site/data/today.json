@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-15",
+  "dateKey": "2026-03-16",
   "importantPoints": [
     "最重要：How Google Earth AI’s planetary intelligence is supporting global public health（A_GLOBAL）",
     "次点：首相官邸ホームページをリニューアルします（B_JAPAN）",
-    "注目：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）"
+    "注目：北朝鮮による弾道ミサイル発射事案に係る関連情報について(171KB)（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -29,16 +29,16 @@
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 18:00 JST"
+      "publishedAtJst": "2026-03-14 09:00 JST"
     },
     {
-      "id": "bd0f08c3c767",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "id": "ec54ec60ceb1",
+      "title": "北朝鮮による弾道ミサイル発射事案に係る関連情報について(171KB)",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 13:44 JST"
+      "publishedAtJst": "2026-03-14 09:00 JST"
     },
     {
       "id": "a8faebcc5f7f",
@@ -50,13 +50,22 @@
       "publishedAtJst": "2026-03-14 05:00 JST"
     },
     {
+      "id": "bd0f08c3c767",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-14 09:00 JST"
+    },
+    {
       "id": "5677c8e72fb7",
       "title": "高市総理は防衛大学校卒業式で訓示を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 11:00 JST"
+      "publishedAtJst": "2026-03-14 09:00 JST"
     },
     {
       "id": "d32067744c5c",
@@ -65,25 +74,16 @@
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 10:00 JST"
+      "publishedAtJst": "2026-03-14 09:00 JST"
     },
     {
-      "id": "0cd50c0b6cf9",
-      "title": "高市総理はブータン王国のツェリン・トブゲー首相と首脳会談を行いました。",
+      "id": "2c661836b227",
+      "title": "閣議の概要／プラボウォ・インドネシア共和国大統領の訪日／マクロン・フランス共和国大統領夫妻の訪日について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-13 19:10 JST"
-    },
-    {
-      "id": "148d124c6c38",
-      "title": "高市総理は自由民主党によるエネルギーの安定供給確保及び海上輸送途絶対策に向けた緊急提言申入れを受け取りました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-13 12:45 JST"
+      "publishedAtJst": "2026-03-13 09:00 JST"
     }
   ]
 }
