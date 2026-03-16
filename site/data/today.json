@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-16",
+  "dateKey": "2026-03-17",
   "importantPoints": [
-    "最重要：How Google Earth AI’s planetary intelligence is supporting global public health（A_GLOBAL）",
-    "次点：首相官邸ホームページをリニューアルします（B_JAPAN）",
-    "注目：北朝鮮による弾道ミサイル発射事案に係る関連情報について(171KB)（B_JAPAN）"
+    "最重要：The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics（A_GLOBAL）",
+    "次点：警告画面が表示される不具合について（B_JAPAN）",
+    "注目：ウォン・シンガポール共和国首相兼財務大臣の訪日について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,33 @@
   ],
   "articles": [
     {
-      "id": "c1436d344bc6",
-      "title": "How Google Earth AI’s planetary intelligence is supporting global public health",
+      "id": "71500f01f7de",
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-14 00:00 JST"
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-17 06:58 JST"
+    },
+    {
+      "id": "131bc54cb32d",
+      "title": "警告画面が表示される不具合について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-17 02:00 JST"
+    },
+    {
+      "id": "bf674ab0b2a2",
+      "title": "ウォン・シンガポール共和国首相兼財務大臣の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-17 01:00 JST"
     },
     {
       "id": "2f410562da67",
@@ -39,15 +57,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-14 09:00 JST"
-    },
-    {
-      "id": "a8faebcc5f7f",
-      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 05:00 JST"
     },
     {
       "id": "bd0f08c3c767",
@@ -75,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-14 09:00 JST"
-    },
-    {
-      "id": "2c661836b227",
-      "title": "閣議の概要／プラボウォ・インドネシア共和国大統領の訪日／マクロン・フランス共和国大統領夫妻の訪日について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-13 09:00 JST"
     }
   ]
 }
