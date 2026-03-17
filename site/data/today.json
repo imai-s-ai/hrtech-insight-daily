@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-17",
+  "dateKey": "2026-03-18",
   "importantPoints": [
-    "最重要：The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics（A_GLOBAL）",
-    "次点：警告画面が表示される不具合について（B_JAPAN）",
-    "注目：ウォン・シンガポール共和国首相兼財務大臣の訪日について（B_JAPAN）"
+    "最重要：Bringing the power of Personal Intelligence to more people（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：警告画面が表示される不具合について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,24 @@
   ],
   "articles": [
     {
-      "id": "71500f01f7de",
-      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "id": "fa8ab9434e60",
+      "title": "Bringing the power of Personal Intelligence to more people",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-18 01:00 JST"
+    },
+    {
+      "id": "4eb5ddd71cc7",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 06:58 JST"
+      "publishedAtJst": "2026-03-17 18:40 JST"
     },
     {
       "id": "131bc54cb32d",
@@ -32,6 +41,26 @@
       "publishedAtJst": "2026-03-17 02:00 JST"
     },
     {
+      "id": "310658f5b680",
+      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-18 08:17 JST"
+    },
+    {
+      "id": "429881ea07c5",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-18 01:37 JST"
+    },
+    {
       "id": "bf674ab0b2a2",
       "title": "ウォン・シンガポール共和国首相兼財務大臣の訪日について",
       "category": "B_JAPAN",
@@ -41,49 +70,24 @@
       "publishedAtJst": "2026-03-17 01:00 JST"
     },
     {
-      "id": "2f410562da67",
-      "title": "首相官邸ホームページをリニューアルします",
-      "category": "B_JAPAN",
+      "id": "7396e5283bd4",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 09:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-18 01:00 JST"
     },
     {
-      "id": "ec54ec60ceb1",
-      "title": "北朝鮮による弾道ミサイル発射事案に係る関連情報について(171KB)",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 09:00 JST"
-    },
-    {
-      "id": "bd0f08c3c767",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 09:00 JST"
-    },
-    {
-      "id": "5677c8e72fb7",
-      "title": "高市総理は防衛大学校卒業式で訓示を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 09:00 JST"
-    },
-    {
-      "id": "d32067744c5c",
-      "title": "高市総理は防衛大学校卒業式に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-14 09:00 JST"
+      "id": "0d93ef9037ae",
+      "title": "Our latest investment in open source security for the AI era",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-18 01:00 JST"
     }
   ]
 }
