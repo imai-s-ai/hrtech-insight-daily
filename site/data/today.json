@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-18",
+  "dateKey": "2026-03-19",
   "importantPoints": [
-    "最重要：Bringing the power of Personal Intelligence to more people（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：警告画面が表示される不具合について（B_JAPAN）"
+    "最重要：Introducing “vibe design” with Stitch（A_GLOBAL）",
+    "次点：高市総理は米国訪問についての会見を行いました（B_JAPAN）",
+    "注目：高市総理はシンガポール共和国のローレンス・ウォン首相兼財務大臣と首脳会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,33 @@
   ],
   "articles": [
     {
-      "id": "fa8ab9434e60",
-      "title": "Bringing the power of Personal Intelligence to more people",
+      "id": "d7dba86a32d0",
+      "title": "Introducing “vibe design” with Stitch",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-18 01:00 JST"
+      "publishedAtJst": "2026-03-19 03:00 JST"
     },
     {
-      "id": "4eb5ddd71cc7",
-      "title": "閣議の概要について",
+      "id": "e742cf7653c8",
+      "title": "高市総理は米国訪問についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 18:40 JST"
+      "publishedAtJst": "2026-03-19 06:20 JST"
     },
     {
-      "id": "131bc54cb32d",
-      "title": "警告画面が表示される不具合について",
+      "id": "1931e07f1ac8",
+      "title": "高市総理はシンガポール共和国のローレンス・ウォン首相兼財務大臣と首脳会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 02:00 JST"
+      "publishedAtJst": "2026-03-19 02:45 JST"
     },
     {
       "id": "310658f5b680",
@@ -61,33 +61,31 @@
       "publishedAtJst": "2026-03-18 01:37 JST"
     },
     {
-      "id": "bf674ab0b2a2",
-      "title": "ウォン・シンガポール共和国首相兼財務大臣の訪日について",
+      "id": "6684b397e0f1",
+      "title": "高市総理の米国訪問について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 01:00 JST"
+      "publishedAtJst": "2026-03-19 01:00 JST"
     },
     {
-      "id": "7396e5283bd4",
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "category": "A_GLOBAL",
+      "id": "4eb5ddd71cc7",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-18 01:00 JST"
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-17 18:40 JST"
     },
     {
-      "id": "0d93ef9037ae",
-      "title": "Our latest investment in open source security for the AI era",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-18 01:00 JST"
+      "id": "131bc54cb32d",
+      "title": "警告画面が表示される不具合について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-17 02:00 JST"
     }
   ]
 }
