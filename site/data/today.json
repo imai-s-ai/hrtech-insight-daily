@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-19",
+  "dateKey": "2026-03-20",
   "importantPoints": [
-    "最重要：Introducing “vibe design” with Stitch（A_GLOBAL）",
-    "次点：高市総理は米国訪問についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はシンガポール共和国のローレンス・ウォン首相兼財務大臣と首脳会談を行いました（B_JAPAN）"
+    "最重要：EU lawmakers must act now to ensure the continued protection of children（A_GLOBAL）",
+    "次点：日米首脳会談についての会見（B_JAPAN）",
+    "注目：高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（１）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,44 +12,33 @@
   ],
   "articles": [
     {
-      "id": "d7dba86a32d0",
-      "title": "Introducing “vibe design” with Stitch",
+      "id": "d8767ad8bbed",
+      "title": "EU lawmakers must act now to ensure the continued protection of children",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-19 03:00 JST"
+      "publishedAtJst": "2026-03-20 06:30 JST"
     },
     {
-      "id": "e742cf7653c8",
-      "title": "高市総理は米国訪問についての会見を行いました",
+      "id": "d30410bc9d6d",
+      "title": "日米首脳会談についての会見",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-19 06:20 JST"
+      "publishedAtJst": "2026-03-20 13:05 JST"
     },
     {
-      "id": "1931e07f1ac8",
-      "title": "高市総理はシンガポール共和国のローレンス・ウォン首相兼財務大臣と首脳会談を行いました",
+      "id": "d50da6125c5b",
+      "title": "高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（１）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-19 02:45 JST"
-    },
-    {
-      "id": "310658f5b680",
-      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-18 08:17 JST"
+      "publishedAtJst": "2026-03-20 09:00 JST"
     },
     {
       "id": "429881ea07c5",
@@ -61,31 +50,40 @@
       "publishedAtJst": "2026-03-18 01:37 JST"
     },
     {
-      "id": "6684b397e0f1",
-      "title": "高市総理の米国訪問について",
-      "category": "B_JAPAN",
+      "id": "c07825b4f460",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-19 01:00 JST"
+      "publishedAtJst": "2026-03-17 21:33 JST"
     },
     {
-      "id": "4eb5ddd71cc7",
-      "title": "閣議の概要について",
+      "id": "e4a801ca93ed",
+      "title": "木原内閣官房長官は２０２７年国際園芸博覧会関係閣僚会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 18:40 JST"
+      "publishedAtJst": "2026-03-20 02:10 JST"
     },
     {
-      "id": "131bc54cb32d",
-      "title": "警告画面が表示される不具合について",
+      "id": "68693d483e89",
+      "title": "日本商工会議所 第１４２回通常会員総会　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 02:00 JST"
+      "publishedAtJst": "2026-03-20 02:00 JST"
+    },
+    {
+      "id": "2e11ba3b3add",
+      "title": "閣議の概要／ＧＲＥＥＮ×ＥＸＰＯ ２０２７について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-19 18:00 JST"
     }
   ]
 }
