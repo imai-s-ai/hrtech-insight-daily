@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-20",
+  "dateKey": "2026-03-21",
   "importantPoints": [
-    "最重要：EU lawmakers must act now to ensure the continued protection of children（A_GLOBAL）",
-    "次点：日米首脳会談についての会見（B_JAPAN）",
-    "注目：高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（１）（B_JAPAN）"
+    "最重要：Build a Domain-Specific Embedding Model in Under a Day（A_GLOBAL）",
+    "次点：陸上自衛隊高等工科学校卒業式　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（２）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,42 @@
   ],
   "articles": [
     {
-      "id": "d8767ad8bbed",
-      "title": "EU lawmakers must act now to ensure the continued protection of children",
+      "id": "c1a4d7d6313d",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-20 06:30 JST"
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-21 04:38 JST"
+    },
+    {
+      "id": "f67dc508df5e",
+      "title": "陸上自衛隊高等工科学校卒業式　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-20 23:00 JST"
+    },
+    {
+      "id": "801716659996",
+      "title": "高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（２）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-20 17:00 JST"
+    },
+    {
+      "id": "952cb115c7d6",
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-20 23:14 JST"
     },
     {
       "id": "d30410bc9d6d",
@@ -41,24 +68,6 @@
       "publishedAtJst": "2026-03-20 09:00 JST"
     },
     {
-      "id": "429881ea07c5",
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-18 01:37 JST"
-    },
-    {
-      "id": "c07825b4f460",
-      "title": "Holotron-12B - High Throughput Computer Use Agent",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-17 21:33 JST"
-    },
-    {
       "id": "e4a801ca93ed",
       "title": "木原内閣官房長官は２０２７年国際園芸博覧会関係閣僚会議に出席しました",
       "category": "B_JAPAN",
@@ -75,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-20 02:00 JST"
-    },
-    {
-      "id": "2e11ba3b3add",
-      "title": "閣議の概要／ＧＲＥＥＮ×ＥＸＰＯ ２０２７について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-19 18:00 JST"
     }
   ]
 }
