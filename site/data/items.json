@@ -113,18 +113,20 @@
       ]
     },
     {
-      "id": "e4a801ca93ed",
-      "title": "木原内閣官房長官は２０２７年国際園芸博覧会関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-20 02:10 JST",
+      "id": "c1a4d7d6313d",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-03-21 04:38 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 木原内閣官房長官は２０２７年国際園芸博覧会関係閣僚会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-20 02:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Build a Domain-Specific Embedding Model in Under a Day\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-21 04:38 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/pages/20260319choukan_engei_hakurankai.html"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-03-22",
+  "dateKey": "2026-03-23",
   "importantPoints": [
     "最重要：We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.（A_GLOBAL）",
     "次点：高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（３）（B_JAPAN）",
@@ -75,13 +75,15 @@
       "publishedAtJst": "2026-03-20 09:00 JST"
     },
     {
-      "id": "e4a801ca93ed",
-      "title": "木原内閣官房長官は２０２７年国際園芸博覧会関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
+      "id": "c1a4d7d6313d",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-20 02:10 JST"
+      "publishedAtJst": "2026-03-21 04:38 JST"
     }
   ]
 }
