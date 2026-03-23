@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-23",
+  "dateKey": "2026-03-24",
   "importantPoints": [
-    "最重要：We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.（A_GLOBAL）",
-    "次点：高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（３）（B_JAPAN）",
-    "注目：陸上自衛隊高等工科学校卒業式　高市総理ビデオメッセージ（B_JAPAN）"
+    "最重要：The M-Trends 2026 report shows how to strengthen business cybersecurity.（A_GLOBAL）",
+    "次点：高市総理は政労使の意見交換に出席しました（B_JAPAN）",
+    "注目：高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（３）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,22 @@
   ],
   "articles": [
     {
-      "id": "2a9e49de9822",
-      "title": "We’re launching the Top Sports Podcasts on YouTube for brands to align with sports fans.",
+      "id": "fb7d724ddb4d",
+      "title": "The M-Trends 2026 report shows how to strengthen business cybersecurity.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-21 00:00 JST"
+      "publishedAtJst": "2026-03-24 00:00 JST"
+    },
+    {
+      "id": "f21896845341",
+      "title": "高市総理は政労使の意見交換に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-24 03:00 JST"
     },
     {
       "id": "945f3261986c",
@@ -30,60 +39,24 @@
       "publishedAtJst": "2026-03-21 17:30 JST"
     },
     {
-      "id": "f67dc508df5e",
-      "title": "陸上自衛隊高等工科学校卒業式　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
+      "id": "9d01f7e968b6",
+      "title": "Google NewFront 2026: introducing the Gemini advantage",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-20 23:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-24 00:00 JST"
     },
     {
-      "id": "952cb115c7d6",
-      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-20 23:14 JST"
-    },
-    {
-      "id": "801716659996",
-      "title": "高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（２）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-20 17:00 JST"
-    },
-    {
-      "id": "d30410bc9d6d",
-      "title": "日米首脳会談についての会見",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-20 13:05 JST"
-    },
-    {
-      "id": "d50da6125c5b",
-      "title": "高市総理はアメリカ合衆国のワシントンＤ．Ｃ．を訪問しました（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-20 09:00 JST"
-    },
-    {
-      "id": "c1a4d7d6313d",
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "id": "6aadf7ce5b64",
+      "title": "Investing in a water-secure future for all",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-21 04:38 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-23 22:00 JST"
     }
   ]
 }
