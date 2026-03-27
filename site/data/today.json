@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-27",
+  "dateKey": "2026-03-28",
   "importantPoints": [
-    "最重要：We’re partnering with multiple national teams ahead of soccer’s biggest global showdown.（A_GLOBAL）",
-    "次点：高市総理は令和８年第３回経済財政諮問会議を開催しました（B_JAPAN）",
-    "注目：高市総理は第１０回ものづくり日本大賞内閣総理大臣賞表彰式に出席しました（B_JAPAN）"
+    "最重要：How Google Does It: An inside look at cybersecurity（A_GLOBAL）",
+    "次点：高市総理は月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
+    "注目：高市内閣総理大臣発バレンドラ・シャハ・ネパール首相宛て祝辞（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,60 @@
   ],
   "articles": [
     {
-      "id": "1295e333784b",
-      "title": "We’re partnering with multiple national teams ahead of soccer’s biggest global showdown.",
+      "id": "f49b3cf9e14f",
+      "title": "How Google Does It: An inside look at cybersecurity",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-27 05:00 JST"
+      "publishedAtJst": "2026-03-28 06:00 JST"
+    },
+    {
+      "id": "38b290d85a1b",
+      "title": "高市総理は月例経済報告等に関する関係閣僚会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-28 03:00 JST"
+    },
+    {
+      "id": "e607164af016",
+      "title": "高市内閣総理大臣発バレンドラ・シャハ・ネパール首相宛て祝辞",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-28 02:20 JST"
+    },
+    {
+      "id": "8800ff996bfa",
+      "title": "閣議の概要／クマ被害対策等に関する関係閣僚会議の開催について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-27 18:40 JST"
+    },
+    {
+      "id": "ace12e275e9b",
+      "title": "高市総理は第８４回総合科学技術・イノベーション会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-27 18:05 JST"
+    },
+    {
+      "id": "f99d650ae9ce",
+      "title": "木原内閣官房長官は第３回クマ被害対策等に関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-03-27 17:55 JST"
     },
     {
       "id": "65a185a267e1",
@@ -37,51 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-26 03:00 JST"
-    },
-    {
-      "id": "05345d1651b6",
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-24 11:01 JST"
-    },
-    {
-      "id": "530231ac4228",
-      "title": "高市総理は国際エネルギー機関（ＩＥＡ）のファティ・ビロル事務局長による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-25 23:45 JST"
-    },
-    {
-      "id": "7988c0548b78",
-      "title": "高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-25 03:00 JST"
-    },
-    {
-      "id": "55da2094a95d",
-      "title": "高市総理はマレーシアのアンワル・イブラヒム首相と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-24 20:30 JST"
-    },
-    {
-      "id": "41a893dabcb0",
-      "title": "高市総理はマーシャル諸島共和国のヒルダ・C・ハイネ大統領と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-24 19:40 JST"
     }
   ]
 }
