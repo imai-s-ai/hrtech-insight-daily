@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-03-29",
+  "dateKey": "2026-03-30",
   "importantPoints": [
     "最重要：How Google Does It: An inside look at cybersecurity（A_GLOBAL）",
     "次点：高市総理は月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
@@ -77,13 +77,13 @@
       "publishedAtJst": "2026-03-27 17:55 JST"
     },
     {
-      "id": "65a185a267e1",
-      "title": "高市総理は令和８年第３回経済財政諮問会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "5da6e07a9818",
+      "title": "Find out what’s new in the Gemini app in March's Gemini Drop.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-27 03:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-28 01:00 JST"
     }
   ]
 }
