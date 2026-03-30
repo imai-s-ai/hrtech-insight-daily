@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-03-30",
+  "dateKey": "2026-03-31",
   "importantPoints": [
-    "最重要：How Google Does It: An inside look at cybersecurity（A_GLOBAL）",
-    "次点：高市総理は月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
-    "注目：高市内閣総理大臣発バレンドラ・シャハ・ネパール首相宛て祝辞（B_JAPAN）"
+    "最重要：Explore Benjamin Franklin’s scientific discoveries on NotebookLM（A_GLOBAL）",
+    "次点：Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models.（A_GLOBAL）",
+    "注目：Evolving expectations of what’s possible（A_GLOBAL）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,78 +12,33 @@
   ],
   "articles": [
     {
-      "id": "f49b3cf9e14f",
-      "title": "How Google Does It: An inside look at cybersecurity",
+      "id": "c5733f7fc3c8",
+      "title": "Explore Benjamin Franklin’s scientific discoveries on NotebookLM",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-03-31 05:48 JST"
+    },
+    {
+      "id": "f37a37657d19",
+      "title": "Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-28 06:00 JST"
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ori…",
+      "publishedAtJst": "2026-03-31 00:30 JST"
     },
     {
-      "id": "38b290d85a1b",
-      "title": "高市総理は月例経済報告等に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-28 03:00 JST"
-    },
-    {
-      "id": "e607164af016",
-      "title": "高市内閣総理大臣発バレンドラ・シャハ・ネパール首相宛て祝辞",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-28 02:20 JST"
-    },
-    {
-      "id": "51a02dc6c0ff",
-      "title": "Liberate your OpenClaw",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-27 09:00 JST"
-    },
-    {
-      "id": "8800ff996bfa",
-      "title": "閣議の概要／クマ被害対策等に関する関係閣僚会議の開催について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-27 18:40 JST"
-    },
-    {
-      "id": "ace12e275e9b",
-      "title": "高市総理は第８４回総合科学技術・イノベーション会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-27 18:05 JST"
-    },
-    {
-      "id": "f99d650ae9ce",
-      "title": "木原内閣官房長官は第３回クマ被害対策等に関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-27 17:55 JST"
-    },
-    {
-      "id": "5da6e07a9818",
-      "title": "Find out what’s new in the Gemini app in March's Gemini Drop.",
+      "id": "8877a284aca6",
+      "title": "Evolving expectations of what’s possible",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-03-28 01:00 JST"
+      "publishedAtJst": "2026-03-31 00:00 JST"
     }
   ]
 }
