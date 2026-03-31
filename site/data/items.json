@@ -1,52 +1,136 @@
 {
   "items": [
     {
-      "id": "c5733f7fc3c8",
-      "title": "Explore Benjamin Franklin’s scientific discoveries on NotebookLM",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-31 05:48 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Explore Benjamin Franklin’s scientific discoveries on NotebookLM\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Fwc5d9d.max-600x600.format-webp.webp\">Benjamin Franklin’s scientific legacy and diplomatic career as seen through original Royal Society documents.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-31 05:48 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/"
-        }
-      ]
-    },
-    {
-      "id": "f37a37657d19",
-      "title": "Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models.",
+      "id": "4ae6fa51fc5e",
+      "title": "Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-31 00:30 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ori…",
-      "summaryFull": "――――――――――\n📰 Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-hh5d044n_thumb.jpg\">We’re bringing Maps’ AI-powered EV charging features to over 350 car models with Android Auto. Now, Maps will recommend when and where to charge based on your EV mo\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-31 00:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "publishedAtJst": "2026-04-01 21:54 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-api-skills-mcp.max-600x600.format-webp.webp\">Agents can generate outdated Gemini API code because their training data has a cutoff date. We built two complementary tools to fix this.The Gemini API Do\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-04-01 21:54 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/maps/google-maps-simplifies-battery-predictions-and-trip-planning-for-350-android-auto-ev-models/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/"
         }
       ]
     },
     {
-      "id": "8877a284aca6",
-      "title": "Evolving expectations of what’s possible",
-      "category": "A_GLOBAL",
+      "id": "d48f6f301a0f",
+      "title": "高市総理は第５回日本博総合推進会議を開催しました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-03-31 00:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Evolving expectations of what’s possible\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_evolvingexpectations_hero.max-600x600.format-webp.webp\">Kent Walker shares Google’s perspective on the future of privacy at IAPP Global Summit 2026.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-03-31 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-04-01 03:20 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は第５回日本博総合推進会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-04-01 03:20 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/evolving-expectations-of-whats-possible/"
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31nihonhaku.html"
+        }
+      ]
+    },
+    {
+      "id": "fea946689518",
+      "title": "高市総理はボーイスカウト富士スカウト章受章者による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-04-01 03:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はボーイスカウト富士スカウト章受章者による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-04-01 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31hyoukei.html"
+        }
+      ]
+    },
+    {
+      "id": "3984d84784ef",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-04-01 00:10 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-04-01 00:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
+        }
+      ]
+    },
+    {
+      "id": "1f5256fffe0b",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-03-31 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 TRL v1.0: Post-Training Library Built to Move with the Field\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-03-31 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/trl-v1"
+        }
+      ]
+    },
+    {
+      "id": "3b7452624003",
+      "title": "高市総理はインドネシア共和国のプラボウォ・スビアント大統領と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-31 20:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はインドネシア共和国のプラボウォ・スビアント大統領と首脳会談を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-31 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31indonesia.html"
+        }
+      ]
+    },
+    {
+      "id": "7c73603c40ca",
+      "title": "高市総理は中東情勢に関する関係閣僚会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-31 18:20 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は中東情勢に関する関係閣僚会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-31 18:20 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31kaigi_middle-east.html"
+        }
+      ]
+    },
+    {
+      "id": "1a411eac4863",
+      "title": "閣議の概要／内閣府の人事について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-03-31 18:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 閣議の概要／内閣府の人事について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-31 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202603/31_a.html"
         }
       ]
     }
