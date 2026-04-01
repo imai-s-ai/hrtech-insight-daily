@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-01",
+  "dateKey": "2026-04-02",
   "importantPoints": [
-    "最重要：Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.（A_GLOBAL）",
-    "次点：高市総理は第５回日本博総合推進会議を開催しました（B_JAPAN）",
-    "注目：高市総理はボーイスカウト富士スカウト章受章者による表敬を受けました（B_JAPAN）"
+    "最重要：Google.org and Highlights for Children have helped 1 million students navigate the digital world.（A_GLOBAL）",
+    "次点：高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました（B_JAPAN）",
+    "注目：高市総理は第５回日本博総合推進会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,22 @@
   ],
   "articles": [
     {
-      "id": "4ae6fa51fc5e",
-      "title": "Improve coding agents’ performance with Gemini API Docs MCP and Agent Skills.",
+      "id": "d9eba886d833",
+      "title": "Google.org and Highlights for Children have helped 1 million students navigate the digital world.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-01 21:54 JST"
+      "publishedAtJst": "2026-04-02 03:30 JST"
+    },
+    {
+      "id": "c785a1a903fc",
+      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-02 02:50 JST"
     },
     {
       "id": "d48f6f301a0f",
@@ -32,6 +39,24 @@
       "publishedAtJst": "2026-04-01 03:20 JST"
     },
     {
+      "id": "e88aa7265188",
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-02 01:36 JST"
+    },
+    {
+      "id": "427e27dd0160",
+      "title": "Falcon Perception",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-01 16:13 JST"
+    },
+    {
       "id": "fea946689518",
       "title": "高市総理はボーイスカウト富士スカウト章受章者による表敬を受けました",
       "category": "B_JAPAN",
@@ -39,26 +64,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-04-01 03:00 JST"
-    },
-    {
-      "id": "3984d84784ef",
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-01 00:10 JST"
-    },
-    {
-      "id": "1f5256fffe0b",
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-31 09:00 JST"
     },
     {
       "id": "3b7452624003",
@@ -79,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-31 18:20 JST"
-    },
-    {
-      "id": "1a411eac4863",
-      "title": "閣議の概要／内閣府の人事について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-31 18:00 JST"
     }
   ]
 }
