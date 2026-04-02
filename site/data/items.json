@@ -1,18 +1,34 @@
 {
   "items": [
     {
-      "id": "d9eba886d833",
-      "title": "Google.org and Highlights for Children have helped 1 million students navigate the digital world.",
+      "id": "67b63260d402",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-04-02 03:30 JST",
+      "publishedAtJst": "2026-04-03 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Google.org and Highlights for Children have helped 1 million students navigate the digital world.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BeInternetAwesome_Social_BT2HFe.max-600x600.format-webp.webp\">Google.org expanded our existing collaboration with Highlights for Children.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-04-02 03:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Gemma 4: Byte for byte, the most capable open models\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma-4_blog_keyword_header-dar.max-600x600.format-webp.webp\">Gemma 4: our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-04-03 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/highlights-be-internet-awesome/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/"
+        }
+      ]
+    },
+    {
+      "id": "d117e49ffd04",
+      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-04-02 18:45 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-04-02 18:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202604/02sisatsu.html"
         }
       ]
     },
@@ -33,18 +49,18 @@
       ]
     },
     {
-      "id": "d48f6f301a0f",
-      "title": "高市総理は第５回日本博総合推進会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "ded9bca8355a",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-04-01 03:20 JST",
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-04-02 09:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は第５回日本博総合推進会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-04-01 03:20 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Welcome Gemma 4: Frontier multimodal intelligence on device\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-04-02 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31nihonhaku.html"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/gemma4"
         }
       ]
     },
@@ -65,18 +81,18 @@
       ]
     },
     {
-      "id": "427e27dd0160",
-      "title": "Falcon Perception",
-      "category": "C_BIZ_AI",
+      "id": "d48f6f301a0f",
+      "title": "高市総理は第５回日本博総合推進会議を開催しました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-04-01 16:13 JST",
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-04-01 03:20 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Falcon Perception\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-04-01 16:13 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は第５回日本博総合推進会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-04-01 03:20 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/tiiuae/falcon-perception"
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31nihonhaku.html"
         }
       ]
     },
@@ -109,24 +125,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/actions/202603/31indonesia.html"
-        }
-      ]
-    },
-    {
-      "id": "7c73603c40ca",
-      "title": "高市総理は中東情勢に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-03-31 18:20 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は中東情勢に関する関係閣僚会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-03-31 18:20 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202603/31kaigi_middle-east.html"
         }
       ]
     }

@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-02",
+  "dateKey": "2026-04-03",
   "importantPoints": [
-    "最重要：Google.org and Highlights for Children have helped 1 million students navigate the digital world.（A_GLOBAL）",
-    "次点：高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました（B_JAPAN）",
-    "注目：高市総理は第５回日本博総合推進会議を開催しました（B_JAPAN）"
+    "最重要：Gemma 4: Byte for byte, the most capable open models（A_GLOBAL）",
+    "次点：高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました（B_JAPAN）",
+    "注目：高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,22 @@
   ],
   "articles": [
     {
-      "id": "d9eba886d833",
-      "title": "Google.org and Highlights for Children have helped 1 million students navigate the digital world.",
+      "id": "67b63260d402",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-02 03:30 JST"
+      "publishedAtJst": "2026-04-03 01:00 JST"
+    },
+    {
+      "id": "d117e49ffd04",
+      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-02 18:45 JST"
     },
     {
       "id": "c785a1a903fc",
@@ -30,13 +39,13 @@
       "publishedAtJst": "2026-04-02 02:50 JST"
     },
     {
-      "id": "d48f6f301a0f",
-      "title": "高市総理は第５回日本博総合推進会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "ded9bca8355a",
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-01 03:20 JST"
+      "publishedAtJst": "2026-04-02 09:00 JST"
     },
     {
       "id": "e88aa7265188",
@@ -48,13 +57,13 @@
       "publishedAtJst": "2026-04-02 01:36 JST"
     },
     {
-      "id": "427e27dd0160",
-      "title": "Falcon Perception",
-      "category": "C_BIZ_AI",
+      "id": "d48f6f301a0f",
+      "title": "高市総理は第５回日本博総合推進会議を開催しました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-01 16:13 JST"
+      "publishedAtJst": "2026-04-01 03:20 JST"
     },
     {
       "id": "fea946689518",
@@ -73,17 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-03-31 20:00 JST"
-    },
-    {
-      "id": "7c73603c40ca",
-      "title": "高市総理は中東情勢に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-31 18:20 JST"
     }
   ]
 }
