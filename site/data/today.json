@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-03",
+  "dateKey": "2026-04-04",
   "importantPoints": [
-    "最重要：Gemma 4: Byte for byte, the most capable open models（A_GLOBAL）",
-    "次点：高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました（B_JAPAN）",
-    "注目：高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました（B_JAPAN）"
+    "最重要：Reaffirming our commitment to child safety in the face of European Union inaction（A_GLOBAL）",
+    "次点：高市総理はブラッド・スミス・マイクロソフト社副会長兼社長等による表敬を受けました（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,31 +12,31 @@
   ],
   "articles": [
     {
-      "id": "67b63260d402",
-      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "id": "6dba2e25226e",
+      "title": "Reaffirming our commitment to child safety in the face of European Union inaction",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-03 01:00 JST"
+      "publishedAtJst": "2026-04-04 05:00 JST"
     },
     {
-      "id": "d117e49ffd04",
-      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました",
+      "id": "4810d67ab3c3",
+      "title": "高市総理はブラッド・スミス・マイクロソフト社副会長兼社長等による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-02 18:45 JST"
+      "publishedAtJst": "2026-04-03 20:00 JST"
     },
     {
-      "id": "c785a1a903fc",
-      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました",
+      "id": "922742591eb2",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-02 02:50 JST"
+      "publishedAtJst": "2026-04-03 18:30 JST"
     },
     {
       "id": "ded9bca8355a",
@@ -57,31 +57,31 @@
       "publishedAtJst": "2026-04-02 01:36 JST"
     },
     {
-      "id": "d48f6f301a0f",
-      "title": "高市総理は第５回日本博総合推進会議を開催しました",
+      "id": "d117e49ffd04",
+      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-01 03:20 JST"
+      "publishedAtJst": "2026-04-02 18:45 JST"
     },
     {
-      "id": "fea946689518",
-      "title": "高市総理はボーイスカウト富士スカウト章受章者による表敬を受けました",
+      "id": "c785a1a903fc",
+      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-01 03:00 JST"
+      "publishedAtJst": "2026-04-02 02:50 JST"
     },
     {
-      "id": "3b7452624003",
-      "title": "高市総理はインドネシア共和国のプラボウォ・スビアント大統領と首脳会談を行いました",
-      "category": "B_JAPAN",
+      "id": "67b63260d402",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-03-31 20:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-04-03 01:00 JST"
     }
   ]
 }
