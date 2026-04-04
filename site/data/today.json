@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-04-04",
+  "dateKey": "2026-04-05",
   "importantPoints": [
     "最重要：Reaffirming our commitment to child safety in the face of European Union inaction（A_GLOBAL）",
     "次点：高市総理はブラッド・スミス・マイクロソフト社副会長兼社長等による表敬を受けました（B_JAPAN）",
@@ -18,7 +18,7 @@
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-04 05:00 JST"
+      "publishedAtJst": "2026-04-04 18:00 JST"
     },
     {
       "id": "4810d67ab3c3",
@@ -48,15 +48,6 @@
       "publishedAtJst": "2026-04-02 09:00 JST"
     },
     {
-      "id": "e88aa7265188",
-      "title": "Holo3: Breaking the Computer Use Frontier",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-02 01:36 JST"
-    },
-    {
       "id": "d117e49ffd04",
       "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と共に宇宙スタートアップ企業を視察しました",
       "category": "B_JAPAN",
@@ -66,19 +57,30 @@
       "publishedAtJst": "2026-04-02 18:45 JST"
     },
     {
-      "id": "c785a1a903fc",
-      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と首脳会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-02 02:50 JST"
-    },
-    {
       "id": "67b63260d402",
       "title": "Gemma 4: Byte for byte, the most capable open models",
       "category": "A_GLOBAL",
       "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-04-03 01:00 JST"
+    },
+    {
+      "id": "f2b31c55fc99",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-04-03 01:00 JST"
+    },
+    {
+      "id": "ab324ca76ade",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-04-03 01:00 JST"
