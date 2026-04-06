@@ -1,9 +1,8 @@
 {
-  "dateKey": "2026-04-06",
+  "dateKey": "2026-04-07",
   "importantPoints": [
     "最重要：Reaffirming our commitment to child safety in the face of European Union inaction（A_GLOBAL）",
-    "次点：高市総理はブラッド・スミス・マイクロソフト社副会長兼社長等による表敬を受けました（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "次点：高市総理は第６０回国家公務員合同初任研修の訓示式に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,22 +20,13 @@
       "publishedAtJst": "2026-04-04 18:00 JST"
     },
     {
-      "id": "4810d67ab3c3",
-      "title": "高市総理はブラッド・スミス・マイクロソフト社副会長兼社長等による表敬を受けました",
+      "id": "27a12f634395",
+      "title": "高市総理は第６０回国家公務員合同初任研修の訓示式に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-03 20:00 JST"
-    },
-    {
-      "id": "922742591eb2",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-03 18:30 JST"
+      "publishedAtJst": "2026-04-06 23:50 JST"
     }
   ]
 }
