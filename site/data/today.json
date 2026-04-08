@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-08",
+  "dateKey": "2026-04-09",
   "importantPoints": [
-    "最重要：Get more done with new vertical tabs and immersive reading mode in Chrome（A_GLOBAL）",
-    "次点：高市総理はアラブ首長国連邦（ＵＡＥ）のムハンマド・ビン・ザーイド・アール・ナヒヤーン大統領と電話会談を行いました（B_JAPAN）",
-    "注目：高市総理は令和８年度予算成立及び中東情勢への対応等についての会見を行いました（B_JAPAN）"
+    "最重要：Introducing Learn Mode: your personal coding tutor in Google Colab（A_GLOBAL）",
+    "次点：高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました（B_JAPAN）",
+    "注目：高市総理はペゼシュキアン・イラン・イスラム共和国大統領と電話会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,31 @@
   ],
   "articles": [
     {
-      "id": "360db5c851e3",
-      "title": "Get more done with new vertical tabs and immersive reading mode in Chrome",
+      "id": "c4cfeffa34f2",
+      "title": "Introducing Learn Mode: your personal coding tutor in Google Colab",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-08 02:00 JST"
+      "publishedAtJst": "2026-04-09 01:00 JST"
     },
     {
-      "id": "2fedab47db9e",
-      "title": "高市総理はアラブ首長国連邦（ＵＡＥ）のムハンマド・ビン・ザーイド・アール・ナヒヤーン大統領と電話会談を行いました",
+      "id": "8b40eab1c1fc",
+      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-08 06:00 JST"
+      "publishedAtJst": "2026-04-09 02:50 JST"
     },
     {
-      "id": "7d15fa133e7f",
-      "title": "高市総理は令和８年度予算成立及び中東情勢への対応等についての会見を行いました",
+      "id": "040dcaf30d45",
+      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領と電話会談を行いました",
       "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
+      "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-08 04:00 JST"
+      "publishedAtJst": "2026-04-09 02:50 JST"
     },
     {
       "id": "b089bb1b5e90",
@@ -52,42 +50,42 @@
       "publishedAtJst": "2026-04-08 01:00 JST"
     },
     {
-      "id": "6e7e4fcbeae9",
-      "title": "木原内閣官房長官は茨城県西農業協同組合協議会による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-07 19:30 JST"
-    },
-    {
-      "id": "02f86b1dd951",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-07 18:30 JST"
-    },
-    {
-      "id": "27a12f634395",
-      "title": "高市総理は第６０回国家公務員合同初任研修の訓示式に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-06 23:50 JST"
-    },
-    {
-      "id": "ff6e76db3719",
-      "title": "Here’s how we built Gmail to keep your data secure and private in the Gemini era.",
-      "category": "A_GLOBAL",
+      "id": "1702c67bf9a3",
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-08 01:00 JST"
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-08 23:27 JST"
+    },
+    {
+      "id": "5928fdd45975",
+      "title": "国と東京都の協議会の開催について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-09 01:00 JST"
+    },
+    {
+      "id": "416c4af56d80",
+      "title": "高市総理は日ブラジル戦略的経済パートナーシップ賢人会議飯島座長等による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-08 23:30 JST"
+    },
+    {
+      "id": "41dc3a805980",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-08 23:25 JST"
     }
   ]
 }
