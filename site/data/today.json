@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-09",
+  "dateKey": "2026-04-10",
   "importantPoints": [
-    "最重要：Introducing Learn Mode: your personal coding tutor in Google Colab（A_GLOBAL）",
-    "次点：高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はペゼシュキアン・イラン・イスラム共和国大統領と電話会談を行いました（B_JAPAN）"
+    "最重要：Fitbit’s personal health coach is expanding to reach 37 countries and 32 languages.（A_GLOBAL）",
+    "次点：高市総理は広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました（B_JAPAN）",
+    "注目：高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,26 +12,26 @@
   ],
   "articles": [
     {
-      "id": "c4cfeffa34f2",
-      "title": "Introducing Learn Mode: your personal coding tutor in Google Colab",
+      "id": "c8433499ad61",
+      "title": "Fitbit’s personal health coach is expanding to reach 37 countries and 32 languages.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-09 01:00 JST"
+      "publishedAtJst": "2026-04-10 02:30 JST"
     },
     {
-      "id": "8b40eab1c1fc",
-      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました",
+      "id": "5c0fe5e138c3",
+      "title": "高市総理は広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-09 02:50 JST"
+      "publishedAtJst": "2026-04-10 01:00 JST"
     },
     {
-      "id": "040dcaf30d45",
-      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領と電話会談を行いました",
+      "id": "8b40eab1c1fc",
+      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
@@ -50,15 +50,22 @@
       "publishedAtJst": "2026-04-08 01:00 JST"
     },
     {
-      "id": "1702c67bf9a3",
-      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "id": "a3ef54c12f07",
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
       "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-08 23:27 JST"
+      "publishedAtJst": "2026-04-09 09:00 JST"
+    },
+    {
+      "id": "040dcaf30d45",
+      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-09 02:50 JST"
     },
     {
       "id": "5928fdd45975",
@@ -77,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-04-08 23:30 JST"
-    },
-    {
-      "id": "41dc3a805980",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-08 23:25 JST"
     }
   ]
 }
