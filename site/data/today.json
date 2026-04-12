@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-04-12",
+  "dateKey": "2026-04-13",
   "importantPoints": [
     "最重要：6 easy ways to study for finals with Gemini（A_GLOBAL）",
     "次点：高市総理は第１回国と東京都の協議会に出席しました（B_JAPAN）",
@@ -39,24 +39,6 @@
       "publishedAtJst": "2026-04-10 23:00 JST"
     },
     {
-      "id": "a3ef54c12f07",
-      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-09 09:00 JST"
-    },
-    {
-      "id": "89c4c4ec4b95",
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-09 09:00 JST"
-    },
-    {
       "id": "b4abcb00e82e",
       "title": "第７６回社会を明るくする運動　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
@@ -84,6 +66,26 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-04-10 17:00 JST"
+    },
+    {
+      "id": "23bcb202fe41",
+      "title": "木原内閣官房長官は第２回租税特別措置・補助金見直しに関する関係閣僚等及び副大臣会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-10 16:45 JST"
+    },
+    {
+      "id": "817c5e155ca2",
+      "title": "Booking restaurants in the UK just got easier with AI in Search",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-04-10 13:01 JST"
     }
   ]
 }
