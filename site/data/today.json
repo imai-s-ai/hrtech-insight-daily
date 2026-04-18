@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-18",
+  "dateKey": "2026-04-19",
   "importantPoints": [
     "最重要：7 ways to travel smarter this summer, with help from Google（A_GLOBAL）",
-    "次点：閣議の概要／国際連合南スーダン共和国ミッション（ＵＮＭＩＳＳ）への自衛官の派遣について（B_JAPAN）",
-    "注目：高市総理は中東情勢に関する関係閣僚会議に出席しました（B_JAPAN）"
+    "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
+    "注目：閣議の概要／国際連合南スーダン共和国ミッション（ＵＮＭＩＳＳ）への自衛官の派遣について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,15 @@
       "publishedAtJst": "2026-04-17 23:00 JST"
     },
     {
+      "id": "a346b686faa6",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-19 15:30 JST"
+    },
+    {
       "id": "53109767f829",
       "title": "閣議の概要／国際連合南スーダン共和国ミッション（ＵＮＭＩＳＳ）への自衛官の派遣について",
       "category": "B_JAPAN",
@@ -28,17 +37,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-04-17 18:00 JST"
-    },
-    {
-      "id": "fef19646c6a5",
-      "title": "高市総理は中東情勢に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-17 03:15 JST"
     },
     {
       "id": "a51525335ebc",
@@ -59,6 +57,17 @@
       "publishedAtJst": "2026-04-16 09:00 JST"
     },
     {
+      "id": "fef19646c6a5",
+      "title": "高市総理は中東情勢に関する関係閣僚会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-17 03:15 JST"
+    },
+    {
       "id": "943b38c29225",
       "title": "高市総理は自由民主党・環境・温暖化対策調査会・環境部会・経済産業部会合同会議による提言申入れを受けました",
       "category": "B_JAPAN",
@@ -75,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-04-16 23:30 JST"
-    },
-    {
-      "id": "f760916c85a8",
-      "title": "ミラトビッチ・モンテネグロ大統領夫妻の訪日について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-16 20:00 JST"
     }
   ]
 }
