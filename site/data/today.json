@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-04-19",
+  "dateKey": "2026-04-20",
   "importantPoints": [
     "最重要：7 ways to travel smarter this summer, with help from Google（A_GLOBAL）",
     "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
@@ -48,42 +48,13 @@
       "publishedAtJst": "2026-04-18 01:17 JST"
     },
     {
-      "id": "cfdeed39e562",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "category": "C_BIZ_AI",
+      "id": "d6749dd419df",
+      "title": "Discover this year’s trending summer travel destinations and activities",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-16 09:00 JST"
-    },
-    {
-      "id": "fef19646c6a5",
-      "title": "高市総理は中東情勢に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-17 03:15 JST"
-    },
-    {
-      "id": "943b38c29225",
-      "title": "高市総理は自由民主党・環境・温暖化対策調査会・環境部会・経済産業部会合同会議による提言申入れを受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-17 00:25 JST"
-    },
-    {
-      "id": "42cacac6c4d3",
-      "title": "高市総理は日米文化教育交流会議（カルコン）の佐々江賢一郎日本側委員長等による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-16 23:30 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-04-17 23:00 JST"
     }
   ]
 }
