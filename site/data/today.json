@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-20",
+  "dateKey": "2026-04-21",
   "importantPoints": [
-    "最重要：7 ways to travel smarter this summer, with help from Google（A_GLOBAL）",
-    "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
-    "注目：閣議の概要／国際連合南スーダン共和国ミッション（ＵＮＭＩＳＳ）への自衛官の派遣について（B_JAPAN）"
+    "最重要：We’re expanding Gemini in Chrome to users in Asia Pacific.（A_GLOBAL）",
+    "次点：三陸沖を震源とする地震及び北海道・三陸沖後発地震注意情報についての特設ページを公開しました（B_JAPAN）",
+    "注目：高市総理は三陸沖を震源とする地震についての会見（２）を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,60 @@
   ],
   "articles": [
     {
-      "id": "0d7a887ebfbf",
-      "title": "7 ways to travel smarter this summer, with help from Google",
+      "id": "3857a38b250e",
+      "title": "We’re expanding Gemini in Chrome to users in Asia Pacific.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-17 23:00 JST"
+      "publishedAtJst": "2026-04-21 07:00 JST"
+    },
+    {
+      "id": "fcf4e866026b",
+      "title": "三陸沖を震源とする地震及び北海道・三陸沖後発地震注意情報についての特設ページを公開しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-21 06:35 JST"
+    },
+    {
+      "id": "9658f66d3af4",
+      "title": "高市総理は三陸沖を震源とする地震についての会見（２）を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-21 04:23 JST"
+    },
+    {
+      "id": "308d6af2c69b",
+      "title": "三陸沖を震源とする地震について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-21 03:30 JST"
+    },
+    {
+      "id": "f7763322efd1",
+      "title": "高市総理は三陸沖を震源とする地震についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-21 02:16 JST"
+    },
+    {
+      "id": "dbf9ecb70b65",
+      "title": "木原内閣官房長官は第１３回デジタル行財政改革会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-21 02:05 JST"
     },
     {
       "id": "a346b686faa6",
@@ -30,31 +77,13 @@
       "publishedAtJst": "2026-04-19 15:30 JST"
     },
     {
-      "id": "53109767f829",
-      "title": "閣議の概要／国際連合南スーダン共和国ミッション（ＵＮＭＩＳＳ）への自衛官の派遣について",
+      "id": "982791a083f5",
+      "title": "仏・英主催ホルムズ海峡における航行の自由に関する首脳オンライン会合に際する高市内閣総理大臣書面メッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-17 18:00 JST"
-    },
-    {
-      "id": "a51525335ebc",
-      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-18 01:17 JST"
-    },
-    {
-      "id": "d6749dd419df",
-      "title": "Discover this year’s trending summer travel destinations and activities",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-17 23:00 JST"
+      "publishedAtJst": "2026-04-18 08:55 JST"
     }
   ]
 }
