@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-04-22",
+  "dateKey": "2026-04-23",
   "importantPoints": [
-    "最重要：Stitch’s DESIGN.md format is now open-source so you can use it across platforms.（A_GLOBAL）",
-    "次点：高市総理は総理就任半年の振り返り及び防衛装備移転三原則の改正等についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はカタール国のタミーム・ビン・ハマド・アール・サーニ首長と電話会談を行いました（B_JAPAN）"
+    "最重要：10 leading enterprises show why agents mean business（A_GLOBAL）",
+    "次点：高市総理は第４回日本成長戦略会議を開催しました（B_JAPAN）",
+    "注目：高市総理はモンテネグロのミラトビッチ大統領と会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,62 @@
   ],
   "articles": [
     {
-      "id": "724f19ea5e2a",
-      "title": "Stitch’s DESIGN.md format is now open-source so you can use it across platforms.",
+      "id": "69d1288ad48c",
+      "title": "10 leading enterprises show why agents mean business",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-04-22 01:00 JST"
+      "publishedAtJst": "2026-04-23 03:45 JST"
+    },
+    {
+      "id": "2add3d98eac0",
+      "title": "高市総理は第４回日本成長戦略会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-23 03:00 JST"
+    },
+    {
+      "id": "b6d08c85640e",
+      "title": "高市総理はモンテネグロのミラトビッチ大統領と会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-23 00:00 JST"
+    },
+    {
+      "id": "f43124cab998",
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-23 00:40 JST"
+    },
+    {
+      "id": "24e2166b86b9",
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-21 19:09 JST"
+    },
+    {
+      "id": "84a2e07e5594",
+      "title": "高市総理はニュージーランドのクリストファー・ラクソン首相と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-04-22 21:00 JST"
     },
     {
       "id": "a70ed58d0c21",
@@ -39,55 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-04-22 01:30 JST"
-    },
-    {
-      "id": "24e2166b86b9",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-21 19:09 JST"
-    },
-    {
-      "id": "cd40c18e81f2",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-21 09:00 JST"
-    },
-    {
-      "id": "052b4b704f05",
-      "title": "高市総理は経済同友会会員懇談会に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-21 20:45 JST"
-    },
-    {
-      "id": "3dc9c8634f5d",
-      "title": "閣議の概要／防衛装備移転三原則及び防衛装備移転三原則の運用指針の一部改正について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-21 20:00 JST"
-    },
-    {
-      "id": "c46ecaaff79f",
-      "title": "高市総理は内閣総理大臣特別賞状表彰式に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-04-21 19:00 JST"
     }
   ]
 }
