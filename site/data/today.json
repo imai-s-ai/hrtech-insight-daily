@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-03",
+  "dateKey": "2026-05-04",
   "importantPoints": [
-    "最重要：Your car with Google built-in is about to get smarter, thanks to Gemini（A_GLOBAL）",
-    "次点：高市総理はベトナム社会主義共和国のハノイを訪問しました（４）（B_JAPAN）",
-    "注目：高市総理はベトナム社会主義共和国のハノイを訪問しました（３）（B_JAPAN）"
+    "最重要：高市総理はベトナム社会主義共和国のハノイを訪問しました（４）（B_JAPAN）",
+    "次点：高市総理はベトナム社会主義共和国のハノイを訪問しました（３）（B_JAPAN）",
+    "注目：高市総理はベトナム社会主義共和国のハノイを訪問しました（２）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,15 +11,6 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
-    {
-      "id": "33d5d7cfe5eb",
-      "title": "Your car with Google built-in is about to get smarter, thanks to Gemini",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-01 01:00 JST"
-    },
     {
       "id": "abf18d30b3bf",
       "title": "高市総理はベトナム社会主義共和国のハノイを訪問しました（４）",
@@ -64,24 +55,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-01 23:00 JST"
-    },
-    {
-      "id": "f86e1d253faa",
-      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-01 04:15 JST"
-    },
-    {
-      "id": "811ea5f3fbcc",
-      "title": "高市総理はイラン・イスラム共和国のペゼシュキアン大統領と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-01 03:25 JST"
     }
   ]
 }
