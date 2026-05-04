@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-04",
+  "dateKey": "2026-05-05",
   "importantPoints": [
-    "最重要：高市総理はベトナム社会主義共和国のハノイを訪問しました（４）（B_JAPAN）",
-    "次点：高市総理はベトナム社会主義共和国のハノイを訪問しました（３）（B_JAPAN）",
-    "注目：高市総理はベトナム社会主義共和国のハノイを訪問しました（２）（B_JAPAN）"
+    "最重要：The latest AI news we announced in April 2026（A_GLOBAL）",
+    "次点：高市総理はベトナム及びオーストラリア訪問等についての会見を行いました（B_JAPAN）",
+    "注目：高市総理はオーストラリア連邦のキャンベラを訪問しました（４）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,6 +11,62 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
+    {
+      "id": "4e60ba9595b8",
+      "title": "The latest AI news we announced in April 2026",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-05 02:00 JST"
+    },
+    {
+      "id": "980d4381a9ec",
+      "title": "高市総理はベトナム及びオーストラリア訪問等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-05 02:45 JST"
+    },
+    {
+      "id": "83a21ca76f03",
+      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（４）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-05 01:15 JST"
+    },
+    {
+      "id": "3281e5371d46",
+      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（３）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-04 23:45 JST"
+    },
+    {
+      "id": "54e0b538181b",
+      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（２）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-04 20:35 JST"
+    },
+    {
+      "id": "683c7968a664",
+      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-04 20:00 JST"
+    },
     {
       "id": "abf18d30b3bf",
       "title": "高市総理はベトナム社会主義共和国のハノイを訪問しました（４）",
@@ -28,33 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-03 01:00 JST"
-    },
-    {
-      "id": "fa8e2167eb50",
-      "title": "高市総理はベトナム社会主義共和国のハノイを訪問しました（２）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-02 21:00 JST"
-    },
-    {
-      "id": "2f6bd69e8320",
-      "title": "高市総理はベトナム社会主義共和国のハノイを訪問しました（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-02 19:30 JST"
-    },
-    {
-      "id": "cca97ed00e54",
-      "title": "高市総理はベトナム及びオーストラリア訪問についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-01 23:00 JST"
     }
   ]
 }
