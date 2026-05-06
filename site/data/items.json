@@ -1,18 +1,20 @@
 {
   "items": [
     {
-      "id": "fb4fcd674a78",
-      "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
+      "id": "7fd7635574ec",
+      "title": "5 gardening tips you can try right in Search",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-06 03:00 JST",
+      "publishedAtJst": "2026-05-07 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Gemini API File Search is now multimodal: build efficient, verifiable RAG\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_File-Search_Blog-Hero_ne.max-600x600.format-webp.webp\">Updates to the Gemini API File Search tool makes building efficient, multimodal file retrieval systems easier for developers.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-06 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 5 gardening tips you can try right in Search\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp\">We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-07 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/"
+          "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
         }
       ]
     },
@@ -45,6 +47,40 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/actions/202605/04australia4.html"
+        }
+      ]
+    },
+    {
+      "id": "08c10eedccbd",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-05-07 04:06 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 vLLM V0 to V1: Correctness Before Corrections in RL\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-07 04:06 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
+        }
+      ]
+    },
+    {
+      "id": "351d00366b56",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-05-06 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Adding Benchmaxxer Repellant to the Open ASR Leaderboard\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-06 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data"
         }
       ]
     },
@@ -93,38 +129,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/actions/202605/04australia1.html"
-        }
-      ]
-    },
-    {
-      "id": "ee7a3f5b6dd1",
-      "title": "Approximate location sharing gives you more control over your location data in Chrome.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-06 02:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Approximate location sharing gives you more control over your location data in Chrome.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approx_Location_-_Social_media.max-600x600.format-webp.webp\">Chrome on Android users can now choose to share their approximate location with websites, instead of sharing their precise location.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-06 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/chrome/approximate-location-chrome-on-android/"
-        }
-      ]
-    },
-    {
-      "id": "96a76e6b90cc",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-06 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\">Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-06 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/"
         }
       ]
     }

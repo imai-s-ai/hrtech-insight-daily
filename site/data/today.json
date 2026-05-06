@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-05-06",
+  "dateKey": "2026-05-07",
   "importantPoints": [
-    "最重要：Gemini API File Search is now multimodal: build efficient, verifiable RAG（A_GLOBAL）",
+    "最重要：5 gardening tips you can try right in Search（A_GLOBAL）",
     "次点：高市総理はベトナム及びオーストラリア訪問等についての会見を行いました（B_JAPAN）",
     "注目：高市総理はオーストラリア連邦のキャンベラを訪問しました（４）（B_JAPAN）"
   ],
@@ -12,13 +12,15 @@
   ],
   "articles": [
     {
-      "id": "fb4fcd674a78",
-      "title": "Gemini API File Search is now multimodal: build efficient, verifiable RAG",
+      "id": "7fd7635574ec",
+      "title": "5 gardening tips you can try right in Search",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-06 03:00 JST"
+      "publishedAtJst": "2026-05-07 01:00 JST"
     },
     {
       "id": "980d4381a9ec",
@@ -37,6 +39,26 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-05 01:15 JST"
+    },
+    {
+      "id": "08c10eedccbd",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-07 04:06 JST"
+    },
+    {
+      "id": "351d00366b56",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-06 09:00 JST"
     },
     {
       "id": "3281e5371d46",
@@ -64,24 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-04 20:00 JST"
-    },
-    {
-      "id": "ee7a3f5b6dd1",
-      "title": "Approximate location sharing gives you more control over your location data in Chrome.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-06 02:00 JST"
-    },
-    {
-      "id": "96a76e6b90cc",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-06 01:00 JST"
     }
   ]
 }
