@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-07",
+  "dateKey": "2026-05-08",
   "importantPoints": [
-    "最重要：5 gardening tips you can try right in Search（A_GLOBAL）",
-    "次点：高市総理はベトナム及びオーストラリア訪問等についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はオーストラリア連邦のキャンベラを訪問しました（４）（B_JAPAN）"
+    "最重要：5 helpful tools from Google to keep your accounts safe（A_GLOBAL）",
+    "次点：vLLM V0 to V1: Correctness Before Corrections in RL（C_BIZ_AI）",
+    "注目：Adding Benchmaxxer Repellant to the Open ASR Leaderboard（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,13 @@
   ],
   "articles": [
     {
-      "id": "7fd7635574ec",
-      "title": "5 gardening tips you can try right in Search",
+      "id": "560fec13706a",
+      "title": "5 helpful tools from Google to keep your accounts safe",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-07 01:00 JST"
-    },
-    {
-      "id": "980d4381a9ec",
-      "title": "高市総理はベトナム及びオーストラリア訪問等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-05 02:45 JST"
-    },
-    {
-      "id": "83a21ca76f03",
-      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（４）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-05 01:15 JST"
+      "publishedAtJst": "2026-05-08 01:00 JST"
     },
     {
       "id": "08c10eedccbd",
@@ -61,31 +41,55 @@
       "publishedAtJst": "2026-05-06 09:00 JST"
     },
     {
-      "id": "3281e5371d46",
-      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（３）",
-      "category": "B_JAPAN",
+      "id": "ef6a4ddfdbf1",
+      "title": "This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-04 23:45 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-08 01:00 JST"
     },
     {
-      "id": "54e0b538181b",
-      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（２）",
-      "category": "B_JAPAN",
+      "id": "a545f86252aa",
+      "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-04 20:35 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-08 00:00 JST"
     },
     {
-      "id": "683c7968a664",
-      "title": "高市総理はオーストラリア連邦のキャンベラを訪問しました（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-04 20:00 JST"
+      "id": "4e6ff2a51f50",
+      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-08 00:00 JST"
+    },
+    {
+      "id": "f3a764832022",
+      "title": "Google Health Coach is becoming globally available",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-07 23:00 JST"
+    },
+    {
+      "id": "bd9fb5921001",
+      "title": "Introducing the all-new Fitbit Air",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-07 23:00 JST"
     }
   ]
 }
