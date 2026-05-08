@@ -1,18 +1,52 @@
 {
   "items": [
     {
-      "id": "560fec13706a",
-      "title": "5 helpful tools from Google to keep your accounts safe",
+      "id": "4862d0651ed0",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
       "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-08 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 5 helpful tools from Google to keep your accounts safe\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Password_Security_hero_qnsqnEK.max-600x600.format-webp.webp\">Sign in securely and keep your account accessible with passkeys, Recovery Contacts, Sign in with Google, Password Manager and 2-Step Verification\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-05-09 02:41 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-09 02:41 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/world-password-day-2026/"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
+        }
+      ]
+    },
+    {
+      "id": "77d1659916a5",
+      "title": "高市総理は日本農業新聞全国大会懇親会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-05-09 02:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は日本農業新聞全国大会懇親会に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-05-09 02:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202605/08nougyou.html"
+        }
+      ]
+    },
+    {
+      "id": "a40b2ba2d440",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-05-09 01:03 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 EMO: Pretraining mixture of experts for emergent modularity\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-09 01:03 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/emo"
         }
       ]
     },
@@ -35,18 +69,36 @@
       ]
     },
     {
-      "id": "351d00366b56",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-05-06 09:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Adding Benchmaxxer Repellant to the Open ASR Leaderboard\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-06 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "id": "68512a3cbeda",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-05-09 00:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 See what happens when creative legends use AI to make ads for small businesses.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp\">Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to bui\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-09 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data"
+          "name": "Google Blog",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
+        }
+      ]
+    },
+    {
+      "id": "560fec13706a",
+      "title": "5 helpful tools from Google to keep your accounts safe",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-05-08 01:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 5 helpful tools from Google to keep your accounts safe\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Password_Security_hero_qnsqnEK.max-600x600.format-webp.webp\">Sign in securely and keep your account accessible with passkeys, Recovery Contacts, Sign in with Google, Password Manager and 2-Step Verification\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/world-password-day-2026/"
         }
       ]
     },
@@ -79,60 +131,6 @@
         {
           "name": "Google Blog",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/"
-        }
-      ]
-    },
-    {
-      "id": "4e6ff2a51f50",
-      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-08 00:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 New AI-powered bidding and budgeting innovations in Search and Shopping\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_hero_image.max-600x600.format-webp.webp\">New AI-powered bidding and budgeting tools help you meet your goals, manage your budgets and stay ahead of shifting consumer behavior.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/"
-        }
-      ]
-    },
-    {
-      "id": "f3a764832022",
-      "title": "Google Health Coach is becoming globally available",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-07 23:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Google Health Coach is becoming globally available\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthApp-2-Onboarding_HERO.max-600x600.format-webp.webp\">Google Health Coach, now available globally, provides personalized insights on workouts, sleep, recovery and wellbeing.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-07 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/"
-        }
-      ]
-    },
-    {
-      "id": "bd9fb5921001",
-      "title": "Introducing the all-new Fitbit Air",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-07 23:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Introducing the all-new Fitbit Air\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fitbitair_hero.max-600x600.format-webp.webp\">The new lightweight, screenless Fitbit Air has a long battery life and offers in-depth health and wellness insights.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-07 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/"
         }
       ]
     }

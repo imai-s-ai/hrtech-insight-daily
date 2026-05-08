@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-08",
+  "dateKey": "2026-05-09",
   "importantPoints": [
-    "最重要：5 helpful tools from Google to keep your accounts safe（A_GLOBAL）",
-    "次点：vLLM V0 to V1: Correctness Before Corrections in RL（C_BIZ_AI）",
-    "注目：Adding Benchmaxxer Repellant to the Open ASR Leaderboard（C_BIZ_AI）"
+    "最重要：CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models（A_GLOBAL）",
+    "次点：高市総理は日本農業新聞全国大会懇親会に出席しました（B_JAPAN）",
+    "注目：EMO: Pretraining mixture of experts for emergent modularity（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,33 @@
   ],
   "articles": [
     {
-      "id": "560fec13706a",
-      "title": "5 helpful tools from Google to keep your accounts safe",
+      "id": "4862d0651ed0",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
       "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-08 01:00 JST"
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-09 02:41 JST"
+    },
+    {
+      "id": "77d1659916a5",
+      "title": "高市総理は日本農業新聞全国大会懇親会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-09 02:30 JST"
+    },
+    {
+      "id": "a40b2ba2d440",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-09 01:03 JST"
     },
     {
       "id": "08c10eedccbd",
@@ -32,13 +52,24 @@
       "publishedAtJst": "2026-05-07 04:06 JST"
     },
     {
-      "id": "351d00366b56",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "category": "C_BIZ_AI",
+      "id": "68512a3cbeda",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-09 00:00 JST"
+    },
+    {
+      "id": "560fec13706a",
+      "title": "5 helpful tools from Google to keep your accounts safe",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-06 09:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-08 01:00 JST"
     },
     {
       "id": "ef6a4ddfdbf1",
@@ -57,39 +88,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-05-08 00:00 JST"
-    },
-    {
-      "id": "4e6ff2a51f50",
-      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-08 00:00 JST"
-    },
-    {
-      "id": "f3a764832022",
-      "title": "Google Health Coach is becoming globally available",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-07 23:00 JST"
-    },
-    {
-      "id": "bd9fb5921001",
-      "title": "Introducing the all-new Fitbit Air",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-07 23:00 JST"
     }
   ]
 }
