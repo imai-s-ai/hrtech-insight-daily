@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-10",
+  "dateKey": "2026-05-11",
   "importantPoints": [
     "最重要：See what happens when creative legends use AI to make ads for small businesses.（A_GLOBAL）",
     "次点：高市総理は日本農業新聞全国大会懇親会に出席しました（B_JAPAN）",
-    "注目：\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"（C_BIZ_AI）"
+    "注目：MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -32,13 +32,13 @@
       "publishedAtJst": "2026-05-09 02:30 JST"
     },
     {
-      "id": "a66112d74e60",
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "id": "116105217784",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-10 03:09 JST"
+      "publishedAtJst": "2026-05-11 03:44 JST"
     },
     {
       "id": "a40b2ba2d440",
@@ -50,44 +50,6 @@
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-09 01:03 JST"
-    },
-    {
-      "id": "560fec13706a",
-      "title": "5 helpful tools from Google to keep your accounts safe",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-08 01:00 JST"
-    },
-    {
-      "id": "ef6a4ddfdbf1",
-      "title": "This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-08 01:00 JST"
-    },
-    {
-      "id": "a545f86252aa",
-      "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-08 00:00 JST"
-    },
-    {
-      "id": "4e6ff2a51f50",
-      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-08 00:00 JST"
     }
   ]
 }

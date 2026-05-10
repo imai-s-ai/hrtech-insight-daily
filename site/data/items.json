@@ -35,18 +35,18 @@
       ]
     },
     {
-      "id": "a66112d74e60",
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "id": "116105217784",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-05-10 03:09 JST",
+      "publishedAtJst": "2026-05-11 03:44 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 \"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-10 03:09 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-05-11 03:44 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+          "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"
         }
       ]
     },
@@ -65,72 +65,6 @@
         {
           "name": "Hugging Face Blog",
           "url": "https://huggingface.co/blog/allenai/emo"
-        }
-      ]
-    },
-    {
-      "id": "560fec13706a",
-      "title": "5 helpful tools from Google to keep your accounts safe",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-08 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 5 helpful tools from Google to keep your accounts safe\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Password_Security_hero_qnsqnEK.max-600x600.format-webp.webp\">Sign in securely and keep your account accessible with passkeys, Recovery Contacts, Sign in with Google, Password Manager and 2-Step Verification\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/world-password-day-2026/"
-        }
-      ]
-    },
-    {
-      "id": "ef6a4ddfdbf1",
-      "title": "This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-08 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/celebrating_educators_social.max-600x600.format-webp.webp\">To celebrate Teacher Appreciation Week, Googlers thanked the educators who inspired them to try new things.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/education/teacher-appreciation-week-videos/"
-        }
-      ]
-    },
-    {
-      "id": "a545f86252aa",
-      "title": "Find out how AlphaEvolve has gone from research to solving real-life problems.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-08 00:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Find out how AlphaEvolve has gone from research to solving real-life problems.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/alphaevolve_hero.max-600x600.format-webp.webp\">AlphaEvolve has become a powerful engine for scientific and societal progress.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/"
-        }
-      ]
-    },
-    {
-      "id": "4e6ff2a51f50",
-      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-05-08 00:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 New AI-powered bidding and budgeting innovations in Search and Shopping\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_hero_image.max-600x600.format-webp.webp\">New AI-powered bidding and budgeting tools help you meet your goals, manage your budgets and stay ahead of shifting consumer behavior.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-05-08 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/"
         }
       ]
     }
