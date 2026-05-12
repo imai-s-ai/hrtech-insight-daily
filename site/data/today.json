@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-12",
+  "dateKey": "2026-05-13",
   "importantPoints": [
-    "最重要：Building Blocks for Foundation Model Training and Inference on AWS（A_GLOBAL）",
-    "次点：高市総理は令和８年第６回経済財政諮問会議を開催しました（B_JAPAN）",
-    "注目：Our new initiative to apply quantum science and AI to the life sciences（A_GLOBAL）"
+    "最重要：Bringing the best of Gemini in Chrome to Android（A_GLOBAL）",
+    "次点：高市総理は第７回中東情勢に関する関係閣僚会議を開催しました（B_JAPAN）",
+    "注目：高市総理はコーマンＯＥＣＤ事務総長による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,60 @@
   ],
   "articles": [
     {
-      "id": "ce49fe8e0cb4",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "id": "98b5c794927f",
+      "title": "Bringing the best of Gemini in Chrome to Android",
       "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-13 02:00 JST"
+    },
+    {
+      "id": "6afc8831c98a",
+      "title": "高市総理は第７回中東情勢に関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
       "tags": [
-        "生成AI"
+        "地政学"
       ],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-12 08:18 JST"
+      "publishedAtJst": "2026-05-13 03:00 JST"
+    },
+    {
+      "id": "b41bd056117d",
+      "title": "高市総理はコーマンＯＥＣＤ事務総長による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-13 01:30 JST"
+    },
+    {
+      "id": "b5fec95c2967",
+      "title": "高市総理はベッセント米財務長官による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-13 01:00 JST"
+    },
+    {
+      "id": "9564ceec2a1d",
+      "title": "内閣総理大臣談話を掲載しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-12 19:30 JST"
+    },
+    {
+      "id": "dc994c892819",
+      "title": "閣議の概要／天皇皇后両陛下のオランダ及びベルギー御訪問について（佐藤啓内閣官房副長官）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-12 18:00 JST"
     },
     {
       "id": "904f60092fc2",
@@ -32,55 +77,15 @@
       "publishedAtJst": "2026-05-12 03:00 JST"
     },
     {
-      "id": "cdbdea8cb4a7",
-      "title": "Our new initiative to apply quantum science and AI to the life sciences",
+      "id": "462f8efad052",
+      "title": "Introducing Googlebook, designed for Gemini Intelligence",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-12 02:30 JST"
-    },
-    {
-      "id": "6b3c53c5c2da",
-      "title": "End-to-end encrypted RCS messaging begins rolling out today for Android and iPhone users",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-12 02:00 JST"
-    },
-    {
-      "id": "f76164f414f4",
-      "title": "Digitize your paper notes with Gemini.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-12 01:00 JST"
-    },
-    {
-      "id": "a57b5fdcf15d",
-      "title": "Read our new report on AI-powered threats and our latest defenses.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-12 00:00 JST"
-    },
-    {
-      "id": "519f0d44ef23",
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-11 15:00 JST"
+      "publishedAtJst": "2026-05-13 02:00 JST"
     }
   ]
 }
