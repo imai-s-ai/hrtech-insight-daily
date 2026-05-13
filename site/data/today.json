@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-13",
+  "dateKey": "2026-05-14",
   "importantPoints": [
-    "最重要：Bringing the best of Gemini in Chrome to Android（A_GLOBAL）",
-    "次点：高市総理は第７回中東情勢に関する関係閣僚会議を開催しました（B_JAPAN）",
-    "注目：高市総理はコーマンＯＥＣＤ事務総長による表敬を受けました（B_JAPAN）"
+    "最重要：Start learning with Google’s new AI Educator Series.（A_GLOBAL）",
+    "次点：高市総理は日本経済団体連合会による「科学技術立国戦略」に関する提言を受け取りました（B_JAPAN）",
+    "注目：高市総理は第７回中東情勢に関する関係閣僚会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,24 @@
   ],
   "articles": [
     {
-      "id": "98b5c794927f",
-      "title": "Bringing the best of Gemini in Chrome to Android",
+      "id": "e69fb867c9a7",
+      "title": "Start learning with Google’s new AI Educator Series.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-13 02:00 JST"
+      "publishedAtJst": "2026-05-14 02:00 JST"
+    },
+    {
+      "id": "836abc8f8a0b",
+      "title": "高市総理は日本経済団体連合会による「科学技術立国戦略」に関する提言を受け取りました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-13 23:00 JST"
     },
     {
       "id": "6afc8831c98a",
@@ -75,17 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-12 03:00 JST"
-    },
-    {
-      "id": "462f8efad052",
-      "title": "Introducing Googlebook, designed for Gemini Intelligence",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-13 02:00 JST"
     }
   ]
 }
