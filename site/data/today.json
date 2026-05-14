@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-14",
+  "dateKey": "2026-05-15",
   "importantPoints": [
-    "最重要：Start learning with Google’s new AI Educator Series.（A_GLOBAL）",
-    "次点：高市総理は日本経済団体連合会による「科学技術立国戦略」に関する提言を受け取りました（B_JAPAN）",
-    "注目：高市総理は第７回中東情勢に関する関係閣僚会議を開催しました（B_JAPAN）"
+    "最重要：Es Devlin’s ‘A National Portrait’ for the National Portrait Gallery（A_GLOBAL）",
+    "次点：高市総理はアンドリーセン・ホロウィッツ社による表敬を受けました（B_JAPAN）",
+    "注目：高市総理は自由民主党・国家サイバーセキュリティ戦略本部による提言申入れを受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,60 @@
   ],
   "articles": [
     {
-      "id": "e69fb867c9a7",
-      "title": "Start learning with Google’s new AI Educator Series.",
+      "id": "d55a935cd851",
+      "title": "Es Devlin’s ‘A National Portrait’ for the National Portrait Gallery",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-14 02:00 JST"
+      "publishedAtJst": "2026-05-14 17:00 JST"
+    },
+    {
+      "id": "ebb32a1d28ad",
+      "title": "高市総理はアンドリーセン・ホロウィッツ社による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-15 02:15 JST"
+    },
+    {
+      "id": "6a7cd339e3b1",
+      "title": "高市総理は自由民主党・国家サイバーセキュリティ戦略本部による提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-15 01:15 JST"
+    },
+    {
+      "id": "469a04ba2849",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-15 03:55 JST"
+    },
+    {
+      "id": "94f23f2e741e",
+      "title": "高市総理は自由民主党・資産運用立国議連による提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-15 00:00 JST"
+    },
+    {
+      "id": "dea83a9248ec",
+      "title": "高市総理は岸田総理特使及びＡＺＥＣ議連訪問団による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-14 23:45 JST"
     },
     {
       "id": "836abc8f8a0b",
@@ -41,51 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-13 03:00 JST"
-    },
-    {
-      "id": "b41bd056117d",
-      "title": "高市総理はコーマンＯＥＣＤ事務総長による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-13 01:30 JST"
-    },
-    {
-      "id": "b5fec95c2967",
-      "title": "高市総理はベッセント米財務長官による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-13 01:00 JST"
-    },
-    {
-      "id": "9564ceec2a1d",
-      "title": "内閣総理大臣談話を掲載しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-12 19:30 JST"
-    },
-    {
-      "id": "dc994c892819",
-      "title": "閣議の概要／天皇皇后両陛下のオランダ及びベルギー御訪問について（佐藤啓内閣官房副長官）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-12 18:00 JST"
-    },
-    {
-      "id": "904f60092fc2",
-      "title": "高市総理は令和８年第６回経済財政諮問会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-12 03:00 JST"
     }
   ]
 }
