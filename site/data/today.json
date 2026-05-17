@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-05-17",
+  "dateKey": "2026-05-18",
   "importantPoints": [
-    "最重要：From policy to practice: supporting the future of AI in education（A_GLOBAL）",
+    "最重要：We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.（A_GLOBAL）",
     "次点：高市総理はトランプ米国大統領との電話会談についての会見を行いました（B_JAPAN）",
     "注目：高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "b6c67729666a",
-      "title": "From policy to practice: supporting the future of AI in education",
+      "id": "39a90bcc42d8",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-15 17:00 JST"
+      "publishedAtJst": "2026-05-18 03:00 JST"
     },
     {
       "id": "aec2e25cdc89",
@@ -41,15 +41,6 @@
       "publishedAtJst": "2026-05-16 04:30 JST"
     },
     {
-      "id": "469a04ba2849",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-15 03:55 JST"
-    },
-    {
       "id": "d8a9fceee8df",
       "title": "高市総理の韓国訪問について",
       "category": "B_JAPAN",
@@ -68,22 +59,15 @@
       "publishedAtJst": "2026-05-15 18:00 JST"
     },
     {
-      "id": "ebb32a1d28ad",
-      "title": "高市総理はアンドリーセン・ホロウィッツ社による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-15 02:15 JST"
-    },
-    {
-      "id": "6a7cd339e3b1",
-      "title": "高市総理は自由民主党・国家サイバーセキュリティ戦略本部による提言申入れを受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-15 01:15 JST"
+      "id": "b6c67729666a",
+      "title": "From policy to practice: supporting the future of AI in education",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-15 17:00 JST"
     }
   ]
 }
