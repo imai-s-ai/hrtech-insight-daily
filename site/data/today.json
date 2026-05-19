@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-18",
+  "dateKey": "2026-05-19",
   "importantPoints": [
     "最重要：We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.（A_GLOBAL）",
-    "次点：高市総理はトランプ米国大統領との電話会談についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました（B_JAPAN）"
+    "次点：高市総理は国際連合のアントニオ・グテーレス事務総長と会談を行いました（B_JAPAN）",
+    "注目：高市総理は日韓経済人会議一行による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -23,51 +23,67 @@
       "publishedAtJst": "2026-05-18 03:00 JST"
     },
     {
-      "id": "aec2e25cdc89",
-      "title": "高市総理はトランプ米国大統領との電話会談についての会見を行いました",
+      "id": "87cd42beb375",
+      "title": "高市総理は国際連合のアントニオ・グテーレス事務総長と会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-16 05:00 JST"
+      "publishedAtJst": "2026-05-19 03:00 JST"
     },
     {
-      "id": "a93dfe60d454",
-      "title": "高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました",
+      "id": "f166ba75dfe1",
+      "title": "高市総理は日韓経済人会議一行による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-16 04:30 JST"
+      "publishedAtJst": "2026-05-19 00:15 JST"
     },
     {
-      "id": "d8a9fceee8df",
-      "title": "高市総理の韓国訪問について",
+      "id": "699fe0a3c829",
+      "title": "The Open Agent Leaderboard",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-18 23:12 JST"
+    },
+    {
+      "id": "5f92fda87d5a",
+      "title": "高市総理は日米のさくらの女王による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-16 01:00 JST"
+      "publishedAtJst": "2026-05-18 23:00 JST"
     },
     {
-      "id": "8ac95465d873",
-      "title": "閣議の概要について",
+      "id": "20630e3d54a3",
+      "title": "高市総理は政府与党連絡会議に出席しました。",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-15 18:00 JST"
+      "publishedAtJst": "2026-05-18 21:00 JST"
     },
     {
-      "id": "b6c67729666a",
-      "title": "From policy to practice: supporting the future of AI in education",
+      "id": "de4b961eac63",
+      "title": "高市総理は第３回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-18 19:45 JST"
+    },
+    {
+      "id": "a15f62575e93",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-15 17:00 JST"
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-19 01:00 JST"
     }
   ]
 }
