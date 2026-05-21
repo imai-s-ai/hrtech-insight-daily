@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-20",
+  "dateKey": "2026-05-21",
   "importantPoints": [
-    "最重要：Pomelli adds new ways to build brand content and design websites.（A_GLOBAL）",
-    "次点：高市総理は大韓民国の安東を訪問しました（２）（B_JAPAN）",
-    "注目：高市総理は大韓民国の安東を訪問しました（１）（B_JAPAN）"
+    "最重要：We’re announcing new community investments in Missouri.（A_GLOBAL）",
+    "次点：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（B_JAPAN）",
+    "注目：高市総理は大韓民国の安東を訪問しました（２）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,22 @@
   ],
   "articles": [
     {
-      "id": "92615ad581cd",
-      "title": "Pomelli adds new ways to build brand content and design websites.",
+      "id": "ed67995bed7d",
+      "title": "We’re announcing new community investments in Missouri.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-20 02:45 JST"
+      "publishedAtJst": "2026-05-21 05:40 JST"
+    },
+    {
+      "id": "19696cd9dc31",
+      "title": "高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-21 00:00 JST"
     },
     {
       "id": "e64a890a4637",
@@ -32,17 +39,8 @@
       "publishedAtJst": "2026-05-20 05:00 JST"
     },
     {
-      "id": "560de01998d8",
-      "title": "高市総理は大韓民国の安東を訪問しました（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-20 02:00 JST"
-    },
-    {
       "id": "bda6dcb3221f",
-      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
@@ -57,6 +55,15 @@
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-19 09:00 JST"
+    },
+    {
+      "id": "560de01998d8",
+      "title": "高市総理は大韓民国の安東を訪問しました（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-20 02:00 JST"
     },
     {
       "id": "ba822a8d5b6e",
@@ -75,15 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-19 19:00 JST"
-    },
-    {
-      "id": "01919793001c",
-      "title": "高市総理は韓国訪問等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-19 18:00 JST"
     }
   ]
 }
