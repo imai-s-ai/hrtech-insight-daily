@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-21",
+  "dateKey": "2026-05-22",
   "importantPoints": [
-    "最重要：We’re announcing new community investments in Missouri.（A_GLOBAL）",
-    "次点：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（B_JAPAN）",
-    "注目：高市総理は大韓民国の安東を訪問しました（２）（B_JAPAN）"
+    "最重要：Here's what developers can do with the latest Google Play updates.（A_GLOBAL）",
+    "次点：高市総理はＪＡＸＡの油井亀美也宇宙飛行士及び大西卓哉宇宙飛行士による表敬を受けました（B_JAPAN）",
+    "注目：高市総理は第８回中東情勢に関する関係閣僚会議出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,42 @@
   ],
   "articles": [
     {
-      "id": "ed67995bed7d",
-      "title": "We’re announcing new community investments in Missouri.",
+      "id": "cfc3ed81c152",
+      "title": "Here's what developers can do with the latest Google Play updates.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-21 05:40 JST"
+      "publishedAtJst": "2026-05-22 02:00 JST"
+    },
+    {
+      "id": "3d8ce93aa109",
+      "title": "高市総理はＪＡＸＡの油井亀美也宇宙飛行士及び大西卓哉宇宙飛行士による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-21 23:05 JST"
+    },
+    {
+      "id": "004d7c8a436d",
+      "title": "高市総理は第８回中東情勢に関する関係閣僚会議出席しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-21 21:20 JST"
+    },
+    {
+      "id": "bda6dcb3221f",
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-20 03:38 JST"
     },
     {
       "id": "19696cd9dc31",
@@ -39,24 +68,6 @@
       "publishedAtJst": "2026-05-20 05:00 JST"
     },
     {
-      "id": "bda6dcb3221f",
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-20 03:38 JST"
-    },
-    {
-      "id": "1bd4f1ecf0d1",
-      "title": "Introducing the Ettin Reranker Family",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-19 09:00 JST"
-    },
-    {
       "id": "560de01998d8",
       "title": "高市総理は大韓民国の安東を訪問しました（１）",
       "category": "B_JAPAN",
@@ -73,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-05-19 23:05 JST"
-    },
-    {
-      "id": "5ad5cc31b209",
-      "title": "閣議の概要／クマ被害対策等に関する関係閣僚会議の開催について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-19 19:00 JST"
     }
   ]
 }
