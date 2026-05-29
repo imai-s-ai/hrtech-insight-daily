@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-05-28",
+  "dateKey": "2026-05-29",
   "importantPoints": [
-    "最重要：New ways to find your favorite sources and original content in AI Search（A_GLOBAL）",
-    "次点：高市総理は国家情報会議設置法の成立についての会見を行いました（B_JAPAN）",
-    "注目：高市総理は全国原子力発電所所在市町村協議会による提言を受け取りました（B_JAPAN）"
+    "最重要：Catch up on 12 major I/O 2026 moments（A_GLOBAL）",
+    "次点：高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と首脳会談等を行いました（２）（B_JAPAN）",
+    "注目：高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と首脳会談等を行いました（１）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,35 +12,31 @@
   ],
   "articles": [
     {
-      "id": "3af3b4db3f85",
-      "title": "New ways to find your favorite sources and original content in AI Search",
+      "id": "52646498064e",
+      "title": "Catch up on 12 major I/O 2026 moments",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-05-28 02:00 JST"
+      "publishedAtJst": "2026-05-29 00:00 JST"
     },
     {
-      "id": "cf387ba3ae3b",
-      "title": "高市総理は国家情報会議設置法の成立についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-28 02:00 JST"
-    },
-    {
-      "id": "da026be2fb88",
-      "title": "高市総理は全国原子力発電所所在市町村協議会による提言を受け取りました",
+      "id": "3540e1919e18",
+      "title": "高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と首脳会談等を行いました（２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-28 00:30 JST"
+      "publishedAtJst": "2026-05-29 04:20 JST"
+    },
+    {
+      "id": "859724166b2e",
+      "title": "高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と首脳会談等を行いました（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-05-29 03:10 JST"
     },
     {
       "id": "885b9f75e714",
@@ -61,31 +57,33 @@
       "publishedAtJst": "2026-05-27 09:00 JST"
     },
     {
-      "id": "e26e6e4452df",
-      "title": "高市総理は自由民主党・治安・テロ・サイバー犯罪対策調査会による提言申入れを受けました",
+      "id": "62416a3791c0",
+      "title": "高市総理は水素バリューチェーン推進協議会及び自由民主党・水素社会推進議員連盟による申入れを受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-27 23:20 JST"
+      "publishedAtJst": "2026-05-29 01:00 JST"
     },
     {
-      "id": "e588d0d5b0c4",
-      "title": "高市総理は第１０２回全国市議会議長会定期総会に出席しました",
+      "id": "cf387ba3ae3b",
+      "title": "高市総理は国家情報会議設置法の成立についての会見を行いました",
       "category": "B_JAPAN",
-      "tags": [],
+      "tags": [
+        "規制"
+      ],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-27 22:00 JST"
+      "publishedAtJst": "2026-05-28 02:00 JST"
     },
     {
-      "id": "5271eb9bdb7d",
-      "title": "高市総理は月例経済報告等に関する関係閣僚会議に出席しました",
+      "id": "da026be2fb88",
+      "title": "高市総理は全国原子力発電所所在市町村協議会による提言を受け取りました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-27 02:20 JST"
+      "publishedAtJst": "2026-05-28 00:30 JST"
     }
   ]
 }
