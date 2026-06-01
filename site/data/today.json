@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-05-31",
+  "dateKey": "2026-06-01",
   "importantPoints": [
     "最重要：Take our I/O 2026 quiz, vibe coded in Google AI Studio.（A_GLOBAL）",
     "次点：高市総理は全拉致被害者の即時一括帰国を求める国民大集会に出席しました（B_JAPAN）",
@@ -41,15 +41,6 @@
       "publishedAtJst": "2026-05-30 03:00 JST"
     },
     {
-      "id": "357d064be869",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-29 09:00 JST"
-    },
-    {
       "id": "b6135da640e0",
       "title": "高市総理は水素関係自治体による表敬を受けました",
       "category": "B_JAPAN",
@@ -77,13 +68,24 @@
       "publishedAtJst": "2026-05-29 19:00 JST"
     },
     {
-      "id": "3540e1919e18",
-      "title": "高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と首脳会談等を行いました（２）",
-      "category": "B_JAPAN",
+      "id": "bf7abda633b2",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-05-29 04:20 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-30 02:30 JST"
+    },
+    {
+      "id": "daac52c1ca42",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-05-29 21:00 JST"
     }
   ]
 }
