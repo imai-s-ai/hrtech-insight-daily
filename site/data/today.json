@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-06-03",
+  "dateKey": "2026-06-04",
   "importantPoints": [
-    "最重要：June Android Drop: New personalization and safety features are here（A_GLOBAL）",
-    "次点：高市総理は第９回中東情勢に関する関係閣僚会議出席しました（B_JAPAN）",
-    "注目：高市総理は世界島嶼国海洋会議出席首脳等と面会しました（B_JAPAN）"
+    "最重要：Introducing Gemma 4 12B: a unified, encoder-free multimodal model（A_GLOBAL）",
+    "次点：日本経済団体連合会定時総会　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：高市総理は世界島嶼（しょ）国海洋会議開会式に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,58 @@
   ],
   "articles": [
     {
-      "id": "9485eee1d98e",
-      "title": "June Android Drop: New personalization and safety features are here",
+      "id": "e3d6d33a127a",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-03 03:00 JST"
+      "publishedAtJst": "2026-06-04 01:00 JST"
+    },
+    {
+      "id": "8087cb697ba6",
+      "title": "日本経済団体連合会定時総会　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-04 03:00 JST"
+    },
+    {
+      "id": "ed91a9edd01b",
+      "title": "高市総理は世界島嶼（しょ）国海洋会議開会式に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-03 19:00 JST"
+    },
+    {
+      "id": "bc0be78cdc6b",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-03 21:55 JST"
+    },
+    {
+      "id": "799726310b5a",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-03 09:00 JST"
+    },
+    {
+      "id": "5a58a15efa5e",
+      "title": "臨時閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-03 18:00 JST"
     },
     {
       "id": "d4d09b1c2086",
@@ -39,53 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-06-02 23:30 JST"
-    },
-    {
-      "id": "440b7646f576",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-02 23:13 JST"
-    },
-    {
-      "id": "2995ca1c3636",
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-02 00:45 JST"
-    },
-    {
-      "id": "c889c8cc8fd3",
-      "title": "高市総理は世界銀行グループのバンガ総裁による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-02 19:00 JST"
-    },
-    {
-      "id": "62c4335b449b",
-      "title": "閣議の概要／首里城正殿の復元完成式／アンワル・マレーシア首相の訪日について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-02 18:00 JST"
-    },
-    {
-      "id": "86075561f3de",
-      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領及びイェッテン・オランダ王国首相との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-02 04:33 JST"
     }
   ]
 }
