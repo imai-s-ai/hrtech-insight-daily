@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "id": "e3d6d33a127a",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "id": "990801c56a51",
+      "title": "Utah State brings Gemini for Education to all K-12 schools",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-06-04 01:00 JST",
+      "publishedAtJst": "2026-06-05 06:30 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Introducing Gemma 4 12B: a unified, encoder-free multimodal model\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Visual_G4_12B_1.max-600x600.format-webp.webp\">An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-04 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Utah State brings Gemini for Education to all K-12 schools\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Utah_State_brings_Gemini_for_Ed.max-600x600.format-webp.webp\">Google and the Utah State Board of Education partner to bring Gemini for Education to educators and students statewide.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-05 06:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"
+          "url": "https://blog.google/products-and-platforms/products/education/utah-state-education-partnership/"
         }
       ]
     },
@@ -49,34 +49,38 @@
       ]
     },
     {
-      "id": "bc0be78cdc6b",
-      "title": "Direct Preference Optimization Beyond Chatbots",
+      "id": "3c2e7a73efc4",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "category": "C_BIZ_AI",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-06-03 21:55 JST",
+      "publishedAtJst": "2026-06-05 03:57 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Direct Preference Optimization Beyond Chatbots\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-06-03 21:55 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-06-05 03:57 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
+          "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
         }
       ]
     },
     {
-      "id": "799726310b5a",
-      "title": "Adding MCP Tools to Reachy Mini",
+      "id": "d9c42ca0bc64",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
       "category": "C_BIZ_AI",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-06-03 09:00 JST",
+      "publishedAtJst": "2026-06-04 21:24 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Adding MCP Tools to Reachy Mini\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-06-03 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-06-04 21:24 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
+          "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
         }
       ]
     },
@@ -116,13 +120,13 @@
     },
     {
       "id": "b24e8cf2df21",
-      "title": "高市総理は世界島嶼国海洋会議出席首脳等と面会しました",
+      "title": "高市総理は世界島嶼（しょ）国海洋会議出席首脳等と面会しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "publishedAtJst": "2026-06-02 23:30 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は世界島嶼国海洋会議出席首脳等と面会しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-02 23:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は世界島嶼（しょ）国海洋会議出席首脳等と面会しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-02 23:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
