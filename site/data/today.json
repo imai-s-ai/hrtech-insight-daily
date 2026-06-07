@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-06-06",
+  "dateKey": "2026-06-07",
   "importantPoints": [
     "最重要：Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency（A_GLOBAL）",
-    "次点：閣議の概要／オランダ王国及びベルギー王国との相互儀礼叙勲について（B_JAPAN）",
-    "注目：日本経済団体連合会定時総会　高市総理ビデオメッセージ（B_JAPAN）"
+    "次点：日本理学療法士協会　第５５回定時総会 高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：閣議の概要／オランダ王国及びベルギー王国との相互儀礼叙勲について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -23,6 +23,17 @@
       "publishedAtJst": "2026-06-06 01:00 JST"
     },
     {
+      "id": "10e5a9468cd9",
+      "title": "日本理学療法士協会　第５５回定時総会 高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [
+        "規制"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-06 19:00 JST"
+    },
+    {
       "id": "c4882bdd1349",
       "title": "閣議の概要／オランダ王国及びベルギー王国との相互儀礼叙勲について",
       "category": "B_JAPAN",
@@ -32,22 +43,13 @@
       "publishedAtJst": "2026-06-05 18:00 JST"
     },
     {
-      "id": "8087cb697ba6",
-      "title": "日本経済団体連合会定時総会　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-04 03:00 JST"
-    },
-    {
-      "id": "c43588fe62ba",
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "id": "47468f27f93c",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-06 07:18 JST"
+      "publishedAtJst": "2026-06-07 04:02 JST"
     },
     {
       "id": "3c2e7a73efc4",
@@ -61,24 +63,6 @@
       "publishedAtJst": "2026-06-05 03:57 JST"
     },
     {
-      "id": "ed91a9edd01b",
-      "title": "高市総理は世界島嶼（しょ）国海洋会議開会式に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-03 19:00 JST"
-    },
-    {
-      "id": "5a58a15efa5e",
-      "title": "臨時閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-03 18:00 JST"
-    },
-    {
       "id": "7707fdb288e4",
       "title": "The latest AI news we announced in May 2026",
       "category": "A_GLOBAL",
@@ -88,6 +72,26 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-06-05 23:45 JST"
+    },
+    {
+      "id": "990801c56a51",
+      "title": "Utah State brings Gemini for Education to all K-12 schools",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-06-05 06:30 JST"
+    },
+    {
+      "id": "f9935a441352",
+      "title": "Kaggle is making AI benchmark creation effortless",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-06-05 01:00 JST"
     }
   ]
 }
