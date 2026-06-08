@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-06-07",
+  "dateKey": "2026-06-08",
   "importantPoints": [
     "最重要：Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency（A_GLOBAL）",
     "次点：日本理学療法士協会　第５５回定時総会 高市総理ビデオメッセージ（B_JAPAN）",
@@ -43,24 +43,15 @@
       "publishedAtJst": "2026-06-05 18:00 JST"
     },
     {
-      "id": "47468f27f93c",
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-07 04:02 JST"
-    },
-    {
-      "id": "3c2e7a73efc4",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "id": "59e293add022",
+      "title": "Amazing Digital Dentures (a failed project)",
       "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-05 03:57 JST"
+      "publishedAtJst": "2026-06-08 04:44 JST"
     },
     {
       "id": "7707fdb288e4",
@@ -72,26 +63,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-06-05 23:45 JST"
-    },
-    {
-      "id": "990801c56a51",
-      "title": "Utah State brings Gemini for Education to all K-12 schools",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-05 06:30 JST"
-    },
-    {
-      "id": "f9935a441352",
-      "title": "Kaggle is making AI benchmark creation effortless",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-05 01:00 JST"
     }
   ]
 }
