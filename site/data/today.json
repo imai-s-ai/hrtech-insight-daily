@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-06-12",
+  "dateKey": "2026-06-13",
   "importantPoints": [
-    "最重要：Our new community investments in Virginia support local jobs and expand energy affordability.（A_GLOBAL）",
-    "次点：Our 2026 UK Future Report（C_BIZ_AI）",
-    "注目：Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.（A_GLOBAL）"
+    "最重要：How we're combatting AI scams with security, legislation and more（A_GLOBAL）",
+    "次点：高市総理は第３４回宇宙開発戦略本部を開催しました（B_JAPAN）",
+    "注目：高市総理は日本学術会議の光石衛会長による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,33 @@
   ],
   "articles": [
     {
-      "id": "03724ebf28de",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "id": "fd89329692fa",
+      "title": "How we're combatting AI scams with security, legislation and more",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-12 05:00 JST"
+      "publishedAtJst": "2026-06-12 18:00 JST"
+    },
+    {
+      "id": "2196f06764f9",
+      "title": "高市総理は第３４回宇宙開発戦略本部を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-13 01:10 JST"
+    },
+    {
+      "id": "77f0ef78f52e",
+      "title": "高市総理は日本学術会議の光石衛会長による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-13 00:55 JST"
     },
     {
       "id": "e30d9aab8dc8",
@@ -32,64 +52,40 @@
       "publishedAtJst": "2026-06-10 19:00 JST"
     },
     {
-      "id": "c0181dcca745",
-      "title": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-12 00:00 JST"
-    },
-    {
-      "id": "5bc9e65bc7c2",
-      "title": "We’re bringing Walmart Connect to Display & Video 360.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-11 21:00 JST"
-    },
-    {
-      "id": "36a33f1c9d33",
-      "title": "Growing the next generation of American workers",
-      "category": "A_GLOBAL",
+      "id": "80b8efd89b1a",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-11 18:15 JST"
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-13 00:56 JST"
     },
     {
-      "id": "e7d7288b743f",
-      "title": "Step inside 50 new digital exhibitions from Africa on Google Arts & Culture",
-      "category": "A_GLOBAL",
+      "id": "842e39b2a33a",
+      "title": "高市総理は第５５回知的財産戦略本部を開催しました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-11 18:00 JST"
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-13 00:40 JST"
     },
     {
-      "id": "46c5d688399f",
-      "title": "DiffusionGemma: 4x faster text generation",
-      "category": "A_GLOBAL",
+      "id": "6d8e9d964011",
+      "title": "高市総理は自由民主党・外国人政策本部による提言を受け取りました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-11 01:00 JST"
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-12 20:40 JST"
     },
     {
-      "id": "aee42fbf79b9",
-      "title": "We’re expanding Gemini in Chrome to users in Latin America, Africa, the Middle East and more.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-11 00:00 JST"
+      "id": "4630ce43659a",
+      "title": "閣議の概要／高市総理の英国・イタリア訪問及びＧ７エビアン・サミット出席について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-12 18:00 JST"
     }
   ]
 }
