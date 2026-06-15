@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-06-14",
+  "dateKey": "2026-06-15",
   "importantPoints": [
-    "最重要：How we're combatting AI scams with security, legislation and more（A_GLOBAL）",
+    "最重要：Read Sundar Pichai’s 2026 Commencement Address at Stanford University（A_GLOBAL）",
     "次点：高市総理は英国・イタリア訪問及びＧ７エビアン・サミット出席についての会見を行いました（B_JAPAN）",
     "注目：高市総理はＭＵＳＩＣ　ＡＷＡＲＤＳ　ＪＡＰＡＮ　２０２６　Ｇａｌａ　Ｐａｒｔｙに出席しました（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "fd89329692fa",
-      "title": "How we're combatting AI scams with security, legislation and more",
+      "id": "f3b997c89a3f",
+      "title": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-12 18:00 JST"
+      "publishedAtJst": "2026-06-15 02:30 JST"
     },
     {
       "id": "b1b1a42c1e29",
