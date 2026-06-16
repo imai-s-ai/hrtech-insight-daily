@@ -1,20 +1,66 @@
 {
   "items": [
     {
-      "id": "f3b997c89a3f",
-      "title": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University",
+      "id": "f06c5186a486",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-06-15 02:30 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Read Sundar Pichai’s 2026 Commencement Address at Stanford University\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Hero_gradient.max-600x600.format-webp.webp\">Read a transcript of Sundar Pichai’s commencement speech at Stanford University.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-15 02:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "publishedAtJst": "2026-06-16 00:00 JST",
+      "summaryShort": "Google has announced a $1.5 billion investment for 2026 and 2027 to ex…",
+      "summaryFull": "――――――――――\n📰 We’re strengthening our presence in Alabama through new investments and community support.\n\n■ 概要（3行以内）\n・Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-16 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/company-news/inside-google/message-ceo/stanford-commencement-speech-2026/"
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/"
+        }
+      ]
+    },
+    {
+      "id": "9776fe0674d1",
+      "title": "高市総理は米・イラン双方が戦闘終結などに関する覚書に合意した旨発表したこと等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-06-15 18:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は米・イラン双方が戦闘終結などに関する覚書に合意した旨発表したこと等についての会見を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-15 18:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/0615kaiken.html"
+        }
+      ]
+    },
+    {
+      "id": "ee689d2d6c43",
+      "title": "高市総理は英国のロンドンを訪問しました（２）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-06-14 19:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は英国のロンドンを訪問しました（２）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-14 19:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202606/14uk2.html"
+        }
+      ]
+    },
+    {
+      "id": "81a6e52839e2",
+      "title": "高市総理は英国のロンドンを訪問しました（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-06-14 13:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は英国のロンドンを訪問しました（１）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-14 13:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202606/14uk1.html"
         }
       ]
     },
@@ -35,98 +81,38 @@
       ]
     },
     {
-      "id": "e1d4db2bb9c9",
-      "title": "高市総理はＭＵＳＩＣ　ＡＷＡＲＤＳ　ＪＡＰＡＮ　２０２６　Ｇａｌａ　Ｐａｒｔｙに出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-06-13 03:30 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はＭＵＳＩＣ　ＡＷＡＲＤＳ　ＪＡＰＡＮ　２０２６　Ｇａｌａ　Ｐａｒｔｙに出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-13 03:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "id": "ff50c1a09f78",
+      "title": "Google Fitbit Air is now HSA/FSA eligible in the U.S.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-06-15 22:00 JST",
+      "summaryShort": "U.S. customers can use pre-tax HSA and FSA funds to buy the Google Fit…",
+      "summaryFull": "――――――――――\n📰 Google Fitbit Air is now HSA/FSA eligible in the U.S.\n\n■ 概要（3行以内）\n・U.S. customers can use pre-tax HSA and FSA funds to buy the Google Fitbit Air to monitor daily health and wellness routines.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-15 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202606/12maj.html"
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/devices/fitbit/buy-fitbit-air-pre-tax-health-savings/"
         }
       ]
     },
     {
-      "id": "80b8efd89b1a",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-06-13 00:56 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 olmo-eval: An evaluation workbench for the model development loop\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-06-13 00:56 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "id": "f3b997c89a3f",
+      "title": "Read Sundar Pichai’s 2026 Commencement Address at Stanford University",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-06-15 02:30 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 Read Sundar Pichai’s 2026 Commencement Address at Stanford University\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WIDE.00_00_32_00.Still008.max-600x600.format-webp.webp\">Read a transcript of Sundar Pichai’s commencement speech at Stanford University.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-15 02:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/allenai/olmo-eval"
-        }
-      ]
-    },
-    {
-      "id": "2196f06764f9",
-      "title": "高市総理は第３４回宇宙開発戦略本部を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-06-13 01:10 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は第３４回宇宙開発戦略本部を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-13 01:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202606/12space.html"
-        }
-      ]
-    },
-    {
-      "id": "77f0ef78f52e",
-      "title": "高市総理は日本学術会議の光石衛会長による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-06-13 00:55 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は日本学術会議の光石衛会長による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-13 00:55 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202606/12hyoukei.html"
-        }
-      ]
-    },
-    {
-      "id": "842e39b2a33a",
-      "title": "高市総理は第５５回知的財産戦略本部を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-06-13 00:40 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は第５５回知的財産戦略本部を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-13 00:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202606/12chizai.html"
-        }
-      ]
-    },
-    {
-      "id": "6d8e9d964011",
-      "title": "高市総理は自由民主党・外国人政策本部による提言を受け取りました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-06-12 20:40 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は自由民主党・外国人政策本部による提言を受け取りました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-06-12 20:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202606/12shukou1.html"
+          "name": "Google Blog",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/stanford-commencement-speech-2026/"
         }
       ]
     }
