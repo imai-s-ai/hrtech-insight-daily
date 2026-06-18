@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-06-17",
+  "dateKey": "2026-06-18",
   "importantPoints": [
-    "最重要：Expanding our U.S. digital wellbeing fund（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：木原内閣官房長官は農林水産物・食品の輸出拡大のための輸入国規制への対応等に関する関係閣僚会議を開催しました（B_JAPAN）"
+    "最重要：How universities are preparing students for an AI-powered future（A_GLOBAL）",
+    "次点：高市総理は英国・イタリア訪問及びＧ７エビアン・サミット出席等についての内外記者会見を行いました（B_JAPAN）",
+    "注目：第１１回太平洋・島サミット（ＰＡＬＭ１１）の開催時期及び開催地について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,69 @@
   ],
   "articles": [
     {
-      "id": "2f3136096caa",
-      "title": "Expanding our U.S. digital wellbeing fund",
+      "id": "56d42a225fa1",
+      "title": "How universities are preparing students for an AI-powered future",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-17 03:00 JST"
+      "publishedAtJst": "2026-06-18 01:00 JST"
+    },
+    {
+      "id": "e440e5de0b73",
+      "title": "高市総理は英国・イタリア訪問及びＧ７エビアン・サミット出席等についての内外記者会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-18 01:40 JST"
+    },
+    {
+      "id": "f7edfb23f642",
+      "title": "第１１回太平洋・島サミット（ＰＡＬＭ１１）の開催時期及び開催地について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-18 01:00 JST"
+    },
+    {
+      "id": "07c125a38d88",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-18 00:26 JST"
+    },
+    {
+      "id": "c7b6e0d15e34",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-17 19:18 JST"
+    },
+    {
+      "id": "5ca90f90a696",
+      "title": "高市総理はＧ７エビアン・サミット出席のためフランスのエビアンを訪問しました-２日目-（２）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-17 07:00 JST"
+    },
+    {
+      "id": "eca00df673b3",
+      "title": "高市総理はＧ７エビアン・サミット出席のためフランスのエビアンを訪問しました-２日目-（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-16 18:00 JST"
     },
     {
       "id": "a2d0433ca51e",
@@ -28,62 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-06-16 18:00 JST"
-    },
-    {
-      "id": "f4c59acb31c3",
-      "title": "木原内閣官房長官は農林水産物・食品の輸出拡大のための輸入国規制への対応等に関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-16 17:00 JST"
-    },
-    {
-      "id": "a38b3c1f4485",
-      "title": "高市総理はＧ７エビアン・サミット出席のためフランスのエビアンを訪問しました-１日目-",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-16 04:00 JST"
-    },
-    {
-      "id": "6885ac914045",
-      "title": "高市総理はイタリア共和国のローマを訪問しました（２）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-15 20:50 JST"
-    },
-    {
-      "id": "c4931d0624b0",
-      "title": "高市総理はイタリア共和国のローマを訪問しました（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-15 18:40 JST"
-    },
-    {
-      "id": "9776fe0674d1",
-      "title": "高市総理は米・イラン双方が戦闘終結などに関する覚書に合意した旨発表したこと等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-15 18:30 JST"
-    },
-    {
-      "id": "ee689d2d6c43",
-      "title": "高市総理は英国のロンドンを訪問しました（２）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-14 19:30 JST"
     }
   ]
 }
