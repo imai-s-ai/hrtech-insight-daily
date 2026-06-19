@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-06-18",
+  "dateKey": "2026-06-19",
   "importantPoints": [
-    "最重要：How universities are preparing students for an AI-powered future（A_GLOBAL）",
+    "最重要：Powering the world’s first AI arts museum（A_GLOBAL）",
     "次点：高市総理は英国・イタリア訪問及びＧ７エビアン・サミット出席等についての内外記者会見を行いました（B_JAPAN）",
     "注目：第１１回太平洋・島サミット（ＰＡＬＭ１１）の開催時期及び開催地について（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "56d42a225fa1",
-      "title": "How universities are preparing students for an AI-powered future",
+      "id": "478bf6068f5a",
+      "title": "Powering the world’s first AI arts museum",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-18 01:00 JST"
+      "publishedAtJst": "2026-06-19 00:00 JST"
     },
     {
       "id": "e440e5de0b73",
@@ -41,22 +41,33 @@
       "publishedAtJst": "2026-06-18 01:00 JST"
     },
     {
-      "id": "07c125a38d88",
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "id": "e9b8182dcfcc",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
       "category": "C_BIZ_AI",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-18 00:26 JST"
+      "publishedAtJst": "2026-06-19 03:13 JST"
     },
     {
-      "id": "c7b6e0d15e34",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "id": "d44bbcfdf323",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-17 19:18 JST"
+      "publishedAtJst": "2026-06-18 09:00 JST"
+    },
+    {
+      "id": "5976a04923bf",
+      "title": "高市総理はＧ７エビアン・サミット出席のためフランスのエビアンを訪問しました‐３日目‐",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-17 18:30 JST"
     },
     {
       "id": "5ca90f90a696",
@@ -70,15 +81,6 @@
     {
       "id": "eca00df673b3",
       "title": "高市総理はＧ７エビアン・サミット出席のためフランスのエビアンを訪問しました-２日目-（１）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-16 18:00 JST"
-    },
-    {
-      "id": "a2d0433ca51e",
-      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
