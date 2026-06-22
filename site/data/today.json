@@ -1,9 +1,7 @@
 {
-  "dateKey": "2026-06-21",
+  "dateKey": "2026-06-22",
   "importantPoints": [
-    "最重要：Powering the world’s first AI arts museum（A_GLOBAL）",
-    "次点：閣議の概要／南スーダン国際平和協力業務実施計画の変更について（B_JAPAN）",
-    "注目：MosaicLeaks: Can your research agent keep a secret?（C_BIZ_AI）"
+    "最重要：閣議の概要／南スーダン国際平和協力業務実施計画の変更について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,17 +10,6 @@
   ],
   "articles": [
     {
-      "id": "478bf6068f5a",
-      "title": "Powering the world’s first AI arts museum",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-19 00:00 JST"
-    },
-    {
       "id": "b04bda339c81",
       "title": "閣議の概要／南スーダン国際平和協力業務実施計画の変更について",
       "category": "B_JAPAN",
@@ -30,37 +17,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-06-19 18:00 JST"
-    },
-    {
-      "id": "e9b8182dcfcc",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-19 03:13 JST"
-    },
-    {
-      "id": "2158c81d6eba",
-      "title": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-18 22:00 JST"
-    },
-    {
-      "id": "de346ba356ab",
-      "title": "Splash Canvas: Create abstract art (with an attitude)",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-06-18 19:00 JST"
     }
   ]
 }

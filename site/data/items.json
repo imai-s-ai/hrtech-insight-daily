@@ -1,24 +1,6 @@
 {
   "items": [
     {
-      "id": "478bf6068f5a",
-      "title": "Powering the world’s first AI arts museum",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-06-19 00:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Powering the world’s first AI arts museum\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gallery_A__Data_Pavilion.max-600x600.format-webp.webp\">Refik Anadol Studio opens Dataland, the first museum of AI arts, powered by Google Cloud and supported by Google Arts & Culture.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-19 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/"
-        }
-      ]
-    },
-    {
       "id": "b04bda339c81",
       "title": "閣議の概要／南スーダン国際平和協力業務実施計画の変更について",
       "category": "B_JAPAN",
@@ -31,58 +13,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/tyoukanpress/202606/19_a.html"
-        }
-      ]
-    },
-    {
-      "id": "e9b8182dcfcc",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-06-19 03:13 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 MosaicLeaks: Can your research agent keep a secret?\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-06-19 03:13 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
-        }
-      ]
-    },
-    {
-      "id": "2158c81d6eba",
-      "title": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-06-18 22:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Introducing Ask Ad Manager, the AI agent that will help you get more done\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_social.max-600x600.format-webp.webp\">Our AI agent, built with Gemini, helps publishers get deeper insights, understand their performance and make better decisions faster.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-18 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products/admanager/ask-ad-manager/"
-        }
-      ]
-    },
-    {
-      "id": "de346ba356ab",
-      "title": "Splash Canvas: Create abstract art (with an attitude)",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-06-18 19:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Splash Canvas: Create abstract art (with an attitude)\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/splash-canvas-hero.max-600x600.format-webp.webp\">Splash Canvas lets you create abstract art using unconventional, highly opinionated sea creatures.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-06-18 19:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/splash-canvas/"
         }
       ]
     }
