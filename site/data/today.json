@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-06-26",
+  "dateKey": "2026-06-27",
   "importantPoints": [
-    "最重要：Run a vLLM Server on HF Jobs in One Command（A_GLOBAL）",
-    "次点：高市総理は令和８年第９回経済財政諮問会議を開催しました（B_JAPAN）",
-    "注目：高市総理は自由民主党・攻めの予防医療に関する関係合同会議による申入れを受けました（B_JAPAN）"
+    "最重要：Here's how Gemini can help you avoid jetlag.（A_GLOBAL）",
+    "次点：山梨県東部・富士五湖を震源とする地震について（B_JAPAN）",
+    "注目：山梨県東部・富士五湖を震源とする地震についての特設ページを公開しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,31 @@
   ],
   "articles": [
     {
-      "id": "7f1a19cb8458",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "id": "f2f10f2f93c4",
+      "title": "Here's how Gemini can help you avoid jetlag.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-26 09:00 JST"
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-06-27 01:00 JST"
     },
     {
-      "id": "3b35f3cf6639",
-      "title": "高市総理は令和８年第９回経済財政諮問会議を開催しました",
+      "id": "ec390b218fac",
+      "title": "山梨県東部・富士五湖を震源とする地震について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-26 03:00 JST"
+      "publishedAtJst": "2026-06-27 09:30 JST"
     },
     {
-      "id": "d2b409639cc3",
-      "title": "高市総理は自由民主党・攻めの予防医療に関する関係合同会議による申入れを受けました",
+      "id": "9a6d8a9dace7",
+      "title": "山梨県東部・富士五湖を震源とする地震についての特設ページを公開しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-26 01:30 JST"
+      "publishedAtJst": "2026-06-27 08:40 JST"
     },
     {
       "id": "ad2aeb97dd34",
@@ -61,31 +59,33 @@
       "publishedAtJst": "2026-06-25 20:00 JST"
     },
     {
-      "id": "9fc77d3718e0",
-      "title": "高市総理は第１６回すべての女性が輝く社会づくり本部・第２６回男女共同参画推進本部の合同会議を開催しました",
+      "id": "18d4406fbd06",
+      "title": "高市総理は岩手県沖を震源とする地震についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-26 01:00 JST"
+      "publishedAtJst": "2026-06-27 08:20 JST"
     },
     {
-      "id": "100f47311290",
-      "title": "高市総理は令和８年度男女共同参画社会づくり功労者内閣総理大臣表彰式に出席しました",
+      "id": "78d54ba6796e",
+      "title": "山梨県東部・富士五湖を震源とする地震に関する総理指示（２２：３２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-25 23:00 JST"
+      "publishedAtJst": "2026-06-27 07:32 JST"
     },
     {
-      "id": "e7fe982691e7",
-      "title": "木原内閣官房長官は副大臣会議を開催しました",
+      "id": "76dd9152b0f4",
+      "title": "高市総理は第１１回中東情勢に関する関係閣僚会議に出席しました",
       "category": "B_JAPAN",
-      "tags": [],
+      "tags": [
+        "地政学"
+      ],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-06-25 21:00 JST"
+      "publishedAtJst": "2026-06-27 03:30 JST"
     }
   ]
 }
