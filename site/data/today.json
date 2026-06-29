@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-06-28",
+  "dateKey": "2026-06-29",
   "importantPoints": [
     "最重要：Here's how Gemini can help you avoid jetlag.（A_GLOBAL）",
     "次点：山梨県東部・富士五湖を震源とする地震について（B_JAPAN）",
@@ -39,26 +39,6 @@
       "publishedAtJst": "2026-06-27 08:40 JST"
     },
     {
-      "id": "ad2aeb97dd34",
-      "title": "Investing in Ukraine’s AI leadership and economic future",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "Google.org is providing a $5 million grant to scale Obrii, Ukraine’s n…",
-      "publishedAtJst": "2026-06-26 02:40 JST"
-    },
-    {
-      "id": "553c4311c3ca",
-      "title": "Google Play updates let U.K. developers do more and pay less.",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "We’re pleased to share that the UK will be one of the first markets to…",
-      "publishedAtJst": "2026-06-25 20:00 JST"
-    },
-    {
       "id": "18d4406fbd06",
       "title": "高市総理は岩手県沖を震源とする地震についての会見を行いました",
       "category": "B_JAPAN",
@@ -86,6 +66,24 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-06-27 03:30 JST"
+    },
+    {
+      "id": "1811ecb3c40e",
+      "title": "セーシェル独立５０周年及び日・セーシェル外交関係開設５０周年に際する高市総理大臣による書簡の発出",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-27 03:25 JST"
+    },
+    {
+      "id": "3ea34127f128",
+      "title": "高市総理のインド訪問について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-06-27 01:00 JST"
     }
   ]
 }
