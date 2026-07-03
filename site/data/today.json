@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-02",
+  "dateKey": "2026-07-03",
   "importantPoints": [
     "最重要：Why B3 chose Android for secure AI-enabled productivity（A_GLOBAL）",
-    "次点：ＩＶＳ　２０２６　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：高市総理は総理大臣公邸でインド訪問等について会見を行いました（B_JAPAN）"
+    "次点：高市総理はインド共和国のデリーを訪問しました（２）（B_JAPAN）",
+    "注目：高市総理はインド共和国のデリーを訪問しました（１）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -23,22 +23,22 @@
       "publishedAtJst": "2026-07-02 04:00 JST"
     },
     {
-      "id": "bb51bc54fca4",
-      "title": "ＩＶＳ　２０２６　高市総理ビデオメッセージ",
+      "id": "2ddc1874ee0a",
+      "title": "高市総理はインド共和国のデリーを訪問しました（２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-02 02:30 JST"
+      "publishedAtJst": "2026-07-02 22:10 JST"
     },
     {
-      "id": "bfa281f59a4b",
-      "title": "高市総理は総理大臣公邸でインド訪問等について会見を行いました",
+      "id": "677330f0e565",
+      "title": "高市総理はインド共和国のデリーを訪問しました（１）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-01 22:30 JST"
+      "publishedAtJst": "2026-07-02 19:00 JST"
     },
     {
       "id": "b7f49b2bc148",
@@ -63,6 +63,24 @@
       "publishedAtJst": "2026-07-01 03:32 JST"
     },
     {
+      "id": "bb51bc54fca4",
+      "title": "ＩＶＳ　２０２６　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-02 02:30 JST"
+    },
+    {
+      "id": "bfa281f59a4b",
+      "title": "高市総理は総理大臣公邸でインド訪問等について会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-01 22:30 JST"
+    },
+    {
       "id": "c67b7631aeac",
       "title": "高市総理は令和８年安全功労者内閣総理大臣表彰の表彰式を行いました",
       "category": "B_JAPAN",
@@ -70,24 +88,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-01 20:30 JST"
-    },
-    {
-      "id": "b0e3f9f9a46d",
-      "title": "日豪友好協力基本条約署名５０周年記念晩餐会 高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-01 03:00 JST"
-    },
-    {
-      "id": "99f2ae36fd26",
-      "title": "高市総理は令和８年第１０回経済財政諮問会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-01 03:00 JST"
     }
   ]
 }
