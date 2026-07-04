@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-03",
+  "dateKey": "2026-07-04",
   "importantPoints": [
-    "最重要：Why B3 chose Android for secure AI-enabled productivity（A_GLOBAL）",
-    "次点：高市総理はインド共和国のデリーを訪問しました（２）（B_JAPAN）",
-    "注目：高市総理はインド共和国のデリーを訪問しました（１）（B_JAPAN）"
+    "最重要：We're investing $1 million in Africa's indie game developers.（A_GLOBAL）",
+    "次点：ＷＨＸリーダーズ大阪　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,40 @@
   ],
   "articles": [
     {
-      "id": "a7fec3e153ff",
-      "title": "Why B3 chose Android for secure AI-enabled productivity",
+      "id": "5c99e70eaf89",
+      "title": "We're investing $1 million in Africa's indie game developers.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-02 04:00 JST"
+      "publishedAtJst": "2026-07-04 01:00 JST"
+    },
+    {
+      "id": "38cc54566214",
+      "title": "ＷＨＸリーダーズ大阪　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-04 03:00 JST"
+    },
+    {
+      "id": "8eb9431e15ae",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-03 18:00 JST"
+    },
+    {
+      "id": "054c09594d5b",
+      "title": "高市総理はインド共和国のデリーを訪問しました（３）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-03 08:00 JST"
     },
     {
       "id": "2ddc1874ee0a",
@@ -41,28 +66,6 @@
       "publishedAtJst": "2026-07-02 19:00 JST"
     },
     {
-      "id": "b7f49b2bc148",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-01 09:00 JST"
-    },
-    {
-      "id": "8654826289ec",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-01 03:32 JST"
-    },
-    {
       "id": "bb51bc54fca4",
       "title": "ＩＶＳ　２０２６　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
@@ -79,15 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-01 22:30 JST"
-    },
-    {
-      "id": "c67b7631aeac",
-      "title": "高市総理は令和８年安全功労者内閣総理大臣表彰の表彰式を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-01 20:30 JST"
     }
   ]
 }
