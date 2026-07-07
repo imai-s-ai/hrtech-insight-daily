@@ -1,50 +1,66 @@
 {
   "items": [
     {
-      "id": "5c99e70eaf89",
-      "title": "We're investing $1 million in Africa's indie game developers.",
-      "category": "A_GLOBAL",
+      "id": "3cb187e66006",
+      "title": "高市内閣総理大臣発フジモリ次期ペルー大統領宛祝辞",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-07-04 01:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 We're investing $1 million in Africa's indie game developers.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp\">Sub-Saharan Africa is home to incredible storytelling, which fuels the game development scene in what is one of the world's fastest-growing gaming ma\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-04 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-07-06 06:56 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市内閣総理大臣発フジモリ次期ペルー大統領宛祝辞\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-07-06 06:56 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/platforms/google-play/indie-games-fund-africa/"
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20260706message.html"
         }
       ]
     },
     {
-      "id": "38cc54566214",
-      "title": "ＷＨＸリーダーズ大阪　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
+      "id": "0a1d2bd6cc12",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-07-04 03:00 JST",
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-07-07 09:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 ＷＨＸリーダーズ大阪　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-07-04 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 LeRobot v0.6.0: Imagine, Evaluate, Improve\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-07-07 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260703message.html"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/lerobot-release-v060"
         }
       ]
     },
     {
-      "id": "8eb9431e15ae",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
+      "id": "088a18b234ed",
+      "title": "PRX Part 4: Our Data Strategy",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-07-03 18:00 JST",
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-07-07 00:30 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-07-03 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 PRX Part 4: Our Data Strategy\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-07-07 00:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202607/3_a.html"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
+        }
+      ]
+    },
+    {
+      "id": "c57690ad336e",
+      "title": "🤗 Kernels: Major Updates",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-07-06 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 🤗 Kernels: Major Updates\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-07-06 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/revamped-kernels"
         }
       ]
     }
