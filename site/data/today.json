@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-07",
+  "dateKey": "2026-07-08",
   "importantPoints": [
-    "最重要：高市内閣総理大臣発フジモリ次期ペルー大統領宛祝辞（B_JAPAN）",
-    "次点：LeRobot v0.6.0: Imagine, Evaluate, Improve（C_BIZ_AI）",
-    "注目：PRX Part 4: Our Data Strategy（C_BIZ_AI）"
+    "最重要：How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：木原内閣官房長官は第１４回デジタル行財政改革会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,42 @@
   ],
   "articles": [
     {
-      "id": "3cb187e66006",
-      "title": "高市内閣総理大臣発フジモリ次期ペルー大統領宛祝辞",
+      "id": "5c0ce5adae7e",
+      "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-08 02:50 JST"
+    },
+    {
+      "id": "125396dc6530",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-06 06:56 JST"
+      "publishedAtJst": "2026-07-07 18:00 JST"
+    },
+    {
+      "id": "fa4b672f6be3",
+      "title": "木原内閣官房長官は第１４回デジタル行財政改革会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-07 17:45 JST"
+    },
+    {
+      "id": "ca9a2a21da07",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-08 06:15 JST"
     },
     {
       "id": "0a1d2bd6cc12",
@@ -30,22 +59,33 @@
       "publishedAtJst": "2026-07-07 09:00 JST"
     },
     {
-      "id": "088a18b234ed",
-      "title": "PRX Part 4: Our Data Strategy",
-      "category": "C_BIZ_AI",
+      "id": "3cb187e66006",
+      "title": "高市内閣総理大臣発フジモリ次期ペルー大統領宛祝辞",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-07 00:30 JST"
+      "publishedAtJst": "2026-07-06 06:56 JST"
     },
     {
-      "id": "c57690ad336e",
-      "title": "🤗 Kernels: Major Updates",
-      "category": "C_BIZ_AI",
+      "id": "56d206b14f1a",
+      "title": "Three new satellites join the fight against wildfires.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-08 01:15 JST"
+    },
+    {
+      "id": "73fd78c4847c",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-06 09:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-07 17:54 JST"
     }
   ]
 }
