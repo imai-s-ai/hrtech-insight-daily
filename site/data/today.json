@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-08",
+  "dateKey": "2026-07-09",
   "importantPoints": [
-    "最重要：How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：木原内閣官房長官は第１４回デジタル行財政改革会議に出席しました（B_JAPAN）"
+    "最重要：Create shareable video clips in seconds with Video Remix in Google Photos.（A_GLOBAL）",
+    "次点：木原内閣官房長官は三条市の滝沢亮市長による表敬を受けました（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,22 @@
   ],
   "articles": [
     {
-      "id": "5c0ce5adae7e",
-      "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
+      "id": "e840e01e4aa7",
+      "title": "Create shareable video clips in seconds with Video Remix in Google Photos.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-08 02:50 JST"
+      "publishedAtJst": "2026-07-09 02:00 JST"
+    },
+    {
+      "id": "d1bd660117d9",
+      "title": "木原内閣官房長官は三条市の滝沢亮市長による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-08 19:00 JST"
     },
     {
       "id": "125396dc6530",
@@ -32,6 +39,26 @@
       "publishedAtJst": "2026-07-07 18:00 JST"
     },
     {
+      "id": "5535aeb9eb9d",
+      "title": "Data for Agents",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-09 02:16 JST"
+    },
+    {
+      "id": "f2a3364a10eb",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-08 09:00 JST"
+    },
+    {
       "id": "fa4b672f6be3",
       "title": "木原内閣官房長官は第１４回デジタル行財政改革会議に出席しました",
       "category": "B_JAPAN",
@@ -41,51 +68,24 @@
       "publishedAtJst": "2026-07-07 17:45 JST"
     },
     {
-      "id": "ca9a2a21da07",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-08 06:15 JST"
-    },
-    {
-      "id": "0a1d2bd6cc12",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-07 09:00 JST"
-    },
-    {
-      "id": "3cb187e66006",
-      "title": "高市内閣総理大臣発フジモリ次期ペルー大統領宛祝辞",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-06 06:56 JST"
-    },
-    {
-      "id": "56d206b14f1a",
-      "title": "Three new satellites join the fight against wildfires.",
+      "id": "f695f361f226",
+      "title": "3 ways this coffee shop is growing with Gemini",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-08 01:15 JST"
+      "publishedAtJst": "2026-07-09 01:00 JST"
     },
     {
-      "id": "73fd78c4847c",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "id": "a0b13bbb995f",
+      "title": "We’re boosting agroforestry efforts to help the atmosphere and farmer livelihoods.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-07 17:54 JST"
+      "publishedAtJst": "2026-07-08 22:00 JST"
     }
   ]
 }
