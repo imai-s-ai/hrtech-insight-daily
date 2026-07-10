@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-07-09",
+  "dateKey": "2026-07-10",
   "importantPoints": [
-    "最重要：Create shareable video clips in seconds with Video Remix in Google Photos.（A_GLOBAL）",
+    "最重要：Expanding AI transparency in ads（A_GLOBAL）",
     "次点：木原内閣官房長官は三条市の滝沢亮市長による表敬を受けました（B_JAPAN）",
     "注目：閣議の概要について（B_JAPAN）"
   ],
@@ -12,13 +12,15 @@
   ],
   "articles": [
     {
-      "id": "e840e01e4aa7",
-      "title": "Create shareable video clips in seconds with Video Remix in Google Photos.",
+      "id": "dd1115c788cb",
+      "title": "Expanding AI transparency in ads",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-09 02:00 JST"
+      "publishedAtJst": "2026-07-10 01:00 JST"
     },
     {
       "id": "d1bd660117d9",
@@ -68,24 +70,22 @@
       "publishedAtJst": "2026-07-07 17:45 JST"
     },
     {
-      "id": "f695f361f226",
-      "title": "3 ways this coffee shop is growing with Gemini",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-09 01:00 JST"
-    },
-    {
-      "id": "a0b13bbb995f",
-      "title": "We’re boosting agroforestry efforts to help the atmosphere and farmer livelihoods.",
+      "id": "f82a000d54e3",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-08 22:00 JST"
+      "publishedAtJst": "2026-07-10 01:00 JST"
+    },
+    {
+      "id": "a326a5339011",
+      "title": "Building the future of global health, together",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-09 17:00 JST"
     }
   ]
 }

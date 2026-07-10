@@ -1,18 +1,20 @@
 {
   "items": [
     {
-      "id": "e840e01e4aa7",
-      "title": "Create shareable video clips in seconds with Video Remix in Google Photos.",
+      "id": "dd1115c788cb",
+      "title": "Expanding AI transparency in ads",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-07-09 02:00 JST",
+      "publishedAtJst": "2026-07-10 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Create shareable video clips in seconds with Video Remix in Google Photos.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/05_Google_Photo_Video_Remix_Soc.max-600x600.format-webp.webp\">With Video Remix in Google Photos, you can transform ordinary videos into share-worthy moments in just a few taps.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-09 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Expanding AI transparency in ads\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp\">We're introducing new AI transparency features to help people understand the ads they see and give advertisers simple disclosure tools.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-10 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/photos/video-remix/"
+          "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/"
         }
       ]
     },
@@ -99,36 +101,34 @@
       ]
     },
     {
-      "id": "f695f361f226",
-      "title": "3 ways this coffee shop is growing with Gemini",
+      "id": "f82a000d54e3",
+      "title": "We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-07-09 01:00 JST",
+      "publishedAtJst": "2026-07-10 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 3 ways this coffee shop is growing with Gemini\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp\">Small businesses like coffee shops can use Gemini to save time on graphic design, email marketing and sales forecasting.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-09 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 We're rolling out AlphaEvolve widely to solve Google Cloud customers' hardest problems.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp\">Finding the most efficient algorithm — whether designing a microchip, routing a logistics network or accelerating medical research — can be challenging, with ma\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-10 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/"
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/"
         }
       ]
     },
     {
-      "id": "a0b13bbb995f",
-      "title": "We’re boosting agroforestry efforts to help the atmosphere and farmer livelihoods.",
+      "id": "a326a5339011",
+      "title": "Building the future of global health, together",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-07-08 22:00 JST",
+      "publishedAtJst": "2026-07-09 17:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 We’re boosting agroforestry efforts to help the atmosphere and farmer livelihoods.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp\">Google is announcing a long-term agreement with Thryve.Earth for 260,000 tons of carbon removal.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-08 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Building the future of global health, together\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHS_hero.max-600x600.format-webp.webp\">The Open Health Stack Software Foundation will provide a community-led home for the building blocks of global health solutions.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-07-09 17:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/thryve-earth-agroforestry/"
+          "url": "https://blog.google/innovation-and-ai/technology/health/open-health-stack-software-foundation/"
         }
       ]
     }
