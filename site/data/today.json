@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-07-11",
+  "dateKey": "2026-07-12",
   "importantPoints": [
     "最重要：Bryson DeChambeau partners with Google Health.（A_GLOBAL）",
     "次点：高市総理は創薬力向上のための官民協議会に出席しました（B_JAPAN）",
@@ -50,15 +50,6 @@
       "publishedAtJst": "2026-07-10 09:00 JST"
     },
     {
-      "id": "5535aeb9eb9d",
-      "title": "Data for Agents",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-09 02:16 JST"
-    },
-    {
       "id": "530bb90b1937",
       "title": "高市総理は自由民主党・家事支援サービス推進議員連盟による提言申入れを受けました",
       "category": "B_JAPAN",
@@ -84,6 +75,17 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-10 17:50 JST"
+    },
+    {
+      "id": "cd43e6862168",
+      "title": "高市総理は第５回人工知能戦略本部を開催しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-10 17:35 JST"
     }
   ]
 }
