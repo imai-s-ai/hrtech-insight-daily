@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-13",
+  "dateKey": "2026-07-14",
   "importantPoints": [
-    "最重要：Bryson DeChambeau partners with Google Health.（A_GLOBAL）",
-    "次点：高市総理は創薬力向上のための官民協議会に出席しました（B_JAPAN）",
-    "注目：高市総理は第８５回総合科学技術・イノベーション会議を開催しました（B_JAPAN）"
+    "最重要：Optimize your reach and frequency across campaigns with video campaign groups.（A_GLOBAL）",
+    "次点：WebX 2026　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：高市総理は政府与党連絡会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,80 +12,42 @@
   ],
   "articles": [
     {
-      "id": "3e0596218e7a",
-      "title": "Bryson DeChambeau partners with Google Health.",
+      "id": "47e72616ac38",
+      "title": "Optimize your reach and frequency across campaigns with video campaign groups.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-11 01:12 JST"
+      "publishedAtJst": "2026-07-14 01:00 JST"
     },
     {
-      "id": "7e8ea1b90e87",
-      "title": "高市総理は創薬力向上のための官民協議会に出席しました",
+      "id": "ad1d8d246f0f",
+      "title": "WebX 2026　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-11 03:00 JST"
+      "publishedAtJst": "2026-07-14 02:30 JST"
     },
     {
-      "id": "8d89d5dec97b",
-      "title": "高市総理は第８５回総合科学技術・イノベーション会議を開催しました",
+      "id": "15f71e21e664",
+      "title": "高市総理は政府与党連絡会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-11 02:45 JST"
+      "publishedAtJst": "2026-07-13 21:00 JST"
     },
     {
-      "id": "145fbd552c75",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "category": "C_BIZ_AI",
+      "id": "7c2aaccbbb1c",
+      "title": "Waze rolls out new customization features and more Gemini updates",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-10 09:00 JST"
-    },
-    {
-      "id": "530bb90b1937",
-      "title": "高市総理は自由民主党・家事支援サービス推進議員連盟による提言申入れを受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-10 22:50 JST"
-    },
-    {
-      "id": "6f976b15fcce",
-      "title": "閣議の概要について（尾﨑正直内閣官房副長官）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-10 18:00 JST"
-    },
-    {
-      "id": "504d097f6b84",
-      "title": "高市総理は第４回孤独・孤立対策推進本部を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-10 17:50 JST"
-    },
-    {
-      "id": "cd43e6862168",
-      "title": "高市総理は第５回人工知能戦略本部を開催しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-10 17:35 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-13 18:00 JST"
     }
   ]
 }
