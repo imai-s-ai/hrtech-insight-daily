@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-15",
+  "dateKey": "2026-07-16",
   "importantPoints": [
     "最重要：It's not too late to get Pixel Care+ for your Pixel 9 or 10.（A_GLOBAL）",
-    "次点：ウクライナに関する有志連合首脳会合に際する高市内閣総理大臣書面メッセージ（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "次点：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（２）（B_JAPAN）",
+    "注目：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（１）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,42 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-07-15 07:00 JST"
+    },
+    {
+      "id": "c3c581be05d0",
+      "title": "高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（２）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-16 00:33 JST"
+    },
+    {
+      "id": "be3e5102189b",
+      "title": "高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（１）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-16 00:00 JST"
+    },
+    {
+      "id": "53e3149d2cc1",
+      "title": "What building Shippy taught us about building agents",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-16 02:29 JST"
+    },
+    {
+      "id": "210f6726bf4a",
+      "title": "Welcome Inkling by Thinking Machines",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-15 09:00 JST"
     },
     {
       "id": "3d5b9564dd06",
@@ -50,44 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-14 17:35 JST"
-    },
-    {
-      "id": "ad1d8d246f0f",
-      "title": "WebX 2026　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-14 02:30 JST"
-    },
-    {
-      "id": "15f71e21e664",
-      "title": "高市総理は政府与党連絡会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-13 21:00 JST"
-    },
-    {
-      "id": "94ea8060b3a8",
-      "title": "Explore The Met in new ways with generative AI",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-15 05:00 JST"
-    },
-    {
-      "id": "e1dc3b546cf0",
-      "title": "Our largest solar and battery storage project ever",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "Google will both invest in and purchase energy and storage from Steel …",
-      "publishedAtJst": "2026-07-15 01:00 JST"
     }
   ]
 }
