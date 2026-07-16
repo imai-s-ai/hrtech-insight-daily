@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-07-16",
+  "dateKey": "2026-07-17",
   "importantPoints": [
-    "最重要：It's not too late to get Pixel Care+ for your Pixel 9 or 10.（A_GLOBAL）",
+    "最重要：Experience the legacy of Estadio Azteca on Google Earth.（A_GLOBAL）",
     "次点：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（２）（B_JAPAN）",
     "注目：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（１）（B_JAPAN）"
   ],
@@ -12,15 +12,13 @@
   ],
   "articles": [
     {
-      "id": "43142c138278",
-      "title": "It's not too late to get Pixel Care+ for your Pixel 9 or 10.",
+      "id": "5645760fb5ab",
+      "title": "Experience the legacy of Estadio Azteca on Google Earth.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-15 07:00 JST"
+      "publishedAtJst": "2026-07-17 04:00 JST"
     },
     {
       "id": "c3c581be05d0",
@@ -41,22 +39,22 @@
       "publishedAtJst": "2026-07-16 00:00 JST"
     },
     {
-      "id": "53e3149d2cc1",
-      "title": "What building Shippy taught us about building agents",
+      "id": "4a7e305947c1",
+      "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
       "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-16 02:29 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "College students are eager to turn their dull dorm rooms into cozy spa…",
+      "publishedAtJst": "2026-07-17 02:00 JST"
     },
     {
-      "id": "210f6726bf4a",
-      "title": "Welcome Inkling by Thinking Machines",
+      "id": "ff8c14b3821e",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-15 09:00 JST"
+      "publishedAtJst": "2026-07-17 01:01 JST"
     },
     {
       "id": "3d5b9564dd06",
