@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-17",
+  "dateKey": "2026-07-18",
   "importantPoints": [
-    "最重要：Experience the legacy of Estadio Azteca on Google Earth.（A_GLOBAL）",
-    "次点：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（２）（B_JAPAN）",
-    "注目：高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（１）（B_JAPAN）"
+    "最重要：Designing emoji for the way we communicate today（A_GLOBAL）",
+    "次点：高市総理は総理大臣官邸で皇室典範改正の法案成立等についての会見を行いました（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,60 @@
   ],
   "articles": [
     {
-      "id": "5645760fb5ab",
-      "title": "Experience the legacy of Estadio Azteca on Google Earth.",
+      "id": "822bdaef475c",
+      "title": "Designing emoji for the way we communicate today",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-17 04:00 JST"
+      "publishedAtJst": "2026-07-17 23:25 JST"
+    },
+    {
+      "id": "b8f9a8b7e253",
+      "title": "高市総理は総理大臣官邸で皇室典範改正の法案成立等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [
+        "規制"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-18 03:40 JST"
+    },
+    {
+      "id": "99bda089addd",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-17 18:00 JST"
+    },
+    {
+      "id": "4a7e305947c1",
+      "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "College students are eager to turn their dull dorm rooms into cozy spa…",
+      "publishedAtJst": "2026-07-17 02:00 JST"
+    },
+    {
+      "id": "4babaf3e269b",
+      "title": "Newer Models, Same Advantage",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-16 20:49 JST"
+    },
+    {
+      "id": "17e58d10b6a1",
+      "title": "ＦＲＯＮＴｉａプロジェクト　キックオフイベント　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-16 19:00 JST"
     },
     {
       "id": "c3c581be05d0",
@@ -37,53 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-16 00:00 JST"
-    },
-    {
-      "id": "4a7e305947c1",
-      "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "College students are eager to turn their dull dorm rooms into cozy spa…",
-      "publishedAtJst": "2026-07-17 02:00 JST"
-    },
-    {
-      "id": "ff8c14b3821e",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-17 01:01 JST"
-    },
-    {
-      "id": "3d5b9564dd06",
-      "title": "ウクライナに関する有志連合首脳会合に際する高市内閣総理大臣書面メッセージ",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-14 18:00 JST"
-    },
-    {
-      "id": "a1298d2ffb7a",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-14 18:00 JST"
-    },
-    {
-      "id": "a17096d76eab",
-      "title": "高市総理は第４６回中央防災会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-14 17:35 JST"
     }
   ]
 }
