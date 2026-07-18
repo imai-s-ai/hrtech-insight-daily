@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-07-18",
+  "dateKey": "2026-07-19",
   "importantPoints": [
     "最重要：Designing emoji for the way we communicate today（A_GLOBAL）",
     "次点：高市総理は総理大臣官邸で皇室典範改正の法案成立等についての会見を行いました（B_JAPAN）",
@@ -68,22 +68,22 @@
       "publishedAtJst": "2026-07-16 19:00 JST"
     },
     {
-      "id": "c3c581be05d0",
-      "title": "高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（２）",
-      "category": "B_JAPAN",
+      "id": "5645760fb5ab",
+      "title": "Experience the legacy of Estadio Azteca on Google Earth.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-16 00:33 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-17 04:00 JST"
     },
     {
-      "id": "be3e5102189b",
-      "title": "高市総理は国家基本政策委員会合同審査会（党首討論）に出席しました（１）",
-      "category": "B_JAPAN",
+      "id": "425c8c64ad38",
+      "title": "6 back-to-school shopping tricks every student should know",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-16 00:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-17 02:00 JST"
     }
   ]
 }
