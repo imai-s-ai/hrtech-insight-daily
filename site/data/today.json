@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-07-19",
+  "dateKey": "2026-07-20",
   "importantPoints": [
     "最重要：Designing emoji for the way we communicate today（A_GLOBAL）",
     "次点：高市総理は総理大臣官邸で皇室典範改正の法案成立等についての会見を行いました（B_JAPAN）",
@@ -41,49 +41,13 @@
       "publishedAtJst": "2026-07-17 18:00 JST"
     },
     {
-      "id": "4a7e305947c1",
-      "title": "Beach vibes and temporary wallpaper are trending for back-to-school season.",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "College students are eager to turn their dull dorm rooms into cozy spa…",
-      "publishedAtJst": "2026-07-17 02:00 JST"
-    },
-    {
-      "id": "4babaf3e269b",
-      "title": "Newer Models, Same Advantage",
-      "category": "C_BIZ_AI",
+      "id": "a0bbc2c6e6f2",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-16 20:49 JST"
-    },
-    {
-      "id": "17e58d10b6a1",
-      "title": "ＦＲＯＮＴｉａプロジェクト　キックオフイベント　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-16 19:00 JST"
-    },
-    {
-      "id": "5645760fb5ab",
-      "title": "Experience the legacy of Estadio Azteca on Google Earth.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-17 04:00 JST"
-    },
-    {
-      "id": "425c8c64ad38",
-      "title": "6 back-to-school shopping tricks every student should know",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-17 02:00 JST"
+      "publishedAtJst": "2026-07-18 00:57 JST"
     }
   ]
 }
