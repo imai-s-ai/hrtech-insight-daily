@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-20",
+  "dateKey": "2026-07-21",
   "importantPoints": [
-    "最重要：Designing emoji for the way we communicate today（A_GLOBAL）",
-    "次点：高市総理は総理大臣官邸で皇室典範改正の法案成立等についての会見を行いました（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "最重要：5 ways to build a side hustle with Gemini（A_GLOBAL）",
+    "次点：「海の日」を迎えるに当たっての内閣総理大臣メッセージ（B_JAPAN）",
+    "注目：Introducing Cosmos 3 Edge（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,42 +12,31 @@
   ],
   "articles": [
     {
-      "id": "822bdaef475c",
-      "title": "Designing emoji for the way we communicate today",
+      "id": "a2e05514b597",
+      "title": "5 ways to build a side hustle with Gemini",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-17 23:25 JST"
+      "publishedAtJst": "2026-07-21 04:00 JST"
     },
     {
-      "id": "b8f9a8b7e253",
-      "title": "高市総理は総理大臣官邸で皇室典範改正の法案成立等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-18 03:40 JST"
-    },
-    {
-      "id": "99bda089addd",
-      "title": "閣議の概要について",
+      "id": "5dece5729e45",
+      "title": "「海の日」を迎えるに当たっての内閣総理大臣メッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-17 18:00 JST"
+      "publishedAtJst": "2026-07-20 17:00 JST"
     },
     {
-      "id": "a0bbc2c6e6f2",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "category": "A_GLOBAL",
+      "id": "8030c8e0dc09",
+      "title": "Introducing Cosmos 3 Edge",
+      "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-18 00:57 JST"
+      "publishedAtJst": "2026-07-21 00:58 JST"
     }
   ]
 }
