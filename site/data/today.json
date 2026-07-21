@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-21",
+  "dateKey": "2026-07-22",
   "importantPoints": [
-    "最重要：5 ways to build a side hustle with Gemini（A_GLOBAL）",
-    "次点：「海の日」を迎えるに当たっての内閣総理大臣メッセージ（B_JAPAN）",
-    "注目：Introducing Cosmos 3 Edge（C_BIZ_AI）"
+    "最重要：13 Google tips for a fun, productive summer off from college（A_GLOBAL）",
+    "次点：高市総理は令和８年第１１回経済財政諮問会議・第７回日本成長戦略会議の合同会議を開催しました（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,53 @@
   ],
   "articles": [
     {
-      "id": "a2e05514b597",
-      "title": "5 ways to build a side hustle with Gemini",
+      "id": "b81c0e0e3246",
+      "title": "13 Google tips for a fun, productive summer off from college",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-21 04:00 JST"
+      "publishedAtJst": "2026-07-22 05:00 JST"
+    },
+    {
+      "id": "4da8543edfd5",
+      "title": "高市総理は令和８年第１１回経済財政諮問会議・第７回日本成長戦略会議の合同会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-21 19:30 JST"
+    },
+    {
+      "id": "8b6ae7244995",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-21 18:00 JST"
+    },
+    {
+      "id": "eed16821fcdd",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-22 05:00 JST"
+    },
+    {
+      "id": "f07ea0986edc",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-21 09:00 JST"
     },
     {
       "id": "5dece5729e45",
@@ -30,13 +70,22 @@
       "publishedAtJst": "2026-07-20 17:00 JST"
     },
     {
-      "id": "8030c8e0dc09",
-      "title": "Introducing Cosmos 3 Edge",
-      "category": "C_BIZ_AI",
+      "id": "8fd735d60318",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-21 00:58 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-22 00:00 JST"
+    },
+    {
+      "id": "b19aba02a817",
+      "title": "We’re announcing the Alliance for America’s Skilled Trades.",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-21 23:00 JST"
     }
   ]
 }
