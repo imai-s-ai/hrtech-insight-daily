@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-23",
+  "dateKey": "2026-07-24",
   "importantPoints": [
-    "最重要：Q2 2026 earnings call: Remarks from our CEO（A_GLOBAL）",
-    "次点：主要政策（骨太の方針２０２６）特集ページを公開しました（B_JAPAN）",
-    "注目：高市総理は第６０回日本公認会計士協会定期総会に出席しました（B_JAPAN）"
+    "最重要：Play Points members and comic book fans can score exclusive rewards with Google Play（A_GLOBAL）",
+    "次点：高市総理はソロモン諸島のマシュー・クーパー・ワレ首相と首脳会談を行いました（B_JAPAN）",
+    "注目：高市総理は「女性のヘルスケアに関するガイダンス（中高年編）」の策定に係る面会を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,33 @@
   ],
   "articles": [
     {
-      "id": "3770d6bf3de7",
-      "title": "Q2 2026 earnings call: Remarks from our CEO",
+      "id": "1bdde6f333c6",
+      "title": "Play Points members and comic book fans can score exclusive rewards with Google Play",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "summaryShort": "Read an edited transcript of Sundar Pichai’s remarks from the Q2 2026 …",
-      "publishedAtJst": "2026-07-23 05:45 JST"
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-24 02:00 JST"
     },
     {
-      "id": "8cd489ded878",
-      "title": "主要政策（骨太の方針２０２６）特集ページを公開しました",
+      "id": "082a94d0eb01",
+      "title": "高市総理はソロモン諸島のマシュー・クーパー・ワレ首相と首脳会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-23 02:00 JST"
+      "publishedAtJst": "2026-07-24 02:30 JST"
     },
     {
-      "id": "3fbc1ed7f80c",
-      "title": "高市総理は第６０回日本公認会計士協会定期総会に出席しました",
+      "id": "76ce2c363698",
+      "title": "高市総理は「女性のヘルスケアに関するガイダンス（中高年編）」の策定に係る面会を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-22 22:00 JST"
+      "publishedAtJst": "2026-07-23 23:30 JST"
     },
     {
       "id": "eed16821fcdd",
@@ -61,31 +61,31 @@
       "publishedAtJst": "2026-07-21 09:00 JST"
     },
     {
-      "id": "4da8543edfd5",
-      "title": "高市総理は令和８年第１１回経済財政諮問会議・第７回日本成長戦略会議の合同会議を開催しました",
+      "id": "c9dbb7da776c",
+      "title": "高市総理は都道府県議会議長との懇談会を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-21 19:30 JST"
+      "publishedAtJst": "2026-07-23 21:10 JST"
     },
     {
-      "id": "8b6ae7244995",
-      "title": "閣議の概要について",
+      "id": "8cd489ded878",
+      "title": "主要政策（骨太の方針２０２６）特集ページを公開しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-21 18:00 JST"
+      "publishedAtJst": "2026-07-23 02:00 JST"
     },
     {
-      "id": "5dece5729e45",
-      "title": "「海の日」を迎えるに当たっての内閣総理大臣メッセージ",
+      "id": "3fbc1ed7f80c",
+      "title": "高市総理は第６０回日本公認会計士協会定期総会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-20 17:00 JST"
+      "publishedAtJst": "2026-07-22 22:00 JST"
     }
   ]
 }
