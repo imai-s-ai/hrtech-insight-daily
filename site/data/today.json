@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-07-25",
+  "dateKey": "2026-07-26",
   "importantPoints": [
     "最重要：Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.（A_GLOBAL）",
     "次点：経団連夏季フォーラム　高市総理ビデオメッセージ（B_JAPAN）",
@@ -77,13 +77,15 @@
       "publishedAtJst": "2026-07-23 21:10 JST"
     },
     {
-      "id": "8cd489ded878",
-      "title": "主要政策（骨太の方針２０２６）特集ページを公開しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-23 02:00 JST"
+      "id": "1bdde6f333c6",
+      "title": "Play Points members and comic book fans can score exclusive rewards with Google Play",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-07-24 02:00 JST"
     }
   ]
 }
