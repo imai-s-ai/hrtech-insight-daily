@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-24",
+  "dateKey": "2026-07-25",
   "importantPoints": [
-    "最重要：Play Points members and comic book fans can score exclusive rewards with Google Play（A_GLOBAL）",
-    "次点：高市総理はソロモン諸島のマシュー・クーパー・ワレ首相と首脳会談を行いました（B_JAPAN）",
-    "注目：高市総理は「女性のヘルスケアに関するガイダンス（中高年編）」の策定に係る面会を行いました（B_JAPAN）"
+    "最重要：Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.（A_GLOBAL）",
+    "次点：経団連夏季フォーラム　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,42 @@
   ],
   "articles": [
     {
-      "id": "1bdde6f333c6",
-      "title": "Play Points members and comic book fans can score exclusive rewards with Google Play",
+      "id": "6424d40e9b16",
+      "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-24 02:00 JST"
+      "publishedAtJst": "2026-07-24 23:00 JST"
+    },
+    {
+      "id": "e33db8d8a573",
+      "title": "経団連夏季フォーラム　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-25 04:30 JST"
+    },
+    {
+      "id": "a9f00f3141a7",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-24 18:00 JST"
+    },
+    {
+      "id": "6cbbd9861dd8",
+      "title": "木原内閣官房長官は第３回外国人の受入れ・秩序ある共生社会実現に関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-24 17:40 JST"
     },
     {
       "id": "082a94d0eb01",
@@ -33,32 +60,12 @@
     },
     {
       "id": "76ce2c363698",
-      "title": "高市総理は「女性のヘルスケアに関するガイダンス（中高年編）」の策定に係る面会を行いました",
+      "title": "高市総理は「女性のヘルスケアに関するガイダンス（中高年期編）」の策定に係る面会を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-23 23:30 JST"
-    },
-    {
-      "id": "eed16821fcdd",
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-22 05:00 JST"
-    },
-    {
-      "id": "f07ea0986edc",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-21 09:00 JST"
     },
     {
       "id": "c9dbb7da776c",
@@ -77,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-07-23 02:00 JST"
-    },
-    {
-      "id": "3fbc1ed7f80c",
-      "title": "高市総理は第６０回日本公認会計士協会定期総会に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-22 22:00 JST"
     }
   ]
 }
