@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-27",
+  "dateKey": "2026-07-28",
   "importantPoints": [
-    "最重要：Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.（A_GLOBAL）",
-    "次点：「飛鳥・藤原の宮都」世界遺産登録に当たっての内閣総理大臣メッセージ（B_JAPAN）",
-    "注目：経団連夏季フォーラム　高市総理ビデオメッセージ（B_JAPAN）"
+    "最重要：NOAA and Google Cloud collaborate to advance weather forecasting.（A_GLOBAL）",
+    "次点：高市総理は記者会見を行いました（B_JAPAN）",
+    "注目：「飛鳥・藤原の宮都」世界遺産登録に当たっての内閣総理大臣メッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,22 @@
   ],
   "articles": [
     {
-      "id": "6424d40e9b16",
-      "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
+      "id": "b9a13a31c197",
+      "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-24 23:00 JST"
+      "publishedAtJst": "2026-07-28 02:00 JST"
+    },
+    {
+      "id": "fda5804e260d",
+      "title": "高市総理は記者会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-28 03:00 JST"
     },
     {
       "id": "2a7f26a5f84f",
@@ -32,31 +39,13 @@
       "publishedAtJst": "2026-07-26 19:00 JST"
     },
     {
-      "id": "e33db8d8a573",
-      "title": "経団連夏季フォーラム　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
+      "id": "9101339b1ac2",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-25 04:30 JST"
-    },
-    {
-      "id": "a9f00f3141a7",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-24 18:00 JST"
-    },
-    {
-      "id": "6cbbd9861dd8",
-      "title": "木原内閣官房長官は第３回外国人の受入れ・秩序ある共生社会実現に関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-24 17:40 JST"
+      "publishedAtJst": "2026-07-27 18:32 JST"
     }
   ]
 }
