@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-28",
+  "dateKey": "2026-07-29",
   "importantPoints": [
-    "最重要：NOAA and Google Cloud collaborate to advance weather forecasting.（A_GLOBAL）",
-    "次点：高市総理は記者会見を行いました（B_JAPAN）",
-    "注目：「飛鳥・藤原の宮都」世界遺産登録に当たっての内閣総理大臣メッセージ（B_JAPAN）"
+    "最重要：How Gemini Flash agents are helping a Michigan dairy farmer（A_GLOBAL）",
+    "次点：高市総理は第１回令和８年熊本地震非常災害対策本部会議を開催しました（B_JAPAN）",
+    "注目：熊本県熊本地方を震源とする地震についての特設ページを公開しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,40 +12,78 @@
   ],
   "articles": [
     {
-      "id": "b9a13a31c197",
-      "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
+      "id": "25d2cdbe4dfc",
+      "title": "How Gemini Flash agents are helping a Michigan dairy farmer",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-28 02:00 JST"
+      "publishedAtJst": "2026-07-29 01:15 JST"
     },
     {
-      "id": "fda5804e260d",
-      "title": "高市総理は記者会見を行いました",
+      "id": "a06792e5213d",
+      "title": "高市総理は第１回令和８年熊本地震非常災害対策本部会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-28 03:00 JST"
+      "publishedAtJst": "2026-07-29 04:45 JST"
     },
     {
-      "id": "2a7f26a5f84f",
-      "title": "「飛鳥・藤原の宮都」世界遺産登録に当たっての内閣総理大臣メッセージ",
+      "id": "925c021e6f4b",
+      "title": "熊本県熊本地方を震源とする地震についての特設ページを公開しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-26 19:00 JST"
+      "publishedAtJst": "2026-07-29 04:00 JST"
     },
     {
-      "id": "9101339b1ac2",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "id": "92e866603de3",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-27 18:32 JST"
+      "publishedAtJst": "2026-07-29 01:27 JST"
+    },
+    {
+      "id": "85dd02699b25",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-29 00:01 JST"
+    },
+    {
+      "id": "cb7a7259ef02",
+      "title": "熊本県熊本地方を震源とする地震について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-29 03:30 JST"
+    },
+    {
+      "id": "1b85cee16012",
+      "title": "高市総理は熊本県熊本地方を震源とする地震についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-29 03:10 JST"
+    },
+    {
+      "id": "93737460f92f",
+      "title": "高市総理は熊本県熊本地方を震源とする地震に関する総理指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-29 01:29 JST"
     }
   ]
 }
