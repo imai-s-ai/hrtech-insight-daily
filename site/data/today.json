@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-29",
+  "dateKey": "2026-07-30",
   "importantPoints": [
-    "最重要：How Gemini Flash agents are helping a Michigan dairy farmer（A_GLOBAL）",
-    "次点：高市総理は第１回令和８年熊本地震非常災害対策本部会議を開催しました（B_JAPAN）",
-    "注目：熊本県熊本地方を震源とする地震についての特設ページを公開しました（B_JAPAN）"
+    "最重要：How the Head of YouTube Health handles screen time with his kids（A_GLOBAL）",
+    "次点：高市総理は７月の月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
+    "注目：高市総理は第２回社会保障国民会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,31 @@
   ],
   "articles": [
     {
-      "id": "25d2cdbe4dfc",
-      "title": "How Gemini Flash agents are helping a Michigan dairy farmer",
+      "id": "97fcf0e0c055",
+      "title": "How the Head of YouTube Health handles screen time with his kids",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-29 01:15 JST"
+      "publishedAtJst": "2026-07-30 01:00 JST"
     },
     {
-      "id": "a06792e5213d",
-      "title": "高市総理は第１回令和８年熊本地震非常災害対策本部会議を開催しました",
+      "id": "707bab1eb6b0",
+      "title": "高市総理は７月の月例経済報告等に関する関係閣僚会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 04:45 JST"
+      "publishedAtJst": "2026-07-30 02:20 JST"
     },
     {
-      "id": "925c021e6f4b",
-      "title": "熊本県熊本地方を震源とする地震についての特設ページを公開しました",
+      "id": "70dffede693c",
+      "title": "高市総理は第２回社会保障国民会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 04:00 JST"
+      "publishedAtJst": "2026-07-30 00:00 JST"
     },
     {
       "id": "92e866603de3",
@@ -59,31 +57,31 @@
       "publishedAtJst": "2026-07-29 00:01 JST"
     },
     {
-      "id": "cb7a7259ef02",
-      "title": "熊本県熊本地方を震源とする地震について",
+      "id": "e71e20e2d370",
+      "title": "高市総理は第２回令和８年熊本地震非常災害対策本部会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 03:30 JST"
+      "publishedAtJst": "2026-07-29 22:30 JST"
     },
     {
-      "id": "1b85cee16012",
-      "title": "高市総理は熊本県熊本地方を震源とする地震についての会見を行いました",
+      "id": "948aca466bc4",
+      "title": "令和８年熊本地震について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 03:10 JST"
+      "publishedAtJst": "2026-07-29 20:00 JST"
     },
     {
-      "id": "93737460f92f",
-      "title": "高市総理は熊本県熊本地方を震源とする地震に関する総理指示を行いました",
+      "id": "834db82dd96b",
+      "title": "高市総理は政府与党政策懇談会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 01:29 JST"
+      "publishedAtJst": "2026-07-29 19:00 JST"
     }
   ]
 }
