@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-30",
+  "dateKey": "2026-07-31",
   "importantPoints": [
-    "最重要：How the Head of YouTube Health handles screen time with his kids（A_GLOBAL）",
-    "次点：高市総理は７月の月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
-    "注目：高市総理は第２回社会保障国民会議を開催しました（B_JAPAN）"
+    "最重要：Gemini Spark now integrates with Chrome（A_GLOBAL）",
+    "次点：高市総理は｢飲食料品に係る消費税率の引下げ｣及び｢給付付き税額控除｣についての会見を行いました（B_JAPAN）",
+    "注目：木原内閣官房長官は第２回国と東京都の協議会に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,31 +12,31 @@
   ],
   "articles": [
     {
-      "id": "97fcf0e0c055",
-      "title": "How the Head of YouTube Health handles screen time with his kids",
+      "id": "8d96b2107810",
+      "title": "Gemini Spark now integrates with Chrome",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-30 01:00 JST"
+      "publishedAtJst": "2026-07-31 05:00 JST"
     },
     {
-      "id": "707bab1eb6b0",
-      "title": "高市総理は７月の月例経済報告等に関する関係閣僚会議に出席しました",
+      "id": "176884d03703",
+      "title": "高市総理は｢飲食料品に係る消費税率の引下げ｣及び｢給付付き税額控除｣についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-30 02:20 JST"
+      "publishedAtJst": "2026-07-31 03:00 JST"
     },
     {
-      "id": "70dffede693c",
-      "title": "高市総理は第２回社会保障国民会議を開催しました",
+      "id": "8a45ab77cc02",
+      "title": "木原内閣官房長官は第２回国と東京都の協議会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-30 00:00 JST"
+      "publishedAtJst": "2026-07-31 02:00 JST"
     },
     {
       "id": "92e866603de3",
@@ -57,31 +57,31 @@
       "publishedAtJst": "2026-07-29 00:01 JST"
     },
     {
-      "id": "e71e20e2d370",
-      "title": "高市総理は第２回令和８年熊本地震非常災害対策本部会議に出席しました",
+      "id": "e266c5f83955",
+      "title": "高市総理は第３回令和８年熊本地震非常災害対策本部会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 22:30 JST"
+      "publishedAtJst": "2026-07-30 22:30 JST"
     },
     {
-      "id": "948aca466bc4",
-      "title": "令和８年熊本地震について",
+      "id": "a1309050c131",
+      "title": "高市総理は北方少年少女による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 20:00 JST"
+      "publishedAtJst": "2026-07-30 20:00 JST"
     },
     {
-      "id": "834db82dd96b",
-      "title": "高市総理は政府与党政策懇談会に出席しました",
+      "id": "99f032ff41a7",
+      "title": "臨時閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 19:00 JST"
+      "publishedAtJst": "2026-07-30 19:00 JST"
     }
   ]
 }
