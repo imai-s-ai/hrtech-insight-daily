@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-07-31",
+  "dateKey": "2026-08-01",
   "importantPoints": [
-    "最重要：Gemini Spark now integrates with Chrome（A_GLOBAL）",
-    "次点：高市総理は｢飲食料品に係る消費税率の引下げ｣及び｢給付付き税額控除｣についての会見を行いました（B_JAPAN）",
-    "注目：木原内閣官房長官は第２回国と東京都の協議会に出席しました（B_JAPAN）"
+    "最重要：Simplify your morning with this vibe-coded schedule app.（A_GLOBAL）",
+    "次点：木原内閣官房長官は国家情報局の看板掛けを行いました（B_JAPAN）",
+    "注目：高市総理は第１４回原子力関係閣僚会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,76 +12,76 @@
   ],
   "articles": [
     {
-      "id": "8d96b2107810",
-      "title": "Gemini Spark now integrates with Chrome",
+      "id": "e1555b622d57",
+      "title": "Simplify your morning with this vibe-coded schedule app.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-07-31 05:00 JST"
+      "publishedAtJst": "2026-08-01 04:00 JST"
     },
     {
-      "id": "176884d03703",
-      "title": "高市総理は｢飲食料品に係る消費税率の引下げ｣及び｢給付付き税額控除｣についての会見を行いました",
+      "id": "1be8610aec62",
+      "title": "木原内閣官房長官は国家情報局の看板掛けを行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-31 03:00 JST"
+      "publishedAtJst": "2026-08-01 03:20 JST"
     },
     {
-      "id": "8a45ab77cc02",
-      "title": "木原内閣官房長官は第２回国と東京都の協議会に出席しました",
+      "id": "039c59a2ee27",
+      "title": "高市総理は第１４回原子力関係閣僚会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-31 02:00 JST"
+      "publishedAtJst": "2026-08-01 02:40 JST"
     },
     {
-      "id": "92e866603de3",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 01:27 JST"
-    },
-    {
-      "id": "85dd02699b25",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-29 00:01 JST"
-    },
-    {
-      "id": "e266c5f83955",
-      "title": "高市総理は第３回令和８年熊本地震非常災害対策本部会議に出席しました",
+      "id": "aec4a8b99c1f",
+      "title": "高市総理は第４回令和８年熊本地震非常災害対策本部会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-30 22:30 JST"
+      "publishedAtJst": "2026-08-01 02:20 JST"
     },
     {
-      "id": "a1309050c131",
-      "title": "高市総理は北方少年少女による表敬を受けました",
+      "id": "2b8b5dd13228",
+      "title": "熱中症対策に関する関係閣僚会議の開催について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-30 20:00 JST"
+      "publishedAtJst": "2026-08-01 01:00 JST"
     },
     {
-      "id": "99f032ff41a7",
-      "title": "臨時閣議の概要について",
+      "id": "0cae8e36c565",
+      "title": "高市総理は第１回熱中症対策に関する関係閣僚会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-07-30 19:00 JST"
+      "publishedAtJst": "2026-08-01 00:15 JST"
+    },
+    {
+      "id": "b1728d560c35",
+      "title": "高市総理は第５回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-31 22:30 JST"
+    },
+    {
+      "id": "260c529f61d4",
+      "title": "閣議の概要／内閣官房及び内閣府の人事／国家情報会議の開催／クマ被害対策等に関する関係閣僚会議の開催／令和８年熊本地震について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-07-31 20:00 JST"
     }
   ]
 }
