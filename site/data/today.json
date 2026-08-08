@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-08",
+  "dateKey": "2026-08-09",
   "importantPoints": [
     "最重要：See what 5 builders are making with Gemini Omni（A_GLOBAL）",
-    "次点：高市総理は東京都の小池百合子（ゆりこ）知事と面会しました（B_JAPAN）",
-    "注目：高市総理は第８回令和８年熊本地震非常災害対策本部会議に出席しました（B_JAPAN）"
+    "次点：How Gemini plans such detailed vacation itineraries for you（A_GLOBAL）",
+    "注目：Parents can now send money to their kids on Google Wallet.（A_GLOBAL）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,69 +21,53 @@
       "publishedAtJst": "2026-08-07 23:00 JST"
     },
     {
-      "id": "ef76bc69171f",
-      "title": "高市総理は東京都の小池百合子（ゆりこ）知事と面会しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-08 01:50 JST"
-    },
-    {
-      "id": "f08a2b07f135",
-      "title": "高市総理は第８回令和８年熊本地震非常災害対策本部会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-08 00:00 JST"
-    },
-    {
-      "id": "fd5b733b3580",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "category": "C_BIZ_AI",
+      "id": "d839a2a7b2da",
+      "title": "How Gemini plans such detailed vacation itineraries for you",
+      "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-08 02:53 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-07 03:00 JST"
     },
     {
-      "id": "72ea094fa822",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "category": "C_BIZ_AI",
+      "id": "7f312826661f",
+      "title": "Parents can now send money to their kids on Google Wallet.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-06 09:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-07 01:00 JST"
     },
     {
-      "id": "c74dea041894",
-      "title": "令和８年熊本地震の被災者支援情報をお伝えするポータルサイトを開設しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-08 00:00 JST"
+      "id": "f0337703815f",
+      "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-06 23:00 JST"
     },
     {
-      "id": "632876a9db23",
-      "title": "高市総理は人事院の川本裕子総裁から人事院勧告を受け取りました",
-      "category": "B_JAPAN",
+      "id": "43a6ad7555ea",
+      "title": "Step into the world of tango on Google Arts & Culture",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-07 23:05 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-06 22:00 JST"
     },
     {
-      "id": "9117fcaf29ac",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-      "category": "B_JAPAN",
+      "id": "1df71561f54b",
+      "title": "Ask Maps gets more helpful with food ordering and more",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-07 02:07 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-06 21:30 JST"
     }
   ]
 }
