@@ -1,18 +1,116 @@
 {
   "items": [
     {
-      "id": "d8746b1ce651",
-      "title": "See what 5 builders are making with Gemini Omni",
+      "id": "10944626c660",
+      "title": "Have more fun at the state fair with these Google tools",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-08-07 23:00 JST",
+      "publishedAtJst": "2026-08-11 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 See what 5 builders are making with Gemini Omni\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_hero.max-600x600.format-webp.webp\">Gemini Omni makes creating videos as easy as having a conversation. Here’s how five people use it to edit videos and visualize ideas.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-07 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Have more fun at the state fair with these Google tools\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026statefair_hero.max-600x600.format-webp.webp\">Here are five easy ways Google tools can help you make plans, explore, and create memories at the state fair.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-11 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/"
+          "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/"
+        }
+      ]
+    },
+    {
+      "id": "4637517208db",
+      "title": "内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-11 16:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-11 16:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20260811message.html"
+        }
+      ]
+    },
+    {
+      "id": "311eb91bfe43",
+      "title": "高市総理はハイサム・オマーン国王との電話会談についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-11 03:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はハイサム・オマーン国王との電話会談についての会見を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-11 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/0810kaiken.html"
+        }
+      ]
+    },
+    {
+      "id": "e5b664a37aa3",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-08-11 01:25 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-11 01:25 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+        }
+      ]
+    },
+    {
+      "id": "0da6fb777e33",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-08-10 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Meta is back with Muse Glimmer: local, agentic, multimodal, and open source\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-10 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/muse-glimmer"
+        }
+      ]
+    },
+    {
+      "id": "803f46cc30bb",
+      "title": "高市総理はオマーン国のハイサム国王と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-11 02:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はオマーン国のハイサム国王と電話会談を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-11 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202608/10tel_kaidan.html"
+        }
+      ]
+    },
+    {
+      "id": "1dada331f6dd",
+      "title": "高市総理は第９回令和８年熊本地震非常災害対策本部会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-11 00:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は第９回令和８年熊本地震非常災害対策本部会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-11 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202608/11hijoukaigi.html"
         }
       ]
     },
@@ -29,104 +127,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/statement/2026/0809kaiken.html"
-        }
-      ]
-    },
-    {
-      "id": "4f00f89da691",
-      "title": "高市総理は長崎原爆犠牲者慰霊平和祈念式典に参列しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-09 19:45 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は長崎原爆犠牲者慰霊平和祈念式典に参列しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-09 19:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202608/09nagasaki.html"
-        }
-      ]
-    },
-    {
-      "id": "fd5b733b3580",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-08-08 02:53 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 TutorMoments: Do AI tutors know when to help and when to hold back?\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-08 02:53 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/allenai/tutormoments"
-        }
-      ]
-    },
-    {
-      "id": "7eb0fef838d0",
-      "title": "高市総理は長崎原爆犠牲者慰霊平和祈念式典で挨拶を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-09 19:45 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は長崎原爆犠牲者慰霊平和祈念式典で挨拶を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-09 19:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/statement/2026/0809nagasaki.html"
-        }
-      ]
-    },
-    {
-      "id": "ef76bc69171f",
-      "title": "高市総理は東京都の小池百合子（ゆりこ）知事と面会しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-08 01:50 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は東京都の小池百合子（ゆりこ）知事と面会しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-08 01:50 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202608/07menkai.html"
-        }
-      ]
-    },
-    {
-      "id": "f08a2b07f135",
-      "title": "高市総理は第８回令和８年熊本地震非常災害対策本部会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-08 00:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は第８回令和８年熊本地震非常災害対策本部会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-08 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202608/07hijoukaigi.html"
-        }
-      ]
-    },
-    {
-      "id": "c74dea041894",
-      "title": "令和８年熊本地震の被災者支援情報をお伝えするポータルサイトを開設しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-08 00:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 令和８年熊本地震の被災者支援情報をお伝えするポータルサイトを開設しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-08 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/headline/earthquake20260728/index.html"
         }
       ]
     }
