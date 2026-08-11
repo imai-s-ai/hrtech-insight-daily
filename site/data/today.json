@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-11",
+  "dateKey": "2026-08-12",
   "importantPoints": [
-    "最重要：Have more fun at the state fair with these Google tools（A_GLOBAL）",
-    "次点：内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）（B_JAPAN）",
-    "注目：高市総理はハイサム・オマーン国王との電話会談についての会見を行いました（B_JAPAN）"
+    "最重要：AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.（A_GLOBAL）",
+    "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
+    "注目：内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,24 @@
   ],
   "articles": [
     {
-      "id": "10944626c660",
-      "title": "Have more fun at the state fair with these Google tools",
+      "id": "dbc30e861442",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-11 01:00 JST"
+      "publishedAtJst": "2026-08-12 02:00 JST"
+    },
+    {
+      "id": "c3540ecb7082",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-12 15:03 JST"
     },
     {
       "id": "4637517208db",
@@ -32,13 +41,13 @@
       "publishedAtJst": "2026-08-11 16:30 JST"
     },
     {
-      "id": "311eb91bfe43",
-      "title": "高市総理はハイサム・オマーン国王との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
+      "id": "5eb3c49c6262",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-11 03:00 JST"
+      "publishedAtJst": "2026-08-11 22:37 JST"
     },
     {
       "id": "e5b664a37aa3",
@@ -50,13 +59,13 @@
       "publishedAtJst": "2026-08-11 01:25 JST"
     },
     {
-      "id": "0da6fb777e33",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "category": "C_BIZ_AI",
+      "id": "311eb91bfe43",
+      "title": "高市総理はハイサム・オマーン国王との電話会談についての会見を行いました",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-10 09:00 JST"
+      "publishedAtJst": "2026-08-11 03:00 JST"
     },
     {
       "id": "803f46cc30bb",
@@ -75,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-08-11 00:00 JST"
-    },
-    {
-      "id": "ed0c7181789b",
-      "title": "高市総理は長崎原爆犠牲者慰霊平和祈念式典参列等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-09 22:50 JST"
     }
   ]
 }
