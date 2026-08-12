@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-12",
+  "dateKey": "2026-08-13",
   "importantPoints": [
-    "最重要：AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.（A_GLOBAL）",
-    "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
-    "注目：内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）（B_JAPAN）"
+    "最重要：How we built the new GPS on Pixel Watch 5（A_GLOBAL）",
+    "次点：高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました（B_JAPAN）",
+    "注目：高市総理はイラン・イスラム共和国のマスウード・ペゼシュキアン大統領と電話会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,58 @@
   ],
   "articles": [
     {
-      "id": "dbc30e861442",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "id": "7296a8a58b8a",
+      "title": "How we built the new GPS on Pixel Watch 5",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-12 02:00 JST"
+      "publishedAtJst": "2026-08-12 23:00 JST"
+    },
+    {
+      "id": "d348a6e4453a",
+      "title": "高市総理はペゼシュキアン・イラン・イスラム共和国大統領との電話会談についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-13 01:20 JST"
+    },
+    {
+      "id": "d9210a3369fd",
+      "title": "高市総理はイラン・イスラム共和国のマスウード・ペゼシュキアン大統領と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-13 01:20 JST"
+    },
+    {
+      "id": "b4d1c7f1a20a",
+      "title": "Here are 3 ways your Pixel just got even more helpful.",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp\">…",
+      "publishedAtJst": "2026-08-12 23:00 JST"
+    },
+    {
+      "id": "e43158037a35",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-13 01:14 JST"
+    },
+    {
+      "id": "4b476e251cd8",
+      "title": "高市総理は第１０回令和８年熊本地震非常災害対策本部会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-13 00:00 JST"
     },
     {
       "id": "c3540ecb7082",
@@ -39,51 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-08-11 16:30 JST"
-    },
-    {
-      "id": "5eb3c49c6262",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-11 22:37 JST"
-    },
-    {
-      "id": "e5b664a37aa3",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-11 01:25 JST"
-    },
-    {
-      "id": "311eb91bfe43",
-      "title": "高市総理はハイサム・オマーン国王との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-11 03:00 JST"
-    },
-    {
-      "id": "803f46cc30bb",
-      "title": "高市総理はオマーン国のハイサム国王と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-11 02:00 JST"
-    },
-    {
-      "id": "1dada331f6dd",
-      "title": "高市総理は第９回令和８年熊本地震非常災害対策本部会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-11 00:00 JST"
     }
   ]
 }
