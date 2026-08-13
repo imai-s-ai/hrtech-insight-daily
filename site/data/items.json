@@ -1,18 +1,84 @@
 {
   "items": [
     {
-      "id": "7296a8a58b8a",
-      "title": "How we built the new GPS on Pixel Watch 5",
+      "id": "ccebb06f6c32",
+      "title": "Introducing Gemini 3.7 Flash",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-08-12 23:00 JST",
+      "publishedAtJst": "2026-08-14 02:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 How we built the new GPS on Pixel Watch 5\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp\">The Pixel Watch 5 offers our most accurate GPS route tracking yet, helping you retrace where you went on runs, hikes, and bike rides.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-12 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Introducing Gemini 3.7 Flash\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.max-600x600.format-webp.webp\">Gemini 3.7 Flash is our most intelligent workhorse model yet for coding and agents.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-14 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        }
+      ]
+    },
+    {
+      "id": "d7f75ee220be",
+      "title": "朱鎔基・中華人民共和国元国務院総理の逝去を受けた高市総理大臣による弔意メッセージの発出",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-14 06:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 朱鎔基・中華人民共和国元国務院総理の逝去を受けた高市総理大臣による弔意メッセージの発出\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-14 06:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20260813message.html"
+        }
+      ]
+    },
+    {
+      "id": "cf7772034c39",
+      "title": "高市総理はプーチン・ロシア大統領による択捉島訪問についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-14 01:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はプーチン・ロシア大統領による択捉島訪問についての会見を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-14 01:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/0813kaiken.html"
+        }
+      ]
+    },
+    {
+      "id": "c1c988556190",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-08-14 02:16 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-14 02:16 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+        }
+      ]
+    },
+    {
+      "id": "b4d1c7f1a20a",
+      "title": "Here are 3 ways your Pixel just got even more helpful.",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-08-12 23:00 JST",
+      "summaryShort": "<img src=\"https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp\">…",
+      "summaryFull": "――――――――――\n📰 Here are 3 ways your Pixel just got even more helpful.\n\n■ 概要（3行以内）\n・<img src=\"https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp\">Our Pixel 11 phones are packed with helpful updates, like Magic Capture, Rambler, and HiLight. Here, a Googler shares his favorites.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-12 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/"
         }
       ]
     },
@@ -49,38 +115,6 @@
       ]
     },
     {
-      "id": "b4d1c7f1a20a",
-      "title": "Here are 3 ways your Pixel just got even more helpful.",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-08-12 23:00 JST",
-      "summaryShort": "<img src=\"https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp\">…",
-      "summaryFull": "――――――――――\n📰 Here are 3 ways your Pixel just got even more helpful.\n\n■ 概要（3行以内）\n・<img src=\"https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp\">Our Pixel 11 phones are packed with helpful updates, like Magic Capture, Rambler, and HiLight. Here, a Googler shares his favorites.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-12 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/"
-        }
-      ]
-    },
-    {
-      "id": "e43158037a35",
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-08-13 01:14 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-13 01:14 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
-        }
-      ]
-    },
-    {
       "id": "4b476e251cd8",
       "title": "高市総理は第１０回令和８年熊本地震非常災害対策本部会議に出席しました",
       "category": "B_JAPAN",
@@ -93,38 +127,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/actions/202608/12hijoukaigi.html"
-        }
-      ]
-    },
-    {
-      "id": "c3540ecb7082",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-12 15:03 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-12 15:03 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260812shiji.html"
-        }
-      ]
-    },
-    {
-      "id": "4637517208db",
-      "title": "内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-11 16:30 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 内閣総理大臣のコメント（Ｈ３ロケット９号機による「みちびき７号機」の打上げ成功について）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-11 16:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260811message.html"
         }
       ]
     }
