@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-16",
+  "dateKey": "2026-08-17",
   "importantPoints": [
-    "最重要：Introducing Gemini 3.7 Flash（A_GLOBAL）",
-    "次点：高市総理は全国戦没者追悼式で式辞を述べました（B_JAPAN）",
-    "注目：高市総理は千鳥ヶ淵戦没者墓苑（ちどりがふちせんぼつしゃぼえん）を参拝しました（B_JAPAN）"
+    "最重要：高市総理は全国戦没者追悼式で式辞を述べました（B_JAPAN）",
+    "次点：高市総理は千鳥ヶ淵戦没者墓苑（ちどりがふちせんぼつしゃぼえん）を参拝しました（B_JAPAN）",
+    "注目：State of Open Models: Summer 2026 Observations（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,15 +11,6 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
-    {
-      "id": "ccebb06f6c32",
-      "title": "Introducing Gemini 3.7 Flash",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-14 02:00 JST"
-    },
     {
       "id": "bfcc46c67a4d",
       "title": "高市総理は全国戦没者追悼式で式辞を述べました",
@@ -48,17 +39,6 @@
       "publishedAtJst": "2026-08-14 09:00 JST"
     },
     {
-      "id": "c1c988556190",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-14 02:16 JST"
-    },
-    {
       "id": "0aec5677029c",
       "title": "高市総理は全国戦没者追悼式に参列しました",
       "category": "B_JAPAN",
@@ -75,15 +55,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-08-14 19:00 JST"
-    },
-    {
-      "id": "d7f75ee220be",
-      "title": "朱鎔基・中華人民共和国元国務院総理の逝去を受けた高市総理大臣による弔意メッセージの発出",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-14 06:00 JST"
     }
   ]
 }
