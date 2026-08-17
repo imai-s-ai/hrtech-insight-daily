@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-17",
+  "dateKey": "2026-08-18",
   "importantPoints": [
-    "最重要：高市総理は全国戦没者追悼式で式辞を述べました（B_JAPAN）",
-    "次点：高市総理は千鳥ヶ淵戦没者墓苑（ちどりがふちせんぼつしゃぼえん）を参拝しました（B_JAPAN）",
-    "注目：State of Open Models: Summer 2026 Observations（C_BIZ_AI）"
+    "最重要：Get closer to the game with Gemini and Pixel（A_GLOBAL）",
+    "次点：木原内閣官房長官は全国市長会による要請を受けました（B_JAPAN）",
+    "注目：高市総理は全国戦没者追悼式で式辞を述べました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,6 +11,26 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
+    {
+      "id": "ef87e3b0ab28",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-17 17:00 JST"
+    },
+    {
+      "id": "4b0825ed2c70",
+      "title": "木原内閣官房長官は全国市長会による要請を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-17 23:10 JST"
+    },
     {
       "id": "bfcc46c67a4d",
       "title": "高市総理は全国戦没者追悼式で式辞を述べました",
@@ -21,22 +41,13 @@
       "publishedAtJst": "2026-08-15 20:50 JST"
     },
     {
-      "id": "88d794786dec",
-      "title": "高市総理は千鳥ヶ淵戦没者墓苑（ちどりがふちせんぼつしゃぼえん）を参拝しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-15 20:10 JST"
-    },
-    {
-      "id": "d556a48bace2",
-      "title": "State of Open Models: Summer 2026 Observations",
+      "id": "b597a3d03ee7",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-14 09:00 JST"
+      "publishedAtJst": "2026-08-18 04:46 JST"
     },
     {
       "id": "0aec5677029c",
@@ -48,13 +59,13 @@
       "publishedAtJst": "2026-08-15 20:00 JST"
     },
     {
-      "id": "3183ec6c7258",
-      "title": "内閣官房長官談話を掲載しました",
+      "id": "88d794786dec",
+      "title": "高市総理は千鳥ヶ淵戦没者墓苑（ちどりがふちせんぼつしゃぼえん）を参拝しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-14 19:00 JST"
+      "publishedAtJst": "2026-08-15 19:30 JST"
     }
   ]
 }
