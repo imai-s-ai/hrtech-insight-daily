@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-18",
+  "dateKey": "2026-08-19",
   "importantPoints": [
-    "最重要：Get closer to the game with Gemini and Pixel（A_GLOBAL）",
-    "次点：木原内閣官房長官は全国市長会による要請を受けました（B_JAPAN）",
-    "注目：高市総理は全国戦没者追悼式で式辞を述べました（B_JAPAN）"
+    "最重要：Tap into the power of Gemini in Chrome on Android.（A_GLOBAL）",
+    "次点：高市総理は第１１回令和８年熊本地震非常災害対策本部会議・第１回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました（B_JAPAN）",
+    "注目：高市総理は沖縄豆記者団による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,69 @@
   ],
   "articles": [
     {
-      "id": "ef87e3b0ab28",
-      "title": "Get closer to the game with Gemini and Pixel",
+      "id": "6b8da6a6d276",
+      "title": "Tap into the power of Gemini in Chrome on Android.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-17 17:00 JST"
+      "publishedAtJst": "2026-08-19 04:00 JST"
+    },
+    {
+      "id": "82c6871c7662",
+      "title": "高市総理は第１１回令和８年熊本地震非常災害対策本部会議・第１回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-19 00:00 JST"
+    },
+    {
+      "id": "4385c5c482f7",
+      "title": "高市総理は沖縄豆記者団による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-18 23:10 JST"
+    },
+    {
+      "id": "5ce8103476b1",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-19 03:09 JST"
+    },
+    {
+      "id": "e520424e436f",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-18 09:00 JST"
+    },
+    {
+      "id": "c8b349d36ce8",
+      "title": "高市総理は九州経済４団体による「令和８年熊本地震」災害の復旧・復興に関する緊急要望申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-18 22:20 JST"
+    },
+    {
+      "id": "85936910a7dd",
+      "title": "高市総理は熊本県知事等から要望書を受け取りました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-18 20:40 JST"
     },
     {
       "id": "4b0825ed2c70",
@@ -30,42 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-08-17 23:10 JST"
-    },
-    {
-      "id": "bfcc46c67a4d",
-      "title": "高市総理は全国戦没者追悼式で式辞を述べました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-15 20:50 JST"
-    },
-    {
-      "id": "b597a3d03ee7",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-18 04:46 JST"
-    },
-    {
-      "id": "0aec5677029c",
-      "title": "高市総理は全国戦没者追悼式に参列しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-15 20:00 JST"
-    },
-    {
-      "id": "88d794786dec",
-      "title": "高市総理は千鳥ヶ淵戦没者墓苑（ちどりがふちせんぼつしゃぼえん）を参拝しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-15 19:30 JST"
     }
   ]
 }
