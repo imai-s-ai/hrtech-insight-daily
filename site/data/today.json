@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-20",
+  "dateKey": "2026-08-21",
   "importantPoints": [
-    "最重要：5 new ways to level up your learning with Search（A_GLOBAL）",
-    "次点：高市総理はエルドアン・トルコ共和国大統領との電話会談及び国際刑事裁判所（ＩＣＣ）に対する米国の制裁についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はトルコ共和国のレジェップ・タイップ・エルドアン大統領と電話会談を行いました（B_JAPAN）"
+    "最重要：Take an interactive journey through America’s national parks（A_GLOBAL）",
+    "次点：高市総理は英国のアンディ・バーナム首相と電話会談を行いました（B_JAPAN）",
+    "注目：高市総理はバーナム英国首相との電話会談についての会見を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,42 +12,42 @@
   ],
   "articles": [
     {
-      "id": "a87414927489",
-      "title": "5 new ways to level up your learning with Search",
+      "id": "8281d911e894",
+      "title": "Take an interactive journey through America’s national parks",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-20 04:00 JST"
+      "publishedAtJst": "2026-08-21 01:00 JST"
     },
     {
-      "id": "af1097ee6b93",
-      "title": "高市総理はエルドアン・トルコ共和国大統領との電話会談及び国際刑事裁判所（ＩＣＣ）に対する米国の制裁についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-20 03:13 JST"
-    },
-    {
-      "id": "c744ed9eb870",
-      "title": "高市総理はトルコ共和国のレジェップ・タイップ・エルドアン大統領と電話会談を行いました",
+      "id": "1f9bedaa7a77",
+      "title": "高市総理は英国のアンディ・バーナム首相と電話会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-20 02:30 JST"
+      "publishedAtJst": "2026-08-21 03:00 JST"
     },
     {
-      "id": "22e214c52569",
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "id": "d9d59c531248",
+      "title": "高市総理はバーナム英国首相との電話会談についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-21 03:00 JST"
+    },
+    {
+      "id": "c7cdb6722fd8",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-19 22:48 JST"
+      "publishedAtJst": "2026-08-21 01:52 JST"
     },
     {
       "id": "5ce8103476b1",
@@ -59,31 +59,33 @@
       "publishedAtJst": "2026-08-19 03:09 JST"
     },
     {
-      "id": "82c6871c7662",
-      "title": "高市総理は第１１回令和８年熊本地震非常災害対策本部会議・第１回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました",
+      "id": "17476863af54",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-19 00:00 JST"
+      "publishedAtJst": "2026-08-21 02:08 JST"
     },
     {
-      "id": "4385c5c482f7",
-      "title": "高市総理は沖縄豆記者団による表敬を受けました",
+      "id": "ad6cd6d5a95b",
+      "title": "プーチン・ロシア大統領による択捉島訪問について（冒頭発言なし）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-18 23:10 JST"
+      "publishedAtJst": "2026-08-21 01:32 JST"
     },
     {
-      "id": "c8b349d36ce8",
-      "title": "高市総理は九州経済４団体による「令和８年熊本地震」災害の復旧・復興に関する緊急要望申入れを受けました",
+      "id": "af1097ee6b93",
+      "title": "高市総理はエルドアン・トルコ共和国大統領との電話会談及び国際刑事裁判所（ＩＣＣ）に対する米国の制裁についての会見を行いました",
       "category": "B_JAPAN",
-      "tags": [],
+      "tags": [
+        "地政学"
+      ],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-18 22:20 JST"
+      "publishedAtJst": "2026-08-20 03:13 JST"
     }
   ]
 }
