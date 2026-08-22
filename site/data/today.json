@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-22",
+  "dateKey": "2026-08-23",
   "importantPoints": [
     "最重要：Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.（A_GLOBAL）",
-    "次点：高市総理は第１２回令和８年熊本地震非常災害対策本部会議・第２回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました（B_JAPAN）",
-    "注目：高市総理は英国のアンディ・バーナム首相と電話会談を行いました（B_JAPAN）"
+    "次点：木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました（B_JAPAN）",
+    "注目：高市総理は第１２回令和８年熊本地震非常災害対策本部会議・第２回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,15 @@
       "publishedAtJst": "2026-08-22 02:00 JST"
     },
     {
+      "id": "96f19649d2b4",
+      "title": "木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-22 22:30 JST"
+    },
+    {
       "id": "36dcb8eaa808",
       "title": "高市総理は第１２回令和８年熊本地震非常災害対策本部会議・第２回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました",
       "category": "B_JAPAN",
@@ -28,15 +37,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-08-22 00:00 JST"
-    },
-    {
-      "id": "1f9bedaa7a77",
-      "title": "高市総理は英国のアンディ・バーナム首相と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-21 03:00 JST"
     },
     {
       "id": "68e9fb1705e1",
@@ -57,6 +57,15 @@
       "publishedAtJst": "2026-08-21 01:52 JST"
     },
     {
+      "id": "1f9bedaa7a77",
+      "title": "高市総理は英国のアンディ・バーナム首相と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-21 03:00 JST"
+    },
+    {
       "id": "d9d59c531248",
       "title": "高市総理はバーナム英国首相との電話会談についての会見を行いました",
       "category": "B_JAPAN",
@@ -73,15 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-08-21 02:08 JST"
-    },
-    {
-      "id": "ad6cd6d5a95b",
-      "title": "プーチン・ロシア大統領による択捉島訪問について（冒頭発言なし）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-21 01:32 JST"
     }
   ]
 }
