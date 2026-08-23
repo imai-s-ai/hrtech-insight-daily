@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-08-23",
+  "dateKey": "2026-08-24",
   "importantPoints": [
     "最重要：Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.（A_GLOBAL）",
     "次点：木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました（B_JAPAN）",
@@ -48,40 +48,33 @@
       "publishedAtJst": "2026-08-21 09:00 JST"
     },
     {
-      "id": "c7cdb6722fd8",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-21 01:52 JST"
+      "id": "455c50297380",
+      "title": "What does “full-stack” AI actually mean?",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-22 01:00 JST"
     },
     {
-      "id": "1f9bedaa7a77",
-      "title": "高市総理は英国のアンディ・バーナム首相と電話会談を行いました",
-      "category": "B_JAPAN",
+      "id": "0a77d2620805",
+      "title": "Here's how to use sign-to-text translation on Pixel 11.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-21 03:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-22 00:00 JST"
     },
     {
-      "id": "d9d59c531248",
-      "title": "高市総理はバーナム英国首相との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
+      "id": "b9e96576eaf7",
+      "title": "Tap to pay with Google Pay is coming to Walmart.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-21 03:00 JST"
-    },
-    {
-      "id": "17476863af54",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-21 02:08 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-08-21 23:00 JST"
     }
   ]
 }
