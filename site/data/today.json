@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-25",
+  "dateKey": "2026-08-26",
   "importantPoints": [
-    "最重要：Celebrate 110 years of national parks with Maps, Search, and Gemini（A_GLOBAL）",
-    "次点：木原内閣官房長官は第３回ＣＢＲＮＥテロ対策会議を開催しました（B_JAPAN）",
-    "注目：木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました（B_JAPAN）"
+    "最重要：You can officially buy the Pixel 11 phones and Pixel Watch 5.（A_GLOBAL）",
+    "次点：高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました（B_JAPAN）",
+    "注目：高市総理は日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れを受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,42 +12,84 @@
   ],
   "articles": [
     {
-      "id": "34bf68972dc2",
-      "title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-25 01:00 JST"
-    },
-    {
-      "id": "f4198632a353",
-      "title": "木原内閣官房長官は第３回ＣＢＲＮＥテロ対策会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-24 23:20 JST"
-    },
-    {
-      "id": "96f19649d2b4",
-      "title": "木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-22 22:30 JST"
-    },
-    {
-      "id": "064d4fd62321",
-      "title": "How developers build AI for good with Gemma 4",
+      "id": "2dcc1097db9f",
+      "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-25 01:00 JST"
+      "publishedAtJst": "2026-08-26 05:00 JST"
+    },
+    {
+      "id": "a5198c4cfa3c",
+      "title": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-26 02:30 JST"
+    },
+    {
+      "id": "edf4e4888b43",
+      "title": "高市総理は日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-26 01:00 JST"
+    },
+    {
+      "id": "74043a2c13e4",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-26 00:14 JST"
+    },
+    {
+      "id": "f6b26e55a489",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-25 20:39 JST"
+    },
+    {
+      "id": "e0205123d755",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-25 19:00 JST"
+    },
+    {
+      "id": "3fa05ba6f86f",
+      "title": "福島県内除去土壌等の県外最終処分の実現に向けた再生利用等推進会議",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-25 18:40 JST"
+    },
+    {
+      "id": "39db926efd27",
+      "title": "高市総理はウクライナに関する有志連合首脳会合にオンラインで出席しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-25 05:00 JST"
     }
   ]
 }
