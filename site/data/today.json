@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-26",
+  "dateKey": "2026-08-27",
   "importantPoints": [
-    "最重要：You can officially buy the Pixel 11 phones and Pixel Watch 5.（A_GLOBAL）",
-    "次点：高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました（B_JAPAN）",
-    "注目：高市総理は日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れを受けました（B_JAPAN）"
+    "最重要：7 ways to kick-start back to school using Gemini in Workspace（A_GLOBAL）",
+    "次点：高市総理は自由民主党・令和８年熊本地震対策本部による緊急提言申入れを受けました（B_JAPAN）",
+    "注目：高市総理は第１７回ＧＸ（グリーン・トラスフォーメーション）実行会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,35 +12,31 @@
   ],
   "articles": [
     {
-      "id": "2dcc1097db9f",
-      "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
+      "id": "6305a58a6ff5",
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-26 05:00 JST"
+      "publishedAtJst": "2026-08-27 05:30 JST"
     },
     {
-      "id": "a5198c4cfa3c",
-      "title": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-26 02:30 JST"
-    },
-    {
-      "id": "edf4e4888b43",
-      "title": "高市総理は日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れを受けました",
+      "id": "ebecf449ab3a",
+      "title": "高市総理は自由民主党・令和８年熊本地震対策本部による緊急提言申入れを受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-26 01:00 JST"
+      "publishedAtJst": "2026-08-27 02:00 JST"
+    },
+    {
+      "id": "fa7f0a5f1e8a",
+      "title": "高市総理は第１７回ＧＸ（グリーン・トラスフォーメーション）実行会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-27 00:40 JST"
     },
     {
       "id": "74043a2c13e4",
@@ -63,33 +59,33 @@
       "publishedAtJst": "2026-08-25 20:39 JST"
     },
     {
-      "id": "e0205123d755",
-      "title": "閣議の概要について",
+      "id": "edb98e1846ea",
+      "title": "高市総理はクウェート国のジャッラーハ・ジャービル・アル・サバーハ外務大臣による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-25 19:00 JST"
+      "publishedAtJst": "2026-08-27 00:00 JST"
     },
     {
-      "id": "3fa05ba6f86f",
-      "title": "福島県内除去土壌等の県外最終処分の実現に向けた再生利用等推進会議",
+      "id": "1d03e7422e01",
+      "title": "高市総理は神奈川県の黒岩祐治（ゆうじ）知事及びミュージカル「アニオー姫」主演者による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-25 18:40 JST"
+      "publishedAtJst": "2026-08-26 20:15 JST"
     },
     {
-      "id": "39db926efd27",
-      "title": "高市総理はウクライナに関する有志連合首脳会合にオンラインで出席しました",
+      "id": "a5198c4cfa3c",
+      "title": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [
         "地政学"
       ],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-25 05:00 JST"
+      "publishedAtJst": "2026-08-26 02:30 JST"
     }
   ]
 }
