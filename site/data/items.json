@@ -1,18 +1,84 @@
 {
   "items": [
     {
-      "id": "8ec710c0d694",
-      "title": "Expert Intelligence: a new way for you to engage with trusted content",
+      "id": "c5962e7a022b",
+      "title": "We’re introducing flexible usage limits for Gemini Notebook.",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-08-28 04:30 JST",
+      "publishedAtJst": "2026-08-29 02:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Expert Intelligence: a new way for you to engage with trusted content\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp\">Expert Intelligence lets you add ebooks like those you’ve purchased from Google Play Books directly to a Gemini Notebook.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-28 04:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 We’re introducing flexible usage limits for Gemini Notebook.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp\">We’re introducing new flexible, compute-specific usage limits to Gemini Notebook.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-08-29 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/"
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/"
+        }
+      ]
+    },
+    {
+      "id": "148a42a10461",
+      "title": "ノルウェー王国ハラルド５世国王陛下崩御に際しての高市内閣総理大臣による弔意メッセージの発出",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-29 08:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 ノルウェー王国ハラルド５世国王陛下崩御に際しての高市内閣総理大臣による弔意メッセージの発出\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-29 08:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20260828message.html"
+        }
+      ]
+    },
+    {
+      "id": "d6d964731c23",
+      "title": "高市総理はＡⅠ家庭教師（チームみらいの安野貴博党首ほか）によるＡⅠの活用方法の説明を受けました",
+      "category": "B_JAPAN",
+      "tags": [
+        "規制"
+      ],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-29 01:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はＡⅠ家庭教師（チームみらいの安野貴博党首ほか）によるＡⅠの活用方法の説明を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-29 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202608/28ai.html"
+        }
+      ]
+    },
+    {
+      "id": "b0b2c2da12a5",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-08-28 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 The Open ASR Leaderboard Adds Its First Global South Language\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-28 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+        }
+      ]
+    },
+    {
+      "id": "2eb525cabf9d",
+      "title": "高市総理は第６回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-08-28 20:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は第６回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-28 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202608/28chiikimirai.html"
         }
       ]
     },
@@ -49,40 +115,6 @@
       ]
     },
     {
-      "id": "74043a2c13e4",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-08-26 00:14 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Granite 4.2 LLMs: How They're Built\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-26 00:14 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
-        }
-      ]
-    },
-    {
-      "id": "f6b26e55a489",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-08-25 20:39 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-08-25 20:39 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
-        }
-      ]
-    },
-    {
       "id": "7a9c750fe1e6",
       "title": "ネパールと中国の国境付近で発生した大規模な洪水及び土石流を受けた高市内閣総理大臣発習近平中国国家主席及び李強中国国務院総理への書簡の発出",
       "category": "B_JAPAN",
@@ -95,38 +127,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/discourse/20260827message2.html"
-        }
-      ]
-    },
-    {
-      "id": "e3b2c59d6d50",
-      "title": "高市総理大臣発ミルジャ・フォクルル・イスラム・アラムギル・バングラデシュ人民共和国大統領宛就任祝意の伝達",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-28 05:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理大臣発ミルジャ・フォクルル・イスラム・アラムギル・バングラデシュ人民共和国大統領宛就任祝意の伝達\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-28 05:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20260827message.html"
-        }
-      ]
-    },
-    {
-      "id": "225933bd5580",
-      "title": "高市総理は太田・キオクシア社長及びゲックラー・サンディスクＣＥＯ（最高経営責任者）による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-08-28 01:45 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は太田・キオクシア社長及びゲックラー・サンディスクＣＥＯ（最高経営責任者）による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-08-28 01:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202608/27hyoukei.html"
         }
       ]
     }
