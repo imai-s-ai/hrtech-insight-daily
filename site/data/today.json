@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-08-31",
+  "dateKey": "2026-09-01",
   "importantPoints": [
-    "最重要：How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps（A_GLOBAL）",
-    "次点：ノルウェー王国ハラルド５世国王陛下崩御に際しての高市内閣総理大臣による弔意メッセージの発出（B_JAPAN）",
-    "注目：高市総理はＡⅠ家庭教師（チームみらいの安野貴博党首ほか）によるＡⅠの活用方法の説明を受けました（B_JAPAN）"
+    "最重要：Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.（A_GLOBAL）",
+    "次点：ノルウェー王国ハラルド５世国王陛下の崩御に関する高市内閣総理大臣の談話（B_JAPAN）",
+    "注目：高市総理は令和８年度介護職員の働きやすい職場環境づくり内閣総理大臣表彰・厚生労働大臣表彰に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,6 +12,46 @@
   ],
   "articles": [
     {
+      "id": "bcc254816fd7",
+      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-01 07:00 JST"
+    },
+    {
+      "id": "f4700f0a271b",
+      "title": "ノルウェー王国ハラルド５世国王陛下の崩御に関する高市内閣総理大臣の談話",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-01 03:00 JST"
+    },
+    {
+      "id": "094f2164b06c",
+      "title": "高市総理は令和８年度介護職員の働きやすい職場環境づくり内閣総理大臣表彰・厚生労働大臣表彰に出席しました",
+      "category": "B_JAPAN",
+      "tags": [
+        "雇用・賃金"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-31 23:00 JST"
+    },
+    {
+      "id": "ae744393a3b7",
+      "title": "高市総理はミス・ユニバース日本代表による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-08-31 22:30 JST"
+    },
+    {
       "id": "0e87130c2180",
       "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
       "category": "A_GLOBAL",
@@ -19,53 +59,6 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-08-29 13:00 JST"
-    },
-    {
-      "id": "148a42a10461",
-      "title": "ノルウェー王国ハラルド５世国王陛下崩御に際しての高市内閣総理大臣による弔意メッセージの発出",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-29 08:00 JST"
-    },
-    {
-      "id": "d6d964731c23",
-      "title": "高市総理はＡⅠ家庭教師（チームみらいの安野貴博党首ほか）によるＡⅠの活用方法の説明を受けました",
-      "category": "B_JAPAN",
-      "tags": [
-        "規制"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-29 01:00 JST"
-    },
-    {
-      "id": "2eb525cabf9d",
-      "title": "高市総理は第６回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-28 20:00 JST"
-    },
-    {
-      "id": "f277808044e9",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-28 19:00 JST"
-    },
-    {
-      "id": "c5962e7a022b",
-      "title": "We’re introducing flexible usage limits for Gemini Notebook.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-29 02:00 JST"
     }
   ]
 }
