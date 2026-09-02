@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-01",
+  "dateKey": "2026-09-02",
   "importantPoints": [
-    "最重要：Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.（A_GLOBAL）",
-    "次点：ノルウェー王国ハラルド５世国王陛下の崩御に関する高市内閣総理大臣の談話（B_JAPAN）",
-    "注目：高市総理は令和８年度介護職員の働きやすい職場環境づくり内閣総理大臣表彰・厚生労働大臣表彰に出席しました（B_JAPAN）"
+    "最重要：The latest AI news we announced in August 2026（A_GLOBAL）",
+    "次点：高市総理はシャハ・ネパール首相との電話会談等についての会見を行いました（B_JAPAN）",
+    "注目：高市総理はネパールのバレンドラ・シャハ首相と電話会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,73 @@
   ],
   "articles": [
     {
-      "id": "bcc254816fd7",
-      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "id": "66eabab6976f",
+      "title": "The latest AI news we announced in August 2026",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-01 07:00 JST"
+      "publishedAtJst": "2026-09-02 05:45 JST"
+    },
+    {
+      "id": "794296f93341",
+      "title": "高市総理はシャハ・ネパール首相との電話会談等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 03:40 JST"
+    },
+    {
+      "id": "37abafbc8dd6",
+      "title": "高市総理はネパールのバレンドラ・シャハ首相と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 03:40 JST"
+    },
+    {
+      "id": "23bdbfdbd061",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 06:39 JST"
+    },
+    {
+      "id": "85562dc16345",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-01 09:00 JST"
+    },
+    {
+      "id": "d1db524eb167",
+      "title": "閣議の概要／令和８年熊本地震非常災害復旧復興本部の設置について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-01 19:00 JST"
+    },
+    {
+      "id": "436cb959243e",
+      "title": "高市総理を始めとする全閣僚参加の下、令和８年度総合防災訓練が行われました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-01 17:15 JST"
     },
     {
       "id": "f4700f0a271b",
@@ -30,35 +88,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-09-01 03:00 JST"
-    },
-    {
-      "id": "094f2164b06c",
-      "title": "高市総理は令和８年度介護職員の働きやすい職場環境づくり内閣総理大臣表彰・厚生労働大臣表彰に出席しました",
-      "category": "B_JAPAN",
-      "tags": [
-        "雇用・賃金"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-31 23:00 JST"
-    },
-    {
-      "id": "ae744393a3b7",
-      "title": "高市総理はミス・ユニバース日本代表による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-08-31 22:30 JST"
-    },
-    {
-      "id": "0e87130c2180",
-      "title": "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-08-29 13:00 JST"
     }
   ]
 }
