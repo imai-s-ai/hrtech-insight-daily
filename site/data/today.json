@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-02",
+  "dateKey": "2026-09-03",
   "importantPoints": [
-    "最重要：The latest AI news we announced in August 2026（A_GLOBAL）",
-    "次点：高市総理はシャハ・ネパール首相との電話会談等についての会見を行いました（B_JAPAN）",
-    "注目：高市総理はネパールのバレンドラ・シャハ首相と電話会談を行いました（B_JAPAN）"
+    "最重要：Build a measurement stack you can rely on to steer your campaigns.（A_GLOBAL）",
+    "次点：高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました（B_JAPAN）",
+    "注目：高市総理は令和８年度自衛隊指揮官幹部会同で訓示を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,62 @@
   ],
   "articles": [
     {
-      "id": "66eabab6976f",
-      "title": "The latest AI news we announced in August 2026",
+      "id": "23418a95d76f",
+      "title": "Build a measurement stack you can rely on to steer your campaigns.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-02 05:45 JST"
+      "publishedAtJst": "2026-09-03 02:00 JST"
+    },
+    {
+      "id": "f3c0933b7f14",
+      "title": "高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-03 02:20 JST"
+    },
+    {
+      "id": "ec19ee859266",
+      "title": "高市総理は令和８年度自衛隊指揮官幹部会同で訓示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 19:20 JST"
+    },
+    {
+      "id": "22915ca8a273",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 22:49 JST"
+    },
+    {
+      "id": "23bdbfdbd061",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 06:39 JST"
+    },
+    {
+      "id": "8d3c24e097d9",
+      "title": "高市総理は令和８年度自衛隊指揮官幹部会同に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-02 19:20 JST"
     },
     {
       "id": "794296f93341",
@@ -39,55 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-09-02 03:40 JST"
-    },
-    {
-      "id": "23bdbfdbd061",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 06:39 JST"
-    },
-    {
-      "id": "85562dc16345",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-01 09:00 JST"
-    },
-    {
-      "id": "d1db524eb167",
-      "title": "閣議の概要／令和８年熊本地震非常災害復旧復興本部の設置について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-01 19:00 JST"
-    },
-    {
-      "id": "436cb959243e",
-      "title": "高市総理を始めとする全閣僚参加の下、令和８年度総合防災訓練が行われました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-01 17:15 JST"
-    },
-    {
-      "id": "f4700f0a271b",
-      "title": "ノルウェー王国ハラルド５世国王陛下の崩御に関する高市内閣総理大臣の談話",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-01 03:00 JST"
     }
   ]
 }
