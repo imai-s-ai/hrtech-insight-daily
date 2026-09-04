@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-09-03",
+  "dateKey": "2026-09-04",
   "importantPoints": [
-    "最重要：Build a measurement stack you can rely on to steer your campaigns.（A_GLOBAL）",
+    "最重要：Start the year AI-ready with the Google AI Educator Series（A_GLOBAL）",
     "次点：高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました（B_JAPAN）",
     "注目：高市総理は令和８年度自衛隊指揮官幹部会同で訓示を行いました（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "23418a95d76f",
-      "title": "Build a measurement stack you can rely on to steer your campaigns.",
+      "id": "6c41a674a3ea",
+      "title": "Start the year AI-ready with the Google AI Educator Series",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-03 02:00 JST"
+      "publishedAtJst": "2026-09-04 02:00 JST"
     },
     {
       "id": "f3c0933b7f14",
@@ -41,24 +41,22 @@
       "publishedAtJst": "2026-09-02 19:20 JST"
     },
     {
-      "id": "22915ca8a273",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "id": "96a3500c5a4b",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 22:49 JST"
+      "publishedAtJst": "2026-09-03 22:13 JST"
     },
     {
-      "id": "23bdbfdbd061",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "id": "86b47b47cb74",
+      "title": "Give Your Coding Agents a Memory You Own",
       "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 06:39 JST"
+      "publishedAtJst": "2026-09-03 09:00 JST"
     },
     {
       "id": "8d3c24e097d9",
