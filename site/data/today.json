@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-04",
+  "dateKey": "2026-09-05",
   "importantPoints": [
-    "最重要：Start the year AI-ready with the Google AI Educator Series（A_GLOBAL）",
-    "次点：高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました（B_JAPAN）",
-    "注目：高市総理は令和８年度自衛隊指揮官幹部会同で訓示を行いました（B_JAPAN）"
+    "最重要：Create your best tracks yet with Lyria 3.5 in Gemini.（A_GLOBAL）",
+    "次点：高市総理大臣発ビラ・ノバ・サントメ・プリンシペ民主共和国大統領宛祝辞（B_JAPAN）",
+    "注目：高市総理は海上保安政策プログラム第１１期期生による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,33 @@
   ],
   "articles": [
     {
-      "id": "6c41a674a3ea",
-      "title": "Start the year AI-ready with the Google AI Educator Series",
+      "id": "ae25f0651a04",
+      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-04 02:00 JST"
+      "publishedAtJst": "2026-09-05 01:00 JST"
     },
     {
-      "id": "f3c0933b7f14",
-      "title": "高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました",
+      "id": "26149de04216",
+      "title": "高市総理大臣発ビラ・ノバ・サントメ・プリンシペ民主共和国大統領宛祝辞",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-03 02:20 JST"
+      "publishedAtJst": "2026-09-05 05:00 JST"
     },
     {
-      "id": "ec19ee859266",
-      "title": "高市総理は令和８年度自衛隊指揮官幹部会同で訓示を行いました",
+      "id": "344015eda90a",
+      "title": "高市総理は海上保安政策プログラム第１１期期生による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 19:20 JST"
+      "publishedAtJst": "2026-09-04 23:00 JST"
     },
     {
       "id": "96a3500c5a4b",
@@ -59,31 +59,31 @@
       "publishedAtJst": "2026-09-03 09:00 JST"
     },
     {
-      "id": "8d3c24e097d9",
-      "title": "高市総理は令和８年度自衛隊指揮官幹部会同に出席しました",
+      "id": "550141923f4b",
+      "title": "高市総理は第１回令和８年熊本地震非常災害復旧復興本部を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 19:20 JST"
+      "publishedAtJst": "2026-09-04 19:10 JST"
     },
     {
-      "id": "794296f93341",
-      "title": "高市総理はシャハ・ネパール首相との電話会談等についての会見を行いました",
+      "id": "b9f54527af69",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 03:40 JST"
+      "publishedAtJst": "2026-09-04 19:00 JST"
     },
     {
-      "id": "37abafbc8dd6",
-      "title": "高市総理はネパールのバレンドラ・シャハ首相と電話会談を行いました",
+      "id": "f3c0933b7f14",
+      "title": "高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-02 03:40 JST"
+      "publishedAtJst": "2026-09-03 02:20 JST"
     }
   ]
 }
