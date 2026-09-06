@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-09-05",
+  "dateKey": "2026-09-06",
   "importantPoints": [
     "最重要：Create your best tracks yet with Lyria 3.5 in Gemini.（A_GLOBAL）",
     "次点：高市総理大臣発ビラ・ノバ・サントメ・プリンシペ民主共和国大統領宛祝辞（B_JAPAN）",
@@ -50,15 +50,6 @@
       "publishedAtJst": "2026-09-03 22:13 JST"
     },
     {
-      "id": "86b47b47cb74",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-03 09:00 JST"
-    },
-    {
       "id": "550141923f4b",
       "title": "高市総理は第１回令和８年熊本地震非常災害復旧復興本部を開催しました",
       "category": "B_JAPAN",
@@ -77,13 +68,24 @@
       "publishedAtJst": "2026-09-04 19:00 JST"
     },
     {
-      "id": "f3c0933b7f14",
-      "title": "高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました",
-      "category": "B_JAPAN",
+      "id": "f7b7833633eb",
+      "title": "Google Translate rolls out new upgrades for iOS and Android.",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-03 02:20 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-05 01:00 JST"
+    },
+    {
+      "id": "6c41a674a3ea",
+      "title": "Start the year AI-ready with the Google AI Educator Series",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-04 02:00 JST"
     }
   ]
 }
