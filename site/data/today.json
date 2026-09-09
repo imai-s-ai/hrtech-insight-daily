@@ -1,8 +1,9 @@
 {
-  "dateKey": "2026-09-08",
+  "dateKey": "2026-09-09",
   "importantPoints": [
-    "最重要：Our new contrail avoidance trial in Asia-Pacific（A_GLOBAL）",
-    "次点：Backing 16 green AI projects in Asia-Pacific（A_GLOBAL）"
+    "最重要：Missouri and Google partner on AI and career training（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -10,6 +11,64 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
+    {
+      "id": "82643d801bc2",
+      "title": "Missouri and Google partner on AI and career training",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-09 00:05 JST"
+    },
+    {
+      "id": "339a478d0b63",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-08 19:00 JST"
+    },
+    {
+      "id": "4f420d1c5cd0",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-08 23:23 JST"
+    },
+    {
+      "id": "aecc6cef73a0",
+      "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-09 00:00 JST"
+    },
+    {
+      "id": "bc39e137c953",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-08 23:00 JST"
+    },
+    {
+      "id": "2d89bea96708",
+      "title": "Helping small businesses win with AI",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-08 22:00 JST"
+    },
     {
       "id": "967c2fd1caf1",
       "title": "Our new contrail avoidance trial in Asia-Pacific",
