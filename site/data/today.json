@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-09",
+  "dateKey": "2026-09-10",
   "importantPoints": [
-    "最重要：Missouri and Google partner on AI and career training（A_GLOBAL）",
+    "最重要：A new deep learning model maps global methane emissions from space.（A_GLOBAL）",
     "次点：閣議の概要について（B_JAPAN）",
-    "注目：Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic（C_BIZ_AI）"
+    "注目：IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "82643d801bc2",
-      "title": "Missouri and Google partner on AI and career training",
+      "id": "189b88ad9cb4",
+      "title": "A new deep learning model maps global methane emissions from space.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-09 00:05 JST"
+      "publishedAtJst": "2026-09-10 03:15 JST"
     },
     {
       "id": "339a478d0b63",
@@ -32,6 +32,15 @@
       "publishedAtJst": "2026-09-08 19:00 JST"
     },
     {
+      "id": "e8608e40b722",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-10 00:36 JST"
+    },
+    {
       "id": "4f420d1c5cd0",
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "category": "C_BIZ_AI",
@@ -41,55 +50,46 @@
       "publishedAtJst": "2026-09-08 23:23 JST"
     },
     {
-      "id": "aecc6cef73a0",
-      "title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "id": "4b905d5672ed",
+      "title": "Tackle your to-do list with new features in our Google AI plans.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-10 02:00 JST"
+    },
+    {
+      "id": "b0dd0e34ba0b",
+      "title": "Get ready for the game with new football features in Search",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-10 01:00 JST"
+    },
+    {
+      "id": "7ae135799f0f",
+      "title": "4 ways Gemini makes administrative chores quick and easy",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-09 00:00 JST"
+      "publishedAtJst": "2026-09-10 01:00 JST"
     },
     {
-      "id": "bc39e137c953",
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-08 23:00 JST"
-    },
-    {
-      "id": "2d89bea96708",
-      "title": "Helping small businesses win with AI",
+      "id": "e8269fc9a109",
+      "title": "Recreating a 70-year love story frame by frame",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-08 22:00 JST"
-    },
-    {
-      "id": "967c2fd1caf1",
-      "title": "Our new contrail avoidance trial in Asia-Pacific",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-07 17:00 JST"
-    },
-    {
-      "id": "acb3110a51ba",
-      "title": "Backing 16 green AI projects in Asia-Pacific",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-07 10:00 JST"
+      "publishedAtJst": "2026-09-10 01:00 JST"
     }
   ]
 }
