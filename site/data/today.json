@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-10",
+  "dateKey": "2026-09-11",
   "importantPoints": [
-    "最重要：A new deep learning model maps global methane emissions from space.（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license（C_BIZ_AI）"
+    "最重要：Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.（A_GLOBAL）",
+    "次点：高市総理は第４５回全国消防殉職者慰霊祭に参列しました（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,24 @@
   ],
   "articles": [
     {
-      "id": "189b88ad9cb4",
-      "title": "A new deep learning model maps global methane emissions from space.",
+      "id": "4357e1518359",
+      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-10 03:15 JST"
+      "publishedAtJst": "2026-09-11 03:00 JST"
+    },
+    {
+      "id": "0dd6f16c1ade",
+      "title": "高市総理は第４５回全国消防殉職者慰霊祭に参列しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-10 19:00 JST"
     },
     {
       "id": "339a478d0b63",
@@ -32,6 +41,15 @@
       "publishedAtJst": "2026-09-08 19:00 JST"
     },
     {
+      "id": "cb50b0c3c856",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-10 09:00 JST"
+    },
+    {
       "id": "e8608e40b722",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "category": "C_BIZ_AI",
@@ -41,55 +59,35 @@
       "publishedAtJst": "2026-09-10 00:36 JST"
     },
     {
-      "id": "4f420d1c5cd0",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-08 23:23 JST"
-    },
-    {
-      "id": "4b905d5672ed",
-      "title": "Tackle your to-do list with new features in our Google AI plans.",
+      "id": "1852061b5cf6",
+      "title": "3 ways to prep for your next big race with Search",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-10 02:00 JST"
+      "publishedAtJst": "2026-09-11 01:00 JST"
     },
     {
-      "id": "b0dd0e34ba0b",
-      "title": "Get ready for the game with new football features in Search",
+      "id": "8f2361cfd1d6",
+      "title": "The Gemini app is now available for Windows",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-10 01:00 JST"
+      "publishedAtJst": "2026-09-11 01:00 JST"
     },
     {
-      "id": "7ae135799f0f",
-      "title": "4 ways Gemini makes administrative chores quick and easy",
+      "id": "b4218bf0eea9",
+      "title": "Switching password managers is easy and safe on Android",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-10 01:00 JST"
-    },
-    {
-      "id": "e8269fc9a109",
-      "title": "Recreating a 70-year love story frame by frame",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-10 01:00 JST"
+      "publishedAtJst": "2026-09-11 01:00 JST"
     }
   ]
 }
