@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-11",
+  "dateKey": "2026-09-12",
   "importantPoints": [
-    "最重要：Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.（A_GLOBAL）",
-    "次点：高市総理は第４５回全国消防殉職者慰霊祭に参列しました（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "最重要：Three Google supported projects premiere during the 83rd Venice International Film Festival.（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：高市総理は第４５回全国消防殉職者慰霊祭に参列しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,24 @@
   ],
   "articles": [
     {
-      "id": "4357e1518359",
-      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "id": "4ebec9300c90",
+      "title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-11 03:00 JST"
+      "publishedAtJst": "2026-09-11 20:00 JST"
+    },
+    {
+      "id": "28153579d6ba",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-11 19:00 JST"
     },
     {
       "id": "0dd6f16c1ade",
@@ -30,15 +39,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-09-10 19:00 JST"
-    },
-    {
-      "id": "339a478d0b63",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-08 19:00 JST"
     },
     {
       "id": "cb50b0c3c856",
@@ -59,6 +59,17 @@
       "publishedAtJst": "2026-09-10 00:36 JST"
     },
     {
+      "id": "4357e1518359",
+      "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-11 03:00 JST"
+    },
+    {
       "id": "1852061b5cf6",
       "title": "3 ways to prep for your next big race with Search",
       "category": "A_GLOBAL",
@@ -76,15 +87,6 @@
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-11 01:00 JST"
-    },
-    {
-      "id": "b4218bf0eea9",
-      "title": "Switching password managers is easy and safe on Android",
-      "category": "A_GLOBAL",
-      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-09-11 01:00 JST"
