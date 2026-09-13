@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-09-12",
+  "dateKey": "2026-09-13",
   "importantPoints": [
     "最重要：Three Google supported projects premiere during the 83rd Venice International Film Festival.（A_GLOBAL）",
     "次点：閣議の概要について（B_JAPAN）",
@@ -41,24 +41,6 @@
       "publishedAtJst": "2026-09-10 19:00 JST"
     },
     {
-      "id": "cb50b0c3c856",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-10 09:00 JST"
-    },
-    {
-      "id": "e8608e40b722",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-10 00:36 JST"
-    },
-    {
       "id": "4357e1518359",
       "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
       "category": "A_GLOBAL",
@@ -90,6 +72,24 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-09-11 01:00 JST"
+    },
+    {
+      "id": "b4218bf0eea9",
+      "title": "Switching password managers is easy and safe on Android",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-11 01:00 JST"
+    },
+    {
+      "id": "3908d7e6c604",
+      "title": "Drive profitable growth with new data and measurement tools",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-10 22:00 JST"
     }
   ]
 }
