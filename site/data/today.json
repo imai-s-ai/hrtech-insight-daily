@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-15",
+  "dateKey": "2026-09-16",
   "importantPoints": [
-    "最重要：Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.（A_GLOBAL）",
-    "次点：木原内閣官房長官は「天皇の退位等に関する皇室典範特例法案に対する附帯決議」に関する有識者会議メンバーへの報告会に出席しました（B_JAPAN）",
-    "注目：高市総理は国際エネルギー機関（ＩＥＡ）のファティ・ビロル事務局長による表敬を受けました（B_JAPAN）"
+    "最重要：September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more（A_GLOBAL）",
+    "次点：臨時閣議の概要について（B_JAPAN）",
+    "注目：高市総理は令和８年防災功労者内閣総理大臣表彰式に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,69 @@
   ],
   "articles": [
     {
-      "id": "b49b47db0b35",
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "id": "0f2efda9e62b",
+      "title": "September Pixel Drop: New Pixel VIP updates, Pixel Watch features, and more",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-15 04:00 JST"
+      "publishedAtJst": "2026-09-16 03:00 JST"
+    },
+    {
+      "id": "de8f1eb979a7",
+      "title": "臨時閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-16 01:00 JST"
+    },
+    {
+      "id": "150f0a7016e7",
+      "title": "高市総理は令和８年防災功労者内閣総理大臣表彰式に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-16 00:00 JST"
+    },
+    {
+      "id": "16a7b27ed0ae",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-16 01:00 JST"
+    },
+    {
+      "id": "8024365a6425",
+      "title": "２０２７年国際園芸博覧会半年前イベント　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-15 21:00 JST"
+    },
+    {
+      "id": "f7d1a06d01fd",
+      "title": "木原内閣官房長官は第１３回人身取引対策推進会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-15 20:10 JST"
+    },
+    {
+      "id": "80354fd329a7",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-15 20:00 JST"
     },
     {
       "id": "7eb2899b75ab",
@@ -30,35 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-09-15 01:30 JST"
-    },
-    {
-      "id": "78401641958f",
-      "title": "高市総理は国際エネルギー機関（ＩＥＡ）のファティ・ビロル事務局長による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-15 00:00 JST"
-    },
-    {
-      "id": "bf70dc826a65",
-      "title": "DevFest is back",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-15 01:00 JST"
-    },
-    {
-      "id": "4a2d53c5b8eb",
-      "title": "We’re exploring a potential data center in Lea County, New Mexico.",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-14 23:00 JST"
     }
   ]
 }
