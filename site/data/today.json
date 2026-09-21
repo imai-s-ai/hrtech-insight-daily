@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-20",
+  "dateKey": "2026-09-21",
   "importantPoints": [
     "最重要：Earn continuing education and college credits for AI educator training.（A_GLOBAL）",
-    "次点：高市総理は初大臣政務官会合に出席しました（B_JAPAN）",
-    "注目：高市総理は初副大臣会議に出席しました（B_JAPAN）"
+    "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する総理指示を行いました（B_JAPAN）",
+    "注目：高市総理は初大臣政務官会合に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,15 @@
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
       "publishedAtJst": "2026-09-19 01:00 JST"
+    },
+    {
+      "id": "9be8ed31f5dd",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する総理指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-21 03:01 JST"
     },
     {
       "id": "d48bd0f749b6",
@@ -59,31 +68,24 @@
       "publishedAtJst": "2026-09-18 20:30 JST"
     },
     {
-      "id": "da8009691b55",
-      "title": "第２次高市内閣発足後、初の内閣改造を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-18 07:00 JST"
+      "id": "079e661c04ce",
+      "title": "New experts join Google’s AI & Economy team",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-18 23:00 JST"
     },
     {
-      "id": "729f8a06fd0f",
-      "title": "初閣議の概要について",
-      "category": "B_JAPAN",
+      "id": "13d62ca6fcfd",
+      "title": "Co-creating the future of fashion with Google",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-18 05:00 JST"
-    },
-    {
-      "id": "054d822dc5cd",
-      "title": "基本方針を掲載しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-18 04:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-18 22:00 JST"
     }
   ]
 }
