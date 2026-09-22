@@ -1,20 +1,36 @@
 {
   "items": [
     {
-      "id": "c61d8679b524",
-      "title": "Earn continuing education and college credits for AI educator training.",
+      "id": "afade5585210",
+      "title": "Expanding free AI training for educators",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-09-19 01:00 JST",
+      "publishedAtJst": "2026-09-22 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Earn continuing education and college credits for AI educator training.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_uuiGKMu.webp\">Earn college or continuing education credits by taking the Google AI Educator Series courses.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-19 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Expanding free AI training for educators\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp\">At the United Nations General Assembly in New York City, Google.org is committing $4 million to Digital Promise to help equip teachers and faculty w\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-22 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/"
+          "url": "https://blog.google/products-and-platforms/products/education/digital-promise/"
+        }
+      ]
+    },
+    {
+      "id": "2beeba107505",
+      "title": "高市総理は米国訪問等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-09-22 08:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は米国訪問等についての会見を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-09-22 08:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/0921kaiken.html"
         }
       ]
     },
@@ -35,100 +51,86 @@
       ]
     },
     {
-      "id": "d48bd0f749b6",
-      "title": "高市総理は初大臣政務官会合に出席しました",
-      "category": "B_JAPAN",
+      "id": "eb792e0fc342",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-09-19 06:30 JST",
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-09-21 09:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は初大臣政務官会合に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-09-19 06:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 tokenizers v1: encode, decode and scaling, measured\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-09-21 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202609/19seimukan.html"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/tokenizers-v1"
         }
       ]
     },
     {
-      "id": "dd3037b2c81b",
-      "title": "高市総理は初副大臣会議に出席しました",
-      "category": "B_JAPAN",
+      "id": "91f334a75f24",
+      "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-09-19 05:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は初副大臣会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-09-19 05:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-09-21 22:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 Googlebook’s built-in intelligence reinvents the way you use your laptop\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/intelligence_hero.max-600x600.format-webp.webp\">With tools like a multimodal cursor, smart dictation, and more, Googlebook anticipates your needs to simplify your day.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-21 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202609/18fukudaijin.html"
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/"
         }
       ]
     },
     {
-      "id": "b5e1c50ab41f",
-      "title": "閣議の概要／高市総理の米国訪問／「Ｗａｔｅｒ Ｐｌｕｍ」に関する注意喚起について",
-      "category": "B_JAPAN",
+      "id": "165160990356",
+      "title": "Premium materials and striking design set Googlebook apart",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-09-19 00:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 閣議の概要／高市総理の米国訪問／「Ｗａｔｅｒ Ｐｌｕｍ」に関する注意喚起について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-09-19 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "Google Blog",
+      "publishedAtJst": "2026-09-21 22:00 JST",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "summaryFull": "――――――――――\n📰 Premium materials and striking design set Googlebook apart\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp\">Discover a versatile collection of Googlebook devices featuring stunning displays, advanced processors, and premium design.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-21 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/18_p.html"
+          "name": "Google Blog",
+          "url": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/"
         }
       ]
     },
     {
-      "id": "ba9d040eefcd",
-      "title": "木原内閣官房長官は技能五輪国際大会（中国・上海大会）における日本選手団による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-09-18 20:30 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 木原内閣官房長官は技能五輪国際大会（中国・上海大会）における日本選手団による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-09-18 20:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/pages/20260918choukan_hyoukei.html"
-        }
-      ]
-    },
-    {
-      "id": "079e661c04ce",
-      "title": "New experts join Google’s AI & Economy team",
+      "id": "7419310936bb",
+      "title": "Googlebook: The laptop your Android phone has been waiting for",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-09-18 23:00 JST",
+      "publishedAtJst": "2026-09-21 22:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 New experts join Google’s AI & Economy team\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp\">We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-18 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Googlebook: The laptop your Android phone has been waiting for\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/googlebook_thumbnail.max-600x600.format-webp.webp\">Googlebook pre-orders begin September 21, and they'll be on shelves October 4.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-21 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+          "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/"
         }
       ]
     },
     {
-      "id": "13d62ca6fcfd",
-      "title": "Co-creating the future of fashion with Google",
+      "id": "c701b57089c5",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-09-18 22:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Co-creating the future of fashion with Google\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp\">Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-18 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-09-21 22:44 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-09-21 22:44 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
         }
       ]
     }
