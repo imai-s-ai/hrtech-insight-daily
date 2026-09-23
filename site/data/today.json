@@ -1,7 +1,7 @@
 {
-  "dateKey": "2026-09-22",
+  "dateKey": "2026-09-23",
   "importantPoints": [
-    "最重要：Expanding free AI training for educators（A_GLOBAL）",
+    "最重要：Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.（A_GLOBAL）",
     "次点：高市総理は米国訪問等についての会見を行いました（B_JAPAN）",
     "注目：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する総理指示を行いました（B_JAPAN）"
   ],
@@ -12,15 +12,15 @@
   ],
   "articles": [
     {
-      "id": "afade5585210",
-      "title": "Expanding free AI training for educators",
+      "id": "d633fa9f178f",
+      "title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-22 01:00 JST"
+      "summaryShort": "Smallholder farmers produce nearly 35% of the world’s food across more…",
+      "publishedAtJst": "2026-09-23 08:50 JST"
     },
     {
       "id": "2beeba107505",
@@ -41,6 +41,17 @@
       "publishedAtJst": "2026-09-21 03:01 JST"
     },
     {
+      "id": "2960c64a019e",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-22 09:00 JST"
+    },
+    {
       "id": "eb792e0fc342",
       "title": "tokenizers v1: encode, decode and scaling, measured",
       "category": "C_BIZ_AI",
@@ -50,44 +61,37 @@
       "publishedAtJst": "2026-09-21 09:00 JST"
     },
     {
-      "id": "91f334a75f24",
-      "title": "Googlebook’s built-in intelligence reinvents the way you use your laptop",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-21 22:00 JST"
-    },
-    {
-      "id": "165160990356",
-      "title": "Premium materials and striking design set Googlebook apart",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-21 22:00 JST"
-    },
-    {
-      "id": "7419310936bb",
-      "title": "Googlebook: The laptop your Android phone has been waiting for",
+      "id": "8df729aa05d9",
+      "title": "Investing in global talent and AI literacy",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-21 22:00 JST"
+      "publishedAtJst": "2026-09-23 01:00 JST"
     },
     {
-      "id": "c701b57089c5",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "id": "a5685ba909d7",
+      "title": "Using AI to help local governments connect with constituents",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-21 22:44 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-22 23:00 JST"
+    },
+    {
+      "id": "afade5585210",
+      "title": "Expanding free AI training for educators",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-09-22 01:00 JST"
     }
   ]
 }
