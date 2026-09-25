@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-24",
+  "dateKey": "2026-09-25",
   "importantPoints": [
-    "最重要：Anyone can make stunning HD videos with Gemini Omni in Google Vids（A_GLOBAL）",
-    "次点：日米観光・食文化交流の夕べ　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：高市総理は国連総会出席等についての内外記者会見を行いました（B_JAPAN）"
+    "最重要：5 ways to upgrade your study habits with Chrome（A_GLOBAL）",
+    "次点：高市総理はアメリカ合衆国のニューヨークを訪問しました（B_JAPAN）",
+    "注目：ツーリズム・エキスポ・ジャパン２０２６　高市総理ビデオメッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,49 @@
   ],
   "articles": [
     {
-      "id": "50a2a91bdf22",
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "id": "f840e756c458",
+      "title": "5 ways to upgrade your study habits with Chrome",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-24 04:00 JST"
+      "publishedAtJst": "2026-09-25 02:00 JST"
+    },
+    {
+      "id": "f180a2c0ae1a",
+      "title": "高市総理はアメリカ合衆国のニューヨークを訪問しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-24 18:57 JST"
+    },
+    {
+      "id": "f341a251d244",
+      "title": "ツーリズム・エキスポ・ジャパン２０２６　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-24 18:30 JST"
+    },
+    {
+      "id": "c2a53f233272",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-24 23:08 JST"
+    },
+    {
+      "id": "a70f8ac64edf",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-24 03:41 JST"
     },
     {
       "id": "ca6113f1c6e5",
@@ -39,26 +75,6 @@
       "publishedAtJst": "2026-09-23 09:00 JST"
     },
     {
-      "id": "a70f8ac64edf",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-24 03:41 JST"
-    },
-    {
-      "id": "2960c64a019e",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-22 09:00 JST"
-    },
-    {
       "id": "1c0182327788",
       "title": "高市総理は第８１回国連総会において一般討論演説を行いました",
       "category": "B_JAPAN",
@@ -66,24 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-09-23 04:30 JST"
-    },
-    {
-      "id": "2beeba107505",
-      "title": "高市総理は米国訪問等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-22 08:00 JST"
-    },
-    {
-      "id": "8a86c97089bb",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-24 03:00 JST"
     }
   ]
 }
