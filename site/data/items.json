@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "id": "f840e756c458",
-      "title": "5 ways to upgrade your study habits with Chrome",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-09-25 02:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 5 ways to upgrade your study habits with Chrome\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp\">From managing complex research projects to minimizing digital distractions, Chrome has the tools you need to succeed this school year.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-09-25 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/"
-        }
-      ]
-    },
-    {
       "id": "5105747de01c",
       "title": "高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました",
       "category": "B_JAPAN",
@@ -45,22 +29,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/statement/2026/0926kaiken.html"
-        }
-      ]
-    },
-    {
-      "id": "c2a53f233272",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-09-24 23:08 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Accelerating vision-language models with LFM2.5-VL-DSpark\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-09-24 23:08 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
         }
       ]
     },
