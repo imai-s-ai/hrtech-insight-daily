@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-09-29",
+  "dateKey": "2026-09-30",
   "importantPoints": [
-    "最重要：Watch the winning trailer from the Future Vision XPRIZE, The Gifted.（A_GLOBAL）",
-    "次点：高市総理は第１回インテリジェンス機能の強化に関する有識者会議を開催しました（B_JAPAN）",
-    "注目：高市総理は横浜グリーンエクスポに関する表敬を受けました（B_JAPAN）"
+    "最重要：Game on: Henry Cavill is putting Googlebook to the test（A_GLOBAL）",
+    "次点：高市総理はモンゴル国のニャムオソル・オチラル首相と首脳会談を行いました（B_JAPAN）",
+    "注目：高市総理は９月の月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,67 @@
   ],
   "articles": [
     {
-      "id": "1eadd5627184",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "id": "12b4a2fa518b",
+      "title": "Game on: Henry Cavill is putting Googlebook to the test",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-29 04:00 JST"
+      "publishedAtJst": "2026-09-30 03:00 JST"
+    },
+    {
+      "id": "87a8eea25a03",
+      "title": "高市総理はモンゴル国のニャムオソル・オチラル首相と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-30 02:45 JST"
+    },
+    {
+      "id": "7d961897993d",
+      "title": "高市総理は９月の月例経済報告等に関する関係閣僚会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-30 00:00 JST"
+    },
+    {
+      "id": "493cf3fce1b8",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-30 00:30 JST"
+    },
+    {
+      "id": "984223f109f3",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-29 22:07 JST"
+    },
+    {
+      "id": "8eaf99a09497",
+      "title": "高市総理は福島県の内堀雅雄知事等と面会しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-29 20:30 JST"
+    },
+    {
+      "id": "42428e39bd15",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-09-29 20:00 JST"
     },
     {
       "id": "a8d64c3a242b",
@@ -30,62 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-09-29 01:30 JST"
-    },
-    {
-      "id": "757cd7c56619",
-      "title": "高市総理は横浜グリーンエクスポに関する表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-29 00:30 JST"
-    },
-    {
-      "id": "9552195c964d",
-      "title": "Holo4: powering generalist computer-use agents",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-28 18:44 JST"
-    },
-    {
-      "id": "5105747de01c",
-      "title": "高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-27 06:30 JST"
-    },
-    {
-      "id": "2bed2e04851c",
-      "title": "高市総理はトランプ米国大統領との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-09-27 06:30 JST"
-    },
-    {
-      "id": "81b2495e3c3a",
-      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-29 01:30 JST"
-    },
-    {
-      "id": "9d54c41e726b",
-      "title": "See what 4 builders are making with Gemini 3.8 Flash",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-09-29 01:00 JST"
     }
   ]
 }
