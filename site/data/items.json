@@ -1,54 +1,50 @@
 {
   "items": [
     {
-      "id": "1122627a66df",
-      "title": "The latest AI news we announced in September 2026",
+      "id": "5d4b22a769b3",
+      "title": "I use technology to give students a voice and become critical digital citizens.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-10-03 00:00 JST",
+      "publishedAtJst": "2026-10-06 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 The latest AI news we announced in September 2026\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from September 2026\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-10-03 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 I use technology to give students a voice and become critical digital citizens.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp\">Empower students using Google Sites, Gemini, and Vids to build critical thinking skills. See how these tools help kids find their voice today.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-10-06 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+          "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/"
         }
       ]
     },
     {
-      "id": "cc97f05e7d2c",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "id": "13ba388eaf2b",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-03 15:40 JST",
+      "publishedAtJst": "2026-10-06 20:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-03 15:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-06 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20261003shiji.html"
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/6_a.html"
         }
       ]
     },
     {
-      "id": "4f871caeb12b",
-      "title": "高市総理はカタール国のムハンマド・ビン・アブドルラフマン・アール・サーニ首相兼外相と会談しました",
+      "id": "9eba02f52b1e",
+      "title": "関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
-      "tags": [
-        "金融"
-      ],
+      "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-02 20:40 JST",
+      "publishedAtJst": "2026-10-06 00:30 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はカタール国のムハンマド・ビン・アブドルラフマン・アール・サーニ首相兼外相と会談しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-02 20:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-06 00:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202610/02qatar.html"
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20261005message2.html"
         }
       ]
     },
@@ -71,66 +67,66 @@
       ]
     },
     {
-      "id": "d599f0a282be",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "category": "C_BIZ_AI",
+      "id": "31a7e250a3f6",
+      "title": "第６３回日豪経済会議　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-10-03 00:19 JST",
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-10-05 23:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Open-sourcing AstaBrief, the fast report-generation model in Asta\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-10-03 00:19 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 第６３回日豪経済会議　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-05 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/allenai/astabrief"
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20261005message.html"
         }
       ]
     },
     {
-      "id": "08e5c76d1260",
-      "title": "閣議の概要について",
+      "id": "693bd988c566",
+      "title": "高市総理は第２２２回国会における所信表明演説を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-02 20:00 JST",
+      "publishedAtJst": "2026-10-05 23:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-02 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は第２２２回国会における所信表明演説を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-05 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/2_a.html"
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/1005shoshinhyomei.html"
         }
       ]
     },
     {
-      "id": "8b1cf9f6d7de",
-      "title": "高市総理は第４５回復興推進会議を開催しました",
+      "id": "6eb1c1c33a4f",
+      "title": "臨時閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-02 19:45 JST",
+      "publishedAtJst": "2026-10-05 18:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は第４５回復興推進会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-02 19:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 臨時閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-05 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202610/02fukkou.html"
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/5_a.html"
         }
       ]
     },
     {
-      "id": "2070140f84e0",
-      "title": "木原内閣官房長官は熊本県の木村敬（たかし）知事による要請を受けました",
+      "id": "7a4f6fbe21ba",
+      "title": "ＳＴＳフォーラム年次総会（第２３回）　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-02 18:40 JST",
+      "publishedAtJst": "2026-10-04 19:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 木原内閣官房長官は熊本県の木村敬（たかし）知事による要請を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-02 18:40 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 ＳＴＳフォーラム年次総会（第２３回）　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-04 19:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/pages/20261002choukan_yousei.html"
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20261004message.html"
         }
       ]
     }

@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-05",
+  "dateKey": "2026-10-06",
   "importantPoints": [
-    "最重要：The latest AI news we announced in September 2026（A_GLOBAL）",
-    "次点：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
-    "注目：高市総理はカタール国のムハンマド・ビン・アブドルラフマン・アール・サーニ首相兼外相と会談しました（B_JAPAN）"
+    "最重要：I use technology to give students a voice and become critical digital citizens.（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,35 +12,31 @@
   ],
   "articles": [
     {
-      "id": "1122627a66df",
-      "title": "The latest AI news we announced in September 2026",
+      "id": "5d4b22a769b3",
+      "title": "I use technology to give students a voice and become critical digital citizens.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-03 00:00 JST"
+      "publishedAtJst": "2026-10-06 01:00 JST"
     },
     {
-      "id": "cc97f05e7d2c",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "id": "13ba388eaf2b",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-03 15:40 JST"
+      "publishedAtJst": "2026-10-06 20:00 JST"
     },
     {
-      "id": "4f871caeb12b",
-      "title": "高市総理はカタール国のムハンマド・ビン・アブドルラフマン・アール・サーニ首相兼外相と会談しました",
+      "id": "9eba02f52b1e",
+      "title": "関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
-      "tags": [
-        "金融"
-      ],
+      "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-02 20:40 JST"
+      "publishedAtJst": "2026-10-06 00:30 JST"
     },
     {
       "id": "89764eae0099",
@@ -54,40 +50,40 @@
       "publishedAtJst": "2026-10-04 07:56 JST"
     },
     {
-      "id": "d599f0a282be",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-03 00:19 JST"
-    },
-    {
-      "id": "08e5c76d1260",
-      "title": "閣議の概要について",
+      "id": "31a7e250a3f6",
+      "title": "第６３回日豪経済会議　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-02 20:00 JST"
+      "publishedAtJst": "2026-10-05 23:00 JST"
     },
     {
-      "id": "8b1cf9f6d7de",
-      "title": "高市総理は第４５回復興推進会議を開催しました",
+      "id": "693bd988c566",
+      "title": "高市総理は第２２２回国会における所信表明演説を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-02 19:45 JST"
+      "publishedAtJst": "2026-10-05 23:00 JST"
     },
     {
-      "id": "2070140f84e0",
-      "title": "木原内閣官房長官は熊本県の木村敬（たかし）知事による要請を受けました",
+      "id": "6eb1c1c33a4f",
+      "title": "臨時閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-02 18:40 JST"
+      "publishedAtJst": "2026-10-05 18:00 JST"
+    },
+    {
+      "id": "7a4f6fbe21ba",
+      "title": "ＳＴＳフォーラム年次総会（第２３回）　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-04 19:00 JST"
     }
   ]
 }
