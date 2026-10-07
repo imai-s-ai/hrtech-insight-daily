@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-06",
+  "dateKey": "2026-10-07",
   "importantPoints": [
-    "最重要：I use technology to give students a voice and become critical digital citizens.（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ（B_JAPAN）"
+    "最重要：Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?（A_GLOBAL）",
+    "次点：令和８年全国証券大会　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：Ｇｌｏｂａｌ Ｓｔａｒｔｕｐ ＥＸＰＯ ２０２６ 高市総理ビデオメッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,53 @@
   ],
   "articles": [
     {
-      "id": "5d4b22a769b3",
-      "title": "I use technology to give students a voice and become critical digital citizens.",
+      "id": "e10daf74049c",
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-06 01:00 JST"
+      "publishedAtJst": "2026-10-07 03:00 JST"
+    },
+    {
+      "id": "ee08995b58d7",
+      "title": "令和８年全国証券大会　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-07 02:00 JST"
+    },
+    {
+      "id": "4f4914935973",
+      "title": "Ｇｌｏｂａｌ Ｓｔａｒｔｕｐ ＥＸＰＯ ２０２６ 高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-07 02:00 JST"
+    },
+    {
+      "id": "085f7195b66f",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-06 15:44 JST"
+    },
+    {
+      "id": "2ddad1a771ea",
+      "title": "高市総理は日豪・豪日経済委員会による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-07 01:30 JST"
     },
     {
       "id": "13ba388eaf2b",
@@ -30,6 +70,15 @@
       "publishedAtJst": "2026-10-06 20:00 JST"
     },
     {
+      "id": "ff53d55e88cc",
+      "title": "高市総理は拉致被害者御家族等と面会しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-06 19:45 JST"
+    },
+    {
       "id": "9eba02f52b1e",
       "title": "関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
@@ -37,53 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-06 00:30 JST"
-    },
-    {
-      "id": "89764eae0099",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-04 07:56 JST"
-    },
-    {
-      "id": "31a7e250a3f6",
-      "title": "第６３回日豪経済会議　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-05 23:00 JST"
-    },
-    {
-      "id": "693bd988c566",
-      "title": "高市総理は第２２２回国会における所信表明演説を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-05 23:00 JST"
-    },
-    {
-      "id": "6eb1c1c33a4f",
-      "title": "臨時閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-05 18:00 JST"
-    },
-    {
-      "id": "7a4f6fbe21ba",
-      "title": "ＳＴＳフォーラム年次総会（第２３回）　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-04 19:00 JST"
     }
   ]
 }
