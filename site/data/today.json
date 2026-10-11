@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-10-10",
+  "dateKey": "2026-10-11",
   "importantPoints": [
     "最重要：Study in The Lancet suggests AI could improve patient-physician relationships.（A_GLOBAL）",
     "次点：高市総理は令和８年第１４回経済財政諮問会議を開催しました（B_JAPAN）",
@@ -50,15 +50,6 @@
       "publishedAtJst": "2026-10-10 00:20 JST"
     },
     {
-      "id": "0f05fd4155a4",
-      "title": "The model that didn't exist, so you made it yourself",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-08 09:00 JST"
-    },
-    {
       "id": "02c4a361d505",
       "title": "閣議の概要について（尾﨑正直内閣官房副長官）",
       "category": "B_JAPAN",
@@ -84,6 +75,17 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-09 17:00 JST"
+    },
+    {
+      "id": "a3caf968b335",
+      "title": "第６３回全国建設業労働災害防止大会　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [
+        "雇用・賃金"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-09 03:00 JST"
     }
   ]
 }
