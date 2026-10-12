@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-11",
+  "dateKey": "2026-10-12",
   "importantPoints": [
-    "最重要：Study in The Lancet suggests AI could improve patient-physician relationships.（A_GLOBAL）",
+    "最重要：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
     "次点：高市総理は令和８年第１４回経済財政諮問会議を開催しました（B_JAPAN）",
-    "注目：木原内閣官房長官は第３回租税特別措置・補助金・基金の徹底見直しに関する関係閣僚等及び副大臣会議を開催しました（B_JAPAN）"
+    "注目：Impactful scheduling for GPU clusters（C_BIZ_AI）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,13 @@
   ],
   "articles": [
     {
-      "id": "9412e609363d",
-      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-09 07:30 JST"
+      "id": "ee97b567d3c7",
+      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-12 18:00 JST"
     },
     {
       "id": "bb73745a01a0",
@@ -32,15 +30,6 @@
       "publishedAtJst": "2026-10-10 03:00 JST"
     },
     {
-      "id": "52392b8a7808",
-      "title": "木原内閣官房長官は第３回租税特別措置・補助金・基金の徹底見直しに関する関係閣僚等及び副大臣会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-09 18:15 JST"
-    },
-    {
       "id": "43ef54e74d27",
       "title": "Impactful scheduling for GPU clusters",
       "category": "C_BIZ_AI",
@@ -48,6 +37,15 @@
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-10 00:20 JST"
+    },
+    {
+      "id": "52392b8a7808",
+      "title": "木原内閣官房長官は第３回租税特別措置・補助金・基金の徹底見直しに関する関係閣僚等及び副大臣会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-09 18:15 JST"
     },
     {
       "id": "02c4a361d505",
@@ -75,17 +73,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-09 17:00 JST"
-    },
-    {
-      "id": "a3caf968b335",
-      "title": "第６３回全国建設業労働災害防止大会　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [
-        "雇用・賃金"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-09 03:00 JST"
     }
   ]
 }
