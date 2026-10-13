@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-12",
+  "dateKey": "2026-10-13",
   "importantPoints": [
-    "最重要：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）",
-    "次点：高市総理は令和８年第１４回経済財政諮問会議を開催しました（B_JAPAN）",
-    "注目：Impactful scheduling for GPU clusters（C_BIZ_AI）"
+    "最重要：Applying technology to understand and treat disease（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,6 +11,24 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
+    {
+      "id": "4becce7883e3",
+      "title": "Applying technology to understand and treat disease",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-13 02:30 JST"
+    },
+    {
+      "id": "9adad7eac24f",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-13 20:00 JST"
+    },
     {
       "id": "ee97b567d3c7",
       "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
@@ -21,58 +39,53 @@
       "publishedAtJst": "2026-10-12 18:00 JST"
     },
     {
-      "id": "bb73745a01a0",
-      "title": "高市総理は令和８年第１４回経済財政諮問会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "d06d7bf6dfa7",
+      "title": "Google Health: Evolving so you can focus on living better",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-10 03:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-12 22:00 JST"
     },
     {
-      "id": "43ef54e74d27",
-      "title": "Impactful scheduling for GPU clusters",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-10 00:20 JST"
+      "id": "1887de9f6a4a",
+      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-12 22:00 JST"
     },
     {
-      "id": "52392b8a7808",
-      "title": "木原内閣官房長官は第３回租税特別措置・補助金・基金の徹底見直しに関する関係閣僚等及び副大臣会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "144082e00b9d",
+      "title": "We’re partnering with Flo Health to elevate women’s health",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-09 18:15 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-12 22:00 JST"
     },
     {
-      "id": "02c4a361d505",
-      "title": "閣議の概要について（尾﨑正直内閣官房副長官）",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-09 18:00 JST"
+      "id": "db598716c303",
+      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-12 22:00 JST"
     },
     {
-      "id": "97c6a5978e0e",
-      "title": "木原内閣官房長官は給与関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
+      "id": "c46d142a6419",
+      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-09 17:45 JST"
-    },
-    {
-      "id": "483dcc1302fe",
-      "title": "内閣官房長官談話を掲載しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-09 17:00 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-12 22:00 JST"
     }
   ]
 }
