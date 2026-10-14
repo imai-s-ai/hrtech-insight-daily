@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-13",
+  "dateKey": "2026-10-14",
   "importantPoints": [
-    "最重要：Applying technology to understand and treat disease（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました（B_JAPAN）"
+    "最重要：Developing Gemini 4 Argon responsibly and safely（A_GLOBAL）",
+    "次点：ＣＥＡＴＥＣ２０２６オープニングレセプション　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：閣議の概要について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,22 @@
   ],
   "articles": [
     {
-      "id": "4becce7883e3",
-      "title": "Applying technology to understand and treat disease",
+      "id": "3e78d0d4c307",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-13 02:30 JST"
+      "publishedAtJst": "2026-10-14 03:00 JST"
+    },
+    {
+      "id": "456712aa8070",
+      "title": "ＣＥＡＴＥＣ２０２６オープニングレセプション　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-14 05:30 JST"
     },
     {
       "id": "9adad7eac24f",
@@ -39,53 +48,44 @@
       "publishedAtJst": "2026-10-12 18:00 JST"
     },
     {
-      "id": "d06d7bf6dfa7",
-      "title": "Google Health: Evolving so you can focus on living better",
+      "id": "3a247699db63",
+      "title": "New on Google Play: More ways to create, discover, and play",
       "category": "A_GLOBAL",
       "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-12 22:00 JST"
+      "publishedAtJst": "2026-10-14 02:00 JST"
     },
     {
-      "id": "1887de9f6a4a",
-      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "id": "b6cafae01d93",
+      "title": "A new app experience is coming to cars with Google built-in",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-10-14 02:00 JST"
+    },
+    {
+      "id": "592d3ff77c96",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-12 22:00 JST"
+      "publishedAtJst": "2026-10-14 01:00 JST"
     },
     {
-      "id": "144082e00b9d",
-      "title": "We’re partnering with Flo Health to elevate women’s health",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-12 22:00 JST"
-    },
-    {
-      "id": "db598716c303",
-      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "id": "1ade65f41bfa",
+      "title": "Gemini 4 Argon is now available for developers.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-12 22:00 JST"
-    },
-    {
-      "id": "c46d142a6419",
-      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-12 22:00 JST"
+      "publishedAtJst": "2026-10-14 01:00 JST"
     }
   ]
 }
