@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-14",
+  "dateKey": "2026-10-15",
   "importantPoints": [
-    "最重要：Developing Gemini 4 Argon responsibly and safely（A_GLOBAL）",
-    "次点：ＣＥＡＴＥＣ２０２６オープニングレセプション　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "最重要：Research@ 2026: Novel capabilities and intelligence（A_GLOBAL）",
+    "次点：第２２回ヘルシー・ソサエティ賞授賞式　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：高市総理は農林水産大臣の交代についての会見を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,42 @@
   ],
   "articles": [
     {
-      "id": "3e78d0d4c307",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "id": "1a350fa3bc7e",
+      "title": "Research@ 2026: Novel capabilities and intelligence",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-14 03:00 JST"
+      "publishedAtJst": "2026-10-15 01:15 JST"
+    },
+    {
+      "id": "de34add2832d",
+      "title": "第２２回ヘルシー・ソサエティ賞授賞式　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-15 06:00 JST"
+    },
+    {
+      "id": "5616cddda9b0",
+      "title": "高市総理は農林水産大臣の交代についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-15 04:30 JST"
+    },
+    {
+      "id": "672ebf75c430",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-15 01:12 JST"
     },
     {
       "id": "456712aa8070",
@@ -48,44 +77,15 @@
       "publishedAtJst": "2026-10-12 18:00 JST"
     },
     {
-      "id": "3a247699db63",
-      "title": "New on Google Play: More ways to create, discover, and play",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-14 02:00 JST"
-    },
-    {
-      "id": "b6cafae01d93",
-      "title": "A new app experience is coming to cars with Google built-in",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-14 02:00 JST"
-    },
-    {
-      "id": "592d3ff77c96",
-      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "id": "19c1404c15f9",
+      "title": "Guide your campaign spending with new priority and allocation features",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-14 01:00 JST"
-    },
-    {
-      "id": "1ade65f41bfa",
-      "title": "Gemini 4 Argon is now available for developers.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-14 01:00 JST"
+      "publishedAtJst": "2026-10-15 00:00 JST"
     }
   ]
 }
