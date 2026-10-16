@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-15",
+  "dateKey": "2026-10-16",
   "importantPoints": [
-    "最重要：Research@ 2026: Novel capabilities and intelligence（A_GLOBAL）",
-    "次点：第２２回ヘルシー・ソサエティ賞授賞式　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：高市総理は農林水産大臣の交代についての会見を行いました（B_JAPAN）"
+    "最重要：Bringing the magic: Google breaks open a bottleneck in quantum computing（A_GLOBAL）",
+    "次点：高市総理は武部新国務大臣に対して辞令交付を行いました（B_JAPAN）",
+    "注目：高市総理は令和８年安全安心なまちづくり関係功労者表彰の表彰式を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,80 +12,78 @@
   ],
   "articles": [
     {
-      "id": "1a350fa3bc7e",
-      "title": "Research@ 2026: Novel capabilities and intelligence",
+      "id": "ec9d86af1614",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-15 01:15 JST"
+      "publishedAtJst": "2026-10-16 03:00 JST"
     },
     {
-      "id": "de34add2832d",
-      "title": "第２２回ヘルシー・ソサエティ賞授賞式　高市総理ビデオメッセージ",
+      "id": "82a27240d889",
+      "title": "高市総理は武部新国務大臣に対して辞令交付を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-15 06:00 JST"
+      "publishedAtJst": "2026-10-16 02:30 JST"
     },
     {
-      "id": "5616cddda9b0",
-      "title": "高市総理は農林水産大臣の交代についての会見を行いました",
+      "id": "6de4b090d278",
+      "title": "高市総理は令和８年安全安心なまちづくり関係功労者表彰の表彰式を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-15 04:30 JST"
+      "publishedAtJst": "2026-10-16 00:00 JST"
     },
     {
-      "id": "672ebf75c430",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "id": "a01e02239da0",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-15 01:12 JST"
+      "publishedAtJst": "2026-10-16 05:34 JST"
     },
     {
-      "id": "456712aa8070",
-      "title": "ＣＥＡＴＥＣ２０２６オープニングレセプション　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
+      "id": "c164e0a705ab",
+      "title": "How we're helping the world prepare for natural disasters",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-14 05:30 JST"
-    },
-    {
-      "id": "9adad7eac24f",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-13 20:00 JST"
-    },
-    {
-      "id": "ee97b567d3c7",
-      "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-12 18:00 JST"
-    },
-    {
-      "id": "19c1404c15f9",
-      "title": "Guide your campaign spending with new priority and allocation features",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
       "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-15 00:00 JST"
+      "summaryShort": "Our north star is simple yet ambitious: No one should be surprised by …",
+      "publishedAtJst": "2026-10-16 01:00 JST"
+    },
+    {
+      "id": "355478aeb863",
+      "title": "米日カウンシル２０２６年年次総会に際する高市内閣総理大臣の祝辞の発出",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-15 23:50 JST"
+    },
+    {
+      "id": "1a57e0a0bc73",
+      "title": "高市総理は閣僚人事等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-15 20:45 JST"
+    },
+    {
+      "id": "798d7aa96e2c",
+      "title": "高市総理はＧＥＡ（地球環境行動会議）国際会議２０２６開会式に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-15 19:00 JST"
     }
   ]
 }
