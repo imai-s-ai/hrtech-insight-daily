@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-17",
+  "dateKey": "2026-10-18",
   "importantPoints": [
     "最重要：We’re sharing 3 tips to study smarter with Gemini Notebook.（A_GLOBAL）",
-    "次点：高市総理はカムチャツカ半島を震源とする地震に関する総理指示を行いました（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "次点：高市総理は令和８年度自衛隊殉職隊員追悼式に参列しました（B_JAPAN）",
+    "注目：高市総理はカムチャツカ半島を震源とする地震に関する総理指示を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,6 +21,15 @@
       "publishedAtJst": "2026-10-17 01:00 JST"
     },
     {
+      "id": "1bb9b9c08228",
+      "title": "高市総理は令和８年度自衛隊殉職隊員追悼式に参列しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-17 19:00 JST"
+    },
+    {
       "id": "f81c37d02a36",
       "title": "高市総理はカムチャツカ半島を震源とする地震に関する総理指示を行いました",
       "category": "B_JAPAN",
@@ -28,15 +37,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-16 21:41 JST"
-    },
-    {
-      "id": "67ca539e7a2f",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-16 18:00 JST"
     },
     {
       "id": "c164e0a705ab",
@@ -59,6 +59,15 @@
       "publishedAtJst": "2026-10-16 10:44 JST"
     },
     {
+      "id": "67ca539e7a2f",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-16 18:00 JST"
+    },
+    {
       "id": "82a27240d889",
       "title": "高市総理は武部新国務大臣に対して辞令交付を行いました",
       "category": "B_JAPAN",
@@ -75,15 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-16 00:00 JST"
-    },
-    {
-      "id": "355478aeb863",
-      "title": "米日カウンシル２０２６年年次総会に際する高市内閣総理大臣の祝辞の発出",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-15 23:50 JST"
     }
   ]
 }
