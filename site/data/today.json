@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-10-18",
+  "dateKey": "2026-10-19",
   "importantPoints": [
     "最重要：We’re sharing 3 tips to study smarter with Gemini Notebook.（A_GLOBAL）",
     "次点：高市総理は令和８年度自衛隊殉職隊員追悼式に参列しました（B_JAPAN）",
@@ -39,15 +39,6 @@
       "publishedAtJst": "2026-10-16 21:41 JST"
     },
     {
-      "id": "c164e0a705ab",
-      "title": "How we're helping the world prepare for natural disasters",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "Our north star is simple yet ambitious: No one should be surprised by …",
-      "publishedAtJst": "2026-10-16 01:00 JST"
-    },
-    {
       "id": "ba4e7337aba2",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "category": "C_BIZ_AI",
@@ -66,24 +57,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-16 18:00 JST"
-    },
-    {
-      "id": "82a27240d889",
-      "title": "高市総理は武部新国務大臣に対して辞令交付を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-16 02:30 JST"
-    },
-    {
-      "id": "6de4b090d278",
-      "title": "高市総理は令和８年安全安心なまちづくり関係功労者表彰の表彰式を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-16 00:00 JST"
     }
   ]
 }
