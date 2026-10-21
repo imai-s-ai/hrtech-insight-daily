@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-20",
+  "dateKey": "2026-10-21",
   "importantPoints": [
-    "最重要：Partnering to strengthen the grid and support local communities in Arkansas（A_GLOBAL）",
-    "次点：高市総理は日本経済団体連合会創立８０周年記念パーティに出席しました（B_JAPAN）",
-    "注目：高市総理は令和８年度自衛隊殉職隊員追悼式に参列しました（B_JAPAN）"
+    "最重要：Get hands-free personalized help on the road with Gemini（A_GLOBAL）",
+    "次点：高市総理は令和８年度第２回国と地方の協議の場に出席しました（B_JAPAN）",
+    "注目：ラーマン・バングラデシュ首相夫妻の訪日について（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,82 +12,80 @@
   ],
   "articles": [
     {
-      "id": "8a97e04b0d8a",
-      "title": "Partnering to strengthen the grid and support local communities in Arkansas",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-20 05:15 JST"
-    },
-    {
-      "id": "ad09443d63a0",
-      "title": "高市総理は日本経済団体連合会創立８０周年記念パーティに出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-20 03:10 JST"
-    },
-    {
-      "id": "1bb9b9c08228",
-      "title": "高市総理は令和８年度自衛隊殉職隊員追悼式に参列しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-17 19:00 JST"
-    },
-    {
-      "id": "8d7cba5836f2",
-      "title": "How to shape your slides and videos with Gemini Notebook",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-20 02:00 JST"
-    },
-    {
-      "id": "7b7535a06a66",
-      "title": "4 tips for styling outfits with Gemini",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-20 01:00 JST"
-    },
-    {
-      "id": "d52a129d812b",
-      "title": "See the top style searches from people in big fashion capitals.",
+      "id": "bcce454f5977",
+      "title": "Get hands-free personalized help on the road with Gemini",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-20 01:00 JST"
+      "publishedAtJst": "2026-10-21 05:00 JST"
     },
     {
-      "id": "0a5f48effaea",
-      "title": "We’re supporting nature restoration through sustainable farming in Brazil.",
-      "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-19 21:00 JST"
+      "id": "83361d52c48a",
+      "title": "高市総理は令和８年度第２回国と地方の協議の場に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-21 01:30 JST"
     },
     {
-      "id": "9dbc0d55ff91",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "category": "A_GLOBAL",
+      "id": "41499f891802",
+      "title": "ラーマン・バングラデシュ首相夫妻の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-21 01:00 JST"
+    },
+    {
+      "id": "4eb9f7080b11",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-21 03:17 JST"
+    },
+    {
+      "id": "ca293d8533a3",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "category": "C_BIZ_AI",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-19 09:00 JST"
+      "publishedAtJst": "2026-10-21 01:09 JST"
+    },
+    {
+      "id": "a7f7951d9828",
+      "title": "高市総理は国連難民高等弁務官事務所（ＵＮＨＣＲ）のバルハム・サーレハ高等弁務官による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-20 20:00 JST"
+    },
+    {
+      "id": "ab257c96346e",
+      "title": "高市総理はフィリピン共和国のフェルディナンド・マルコス大統領と電話会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-20 19:05 JST"
+    },
+    {
+      "id": "d9d9c1886953",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-20 18:00 JST"
     }
   ]
 }
