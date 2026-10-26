@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-10-25",
+  "dateKey": "2026-10-26",
   "importantPoints": [
     "最重要：See what 5 builders are making with Gemini 4 Argon（A_GLOBAL）",
     "次点：第１３回「富士山会合」　高市総理ビデオメッセージ（B_JAPAN）",
@@ -48,17 +48,6 @@
       "publishedAtJst": "2026-10-24 01:15 JST"
     },
     {
-      "id": "95eb6975ad24",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-23 07:24 JST"
-    },
-    {
       "id": "1c97ff26f541",
       "title": "高市総理は中東情勢を踏まえた緊急的激変緩和措置等についての会見を行いました",
       "category": "B_JAPAN",
@@ -86,6 +75,15 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-23 23:00 JST"
+    },
+    {
+      "id": "097e6a4b1677",
+      "title": "閣議の概要／ラム・ベトナム共産党書記長兼国家主席夫妻の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-23 20:00 JST"
     }
   ]
 }
