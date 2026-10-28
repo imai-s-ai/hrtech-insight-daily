@@ -1,20 +1,100 @@
 {
   "items": [
     {
-      "id": "be77c96c39b4",
-      "title": "Our newest AI Quest: Mapping the human brain",
+      "id": "cd6ab167aa92",
+      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-10-27 01:00 JST",
+      "publishedAtJst": "2026-10-28 01:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Our newest AI Quest: Mapping the human brain\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp\">Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-10-27 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 We’re announcing Genie 4, our new world model for real-time interactive simulation.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__blog__social-og.max-600x600.format-webp.webp\">Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simula\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-10-28 01:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"
+        }
+      ]
+    },
+    {
+      "id": "11675352249b",
+      "title": "令和８年１０月２７日、高市総理は、月例経済報告等に関する関係閣僚会議に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-10-28 01:45 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 令和８年１０月２７日、高市総理は、月例経済報告等に関する関係閣僚会議に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-28 01:45 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202610/27getsurei.html"
+        }
+      ]
+    },
+    {
+      "id": "876a647c66f4",
+      "title": "高市総理はバングラデシュ人民共和国のタレク・ラーマン首相と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-10-27 20:30 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理はバングラデシュ人民共和国のタレク・ラーマン首相と首脳会談を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 20:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202610/27bangladesh.html"
+        }
+      ]
+    },
+    {
+      "id": "db98bf59a6c7",
+      "title": "Build specialized multimodal models with LFM3",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-10-28 02:16 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Build specialized multimodal models with LFM3\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-10-28 02:16 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+        }
+      ]
+    },
+    {
+      "id": "34370e88c88d",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-10-28 01:12 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Can we trust LLMs to judge whether a research idea is novel?\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-10-28 01:12 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench"
+        }
+      ]
+    },
+    {
+      "id": "12728258c66c",
+      "title": "高市総理は商工会青年部･女性部全国組織化６０周年記念大会に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-10-27 19:50 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は商工会青年部･女性部全国組織化６０周年記念大会に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 19:50 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202610/27seijo60anniversary.html"
         }
       ]
     },
@@ -47,86 +127,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/discourse/20261027message.html"
-        }
-      ]
-    },
-    {
-      "id": "a4fb9d3db92d",
-      "title": "ＪａｐａｎＷｅｅｋｓ ２０２６　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-27 05:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 ＪａｐａｎＷｅｅｋｓ ２０２６　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 05:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20261026message2.html"
-        }
-      ]
-    },
-    {
-      "id": "fd4005969d43",
-      "title": "第３９回東京国際映画祭　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-27 04:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 第３９回東京国際映画祭　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20261026message1.html"
-        }
-      ]
-    },
-    {
-      "id": "11244d015c73",
-      "title": "高市総理は第１回サイバーセキュリティに関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-27 03:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は第１回サイバーセキュリティに関する関係閣僚会議を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202610/26kaigi_cyber.html"
-        }
-      ]
-    },
-    {
-      "id": "7a5731109947",
-      "title": "資産運用業大会　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-27 02:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 資産運用業大会　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/discourse/20261026message.html"
-        }
-      ]
-    },
-    {
-      "id": "1e2a10b575f4",
-      "title": "高市総理は福田元内閣総理大臣の逝去についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-10-27 00:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は福田元内閣総理大臣の逝去についての会見を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-10-27 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/statement/2026/1026kaiken.html"
         }
       ]
     }
