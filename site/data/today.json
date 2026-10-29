@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-28",
+  "dateKey": "2026-10-29",
   "importantPoints": [
-    "最重要：We’re announcing Genie 4, our new world model for real-time interactive simulation.（A_GLOBAL）",
-    "次点：令和８年１０月２７日、高市総理は、月例経済報告等に関する関係閣僚会議に出席しました（B_JAPAN）",
-    "注目：高市総理はバングラデシュ人民共和国のタレク・ラーマン首相と首脳会談を行いました（B_JAPAN）"
+    "最重要：Ads in AI Mode expand to new markets.（A_GLOBAL）",
+    "次点：高市総理は日本維新の会・中東危機の長期化を踏まえたエネルギー・物価高騰対策に関する提言申入れを受けました（B_JAPAN）",
+    "注目：高市総理は自由民主党・中東情勢緊迫の長期化を踏まえたエネルギー安定供給・物価高対策に関する提言申入れを受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,13 +12,55 @@
   ],
   "articles": [
     {
-      "id": "cd6ab167aa92",
-      "title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
+      "id": "680b7718f8a6",
+      "title": "Ads in AI Mode expand to new markets.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-28 01:00 JST"
+      "publishedAtJst": "2026-10-29 06:30 JST"
+    },
+    {
+      "id": "a830b0664237",
+      "title": "高市総理は日本維新の会・中東危機の長期化を踏まえたエネルギー・物価高騰対策に関する提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-29 01:45 JST"
+    },
+    {
+      "id": "326d641a8db7",
+      "title": "高市総理は自由民主党・中東情勢緊迫の長期化を踏まえたエネルギー安定供給・物価高対策に関する提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-29 01:00 JST"
+    },
+    {
+      "id": "7ae8eb20550e",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-28 23:58 JST"
+    },
+    {
+      "id": "db98bf59a6c7",
+      "title": "Build specialized multimodal models with LFM3",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-28 02:16 JST"
     },
     {
       "id": "11675352249b",
@@ -39,26 +81,6 @@
       "publishedAtJst": "2026-10-27 20:30 JST"
     },
     {
-      "id": "db98bf59a6c7",
-      "title": "Build specialized multimodal models with LFM3",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-28 02:16 JST"
-    },
-    {
-      "id": "34370e88c88d",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-28 01:12 JST"
-    },
-    {
       "id": "12728258c66c",
       "title": "高市総理は商工会青年部･女性部全国組織化６０周年記念大会に出席しました",
       "category": "B_JAPAN",
@@ -66,24 +88,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-27 19:50 JST"
-    },
-    {
-      "id": "64b723bef18a",
-      "title": "閣議の概要について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-27 18:00 JST"
-    },
-    {
-      "id": "40e0a497a975",
-      "title": "高市総理大臣発ルイス・イナシオ・ルーラ・ダ・シルヴァ・ブラジル大統領宛祝辞",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-27 08:59 JST"
     }
   ]
 }
