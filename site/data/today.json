@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-29",
+  "dateKey": "2026-10-30",
   "importantPoints": [
-    "最重要：Ads in AI Mode expand to new markets.（A_GLOBAL）",
-    "次点：高市総理は日本維新の会・中東危機の長期化を踏まえたエネルギー・物価高騰対策に関する提言申入れを受けました（B_JAPAN）",
-    "注目：高市総理は自由民主党・中東情勢緊迫の長期化を踏まえたエネルギー安定供給・物価高対策に関する提言申入れを受けました（B_JAPAN）"
+    "最重要：You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：高市総理は中東情勢を踏まえた「緊急的激変緩和措置」の今後の対応についての会見を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,82 +12,80 @@
   ],
   "articles": [
     {
-      "id": "680b7718f8a6",
-      "title": "Ads in AI Mode expand to new markets.",
+      "id": "40ee4ff935a1",
+      "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-10-29 06:30 JST"
+      "publishedAtJst": "2026-10-30 01:15 JST"
     },
     {
-      "id": "a830b0664237",
-      "title": "高市総理は日本維新の会・中東危機の長期化を踏まえたエネルギー・物価高騰対策に関する提言申入れを受けました",
+      "id": "c6bc7dd4ef08",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-30 18:00 JST"
+    },
+    {
+      "id": "b9ec5fa95a10",
+      "title": "高市総理は中東情勢を踏まえた「緊急的激変緩和措置」の今後の対応についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [
         "地政学"
       ],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-29 01:45 JST"
+      "publishedAtJst": "2026-10-30 05:00 JST"
     },
     {
-      "id": "326d641a8db7",
-      "title": "高市総理は自由民主党・中東情勢緊迫の長期化を踏まえたエネルギー安定供給・物価高対策に関する提言申入れを受けました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-29 01:00 JST"
-    },
-    {
-      "id": "7ae8eb20550e",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "id": "f3538b6fb36f",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-28 23:58 JST"
+      "publishedAtJst": "2026-10-29 22:37 JST"
     },
     {
-      "id": "db98bf59a6c7",
-      "title": "Build specialized multimodal models with LFM3",
+      "id": "a1765f446c5b",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-28 02:16 JST"
+      "publishedAtJst": "2026-10-29 09:00 JST"
     },
     {
-      "id": "11675352249b",
-      "title": "令和８年１０月２７日、高市総理は、月例経済報告等に関する関係閣僚会議に出席しました",
+      "id": "eaddcb9af63c",
+      "title": "高市総理は令和８年第１５回経済財政諮問会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-28 01:45 JST"
+      "publishedAtJst": "2026-10-30 03:10 JST"
     },
     {
-      "id": "876a647c66f4",
-      "title": "高市総理はバングラデシュ人民共和国のタレク・ラーマン首相と首脳会談を行いました",
+      "id": "71a07098bdbf",
+      "title": "高市総理は全国中小企業団体中央会創立７０周年記念祝賀会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-27 20:30 JST"
+      "publishedAtJst": "2026-10-30 02:30 JST"
     },
     {
-      "id": "12728258c66c",
-      "title": "高市総理は商工会青年部･女性部全国組織化６０周年記念大会に出席しました",
+      "id": "2d15124703b5",
+      "title": "高市総理はモンゴル国のニャムオソル・オチラル首相と電話会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-27 19:50 JST"
+      "publishedAtJst": "2026-10-30 01:00 JST"
     }
   ]
 }
