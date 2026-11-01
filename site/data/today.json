@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-10-31",
+  "dateKey": "2026-11-01",
   "importantPoints": [
     "最重要：Google Fitbit Edge: On shelves now（A_GLOBAL）",
-    "次点：高市総理は第８回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました（B_JAPAN）",
-    "注目：閣議の概要について（B_JAPAN）"
+    "次点：犯罪被害者月間　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：「オレンジリボン・児童虐待防止推進キャンペーン」に関する高市総理メッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -21,22 +21,22 @@
       "publishedAtJst": "2026-10-31 05:15 JST"
     },
     {
-      "id": "24b048240eeb",
-      "title": "高市総理は第８回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
+      "id": "3247a17e1a0a",
+      "title": "犯罪被害者月間　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-31 01:00 JST"
+      "publishedAtJst": "2026-11-01 18:30 JST"
     },
     {
-      "id": "c6bc7dd4ef08",
-      "title": "閣議の概要について",
+      "id": "76061cab1458",
+      "title": "「オレンジリボン・児童虐待防止推進キャンペーン」に関する高市総理メッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-30 18:00 JST"
+      "publishedAtJst": "2026-11-01 09:00 JST"
     },
     {
       "id": "b2263e9f8412",
@@ -57,33 +57,31 @@
       "publishedAtJst": "2026-10-29 22:37 JST"
     },
     {
-      "id": "089499b17632",
-      "title": "高市総理は広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました",
+      "id": "f15afd4a3868",
+      "title": "高市総理は全国殉職警察職員・警察協力殉難者慰霊祭に参列しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-30 17:45 JST"
+      "publishedAtJst": "2026-10-31 22:30 JST"
     },
     {
-      "id": "b9ec5fa95a10",
-      "title": "高市総理は中東情勢を踏まえた「緊急的激変緩和措置」の今後の対応についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-30 05:00 JST"
-    },
-    {
-      "id": "eaddcb9af63c",
-      "title": "高市総理は令和８年第１５回経済財政諮問会議を開催しました",
+      "id": "24b048240eeb",
+      "title": "高市総理は第８回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-30 03:10 JST"
+      "publishedAtJst": "2026-10-31 01:00 JST"
+    },
+    {
+      "id": "c6bc7dd4ef08",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-30 18:00 JST"
     }
   ]
 }
