@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-11-01",
+  "dateKey": "2026-11-02",
   "importantPoints": [
     "最重要：Google Fitbit Edge: On shelves now（A_GLOBAL）",
     "次点：犯罪被害者月間　高市総理ビデオメッセージ（B_JAPAN）",
@@ -48,15 +48,6 @@
       "publishedAtJst": "2026-10-31 02:57 JST"
     },
     {
-      "id": "f3538b6fb36f",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-10-29 22:37 JST"
-    },
-    {
       "id": "f15afd4a3868",
       "title": "高市総理は全国殉職警察職員・警察協力殉難者慰霊祭に参列しました",
       "category": "B_JAPAN",
@@ -82,6 +73,15 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-10-30 18:00 JST"
+    },
+    {
+      "id": "089499b17632",
+      "title": "高市総理は広島市の松井一實（かずみ）市長及び長崎市の鈴木史朗市長による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-10-30 17:45 JST"
     }
   ]
 }
