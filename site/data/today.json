@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-04",
+  "dateKey": "2026-11-05",
   "importantPoints": [
-    "最重要：New research shows how Guided Learning supports students（A_GLOBAL）",
-    "次点：高市総理は防災士アンバサダー 野口絵子氏による表敬を受けました（B_JAPAN）",
-    "注目：沖縄政策協議会の開催について（B_JAPAN）"
+    "最重要：Watch Henry Cavill build a video game on his Googlebook（A_GLOBAL）",
+    "次点：木原内閣官房長官は日本維新の会・サイバー危機への緊急提言申入れを受けました（B_JAPAN）",
+    "注目：高市総理は防災士アンバサダー 野口絵子氏による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,22 @@
   ],
   "articles": [
     {
-      "id": "fac87606c7e9",
-      "title": "New research shows how Guided Learning supports students",
+      "id": "49c3922dca65",
+      "title": "Watch Henry Cavill build a video game on his Googlebook",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-03 23:00 JST"
+      "publishedAtJst": "2026-11-05 03:00 JST"
+    },
+    {
+      "id": "0e170a29357c",
+      "title": "木原内閣官房長官は日本維新の会・サイバー危機への緊急提言申入れを受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-05 02:00 JST"
     },
     {
       "id": "9535a4f33bd7",
@@ -32,13 +39,13 @@
       "publishedAtJst": "2026-11-03 02:20 JST"
     },
     {
-      "id": "b1cffaec825b",
-      "title": "沖縄政策協議会の開催について",
-      "category": "B_JAPAN",
+      "id": "5afc49da7bd4",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "category": "C_BIZ_AI",
       "tags": [],
-      "sourceName": "首相官邸",
+      "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-03 01:00 JST"
+      "publishedAtJst": "2026-11-05 02:50 JST"
     },
     {
       "id": "a55665cf4895",
@@ -50,13 +57,13 @@
       "publishedAtJst": "2026-11-04 02:15 JST"
     },
     {
-      "id": "bc4177032a04",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "category": "C_BIZ_AI",
+      "id": "b1cffaec825b",
+      "title": "沖縄政策協議会の開催について",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
+      "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-04 01:35 JST"
+      "publishedAtJst": "2026-11-03 01:00 JST"
     },
     {
       "id": "d57ad97ed73f",
@@ -75,15 +82,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-03 00:50 JST"
-    },
-    {
-      "id": "fa0226b7f31c",
-      "title": "繰上げ閣議の概要／防災庁発足について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-02 18:00 JST"
     }
   ]
 }
