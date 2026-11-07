@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-06",
+  "dateKey": "2026-11-07",
   "importantPoints": [
     "最重要：Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.（A_GLOBAL）",
-    "次点：閣議の概要／中東地域における自衛隊の活動／沖縄政策協議会の開催について（B_JAPAN）",
-    "注目：高市総理はフランス共和国のエマニュエル・マクロン大統領と電話会談を行いました。（B_JAPAN）"
+    "次点：高市総理は第２回サイバーセキュリティに関する関係閣僚会議を開催しました（B_JAPAN）",
+    "注目：高市総理は第９回日本成長戦略会議を開催しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -23,6 +23,51 @@
       "publishedAtJst": "2026-11-06 05:00 JST"
     },
     {
+      "id": "4ad9f1e77d9d",
+      "title": "高市総理は第２回サイバーセキュリティに関する関係閣僚会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-07 02:15 JST"
+    },
+    {
+      "id": "b65c6137f01e",
+      "title": "高市総理は第９回日本成長戦略会議を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-07 01:00 JST"
+    },
+    {
+      "id": "be1ba71e55b7",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-06 23:00 JST"
+    },
+    {
+      "id": "82196d4ece0a",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-06 09:00 JST"
+    },
+    {
+      "id": "2d62f804a6f3",
+      "title": "高市総理はＡＰＥＣビジネス諮問委員会（ＡＢＡＣ）による提言書を受け取りました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-07 00:20 JST"
+    },
+    {
       "id": "4afbd48f6ecf",
       "title": "閣議の概要／中東地域における自衛隊の活動／沖縄政策協議会の開催について",
       "category": "B_JAPAN",
@@ -34,58 +79,13 @@
       "publishedAtJst": "2026-11-06 18:00 JST"
     },
     {
-      "id": "0c6ee60017e7",
-      "title": "高市総理はフランス共和国のエマニュエル・マクロン大統領と電話会談を行いました。",
+      "id": "bc1a673743a9",
+      "title": "高市総理は沖縄政策協議会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 03:30 JST"
-    },
-    {
-      "id": "e8690f74b67f",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 04:35 JST"
-    },
-    {
-      "id": "5afc49da7bd4",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-05 02:50 JST"
-    },
-    {
-      "id": "a1d85a4a9d18",
-      "title": "高市総理はマクロン・フランス共和国大統領との電話会談等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 03:30 JST"
-    },
-    {
-      "id": "75fe84a91386",
-      "title": "高市総理は会計検査院の原田祐平院長から令和７年度決算検査報告を受け取りました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 01:45 JST"
-    },
-    {
-      "id": "0e170a29357c",
-      "title": "木原内閣官房長官は日本維新の会・サイバー危機への緊急提言申入れを受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-05 02:00 JST"
+      "publishedAtJst": "2026-11-06 17:15 JST"
     }
   ]
 }
