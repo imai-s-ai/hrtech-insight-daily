@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-09",
+  "dateKey": "2026-11-10",
   "importantPoints": [
-    "最重要：高市総理は全拉致被害者の即時一括帰国を求める国民大集会に出席しました（B_JAPAN）",
-    "次点：高市総理は令和８年度原子力総合防災訓練に参加しました（B_JAPAN）",
-    "注目：ToyBlocks: A controlled world for robot learning and evaluation（C_BIZ_AI）"
+    "最重要：Developers can now build with Google Maps Platform in AI Studio.（A_GLOBAL）",
+    "次点：閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について（B_JAPAN）",
+    "注目：高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -11,6 +11,53 @@
     "BPO：コスト圧力が強い局面ほど、非コア業務の外出し＋自動化で“採用に集中”を作る"
   ],
   "articles": [
+    {
+      "id": "09e04483e584",
+      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-11-10 02:00 JST"
+    },
+    {
+      "id": "709ccf094f87",
+      "title": "閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-10 18:00 JST"
+    },
+    {
+      "id": "2feb0d4ab15a",
+      "title": "高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-09 20:30 JST"
+    },
+    {
+      "id": "057e22ab69c0",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-10 00:05 JST"
+    },
+    {
+      "id": "7b1451fc786c",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-09 21:34 JST"
+    },
     {
       "id": "47599020119e",
       "title": "高市総理は全拉致被害者の即時一括帰国を求める国民大集会に出席しました",
@@ -30,60 +77,13 @@
       "publishedAtJst": "2026-11-07 20:00 JST"
     },
     {
-      "id": "be1ba71e55b7",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "category": "C_BIZ_AI",
+      "id": "d38ba6f8d531",
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "category": "A_GLOBAL",
       "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 23:00 JST"
-    },
-    {
-      "id": "4ad9f1e77d9d",
-      "title": "高市総理は第２回サイバーセキュリティに関する関係閣僚会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-07 02:15 JST"
-    },
-    {
-      "id": "b65c6137f01e",
-      "title": "高市総理は第９回日本成長戦略会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-07 01:00 JST"
-    },
-    {
-      "id": "2d62f804a6f3",
-      "title": "高市総理はＡＰＥＣビジネス諮問委員会（ＡＢＡＣ）による提言書を受け取りました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-07 00:20 JST"
-    },
-    {
-      "id": "4afbd48f6ecf",
-      "title": "閣議の概要／中東地域における自衛隊の活動／沖縄政策協議会の開催について",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 18:00 JST"
-    },
-    {
-      "id": "bc1a673743a9",
-      "title": "高市総理は沖縄政策協議会に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-06 17:15 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-11-09 22:00 JST"
     }
   ]
 }
