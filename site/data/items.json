@@ -1,52 +1,66 @@
 {
   "items": [
     {
-      "id": "09e04483e584",
-      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "id": "ac5a661efbfd",
+      "title": "Gemini Intelligence: New features, on more devices",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-11-10 02:00 JST",
+      "publishedAtJst": "2026-11-11 04:00 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Developers can now build with Google Maps Platform in AI Studio.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_blog_social.max-600x600.format-webp.webp\">Developers can now build with Google Maps Platform in AI Studio.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-10 02:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Gemini Intelligence: New features, on more devices\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp\">Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-11 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
         }
       ]
     },
     {
-      "id": "709ccf094f87",
-      "title": "閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
+      "id": "b19a37afd700",
+      "title": "第７４回民間放送全国大会　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-10 18:00 JST",
+      "publishedAtJst": "2026-11-11 03:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-10 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 第７４回民間放送全国大会　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-11 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/10_a.html"
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20261110message.html"
         }
       ]
     },
     {
-      "id": "2feb0d4ab15a",
-      "title": "高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました",
+      "id": "7f082583d8ed",
+      "title": "高市総理は韓日協力委員会一行による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-09 20:30 JST",
+      "publishedAtJst": "2026-11-11 01:10 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-09 20:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は韓日協力委員会一行による表敬を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-11 01:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/09hyoukei.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202611/10hyoukei.html"
+        }
+      ]
+    },
+    {
+      "id": "3229de0d9192",
+      "title": "Decision Models in Hugging Face",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "publishedAtJst": "2026-11-10 09:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 Decision Models in Hugging Face\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-11-10 09:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/decision"
         }
       ]
     },
@@ -67,66 +81,50 @@
       ]
     },
     {
-      "id": "7b1451fc786c",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-11-09 21:34 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 Your Experts Have Partners. There's HOPE for Keeping Them Together\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-11-09 21:34 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
-        }
-      ]
-    },
-    {
-      "id": "47599020119e",
-      "title": "高市総理は全拉致被害者の即時一括帰国を求める国民大集会に出席しました",
+      "id": "709ccf094f87",
+      "title": "閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-08 23:00 JST",
+      "publishedAtJst": "2026-11-10 18:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は全拉致被害者の即時一括帰国を求める国民大集会に出席しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-08 23:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-10 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/08rachi.html"
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/10_a.html"
         }
       ]
     },
     {
-      "id": "660bf673c08d",
-      "title": "高市総理は令和８年度原子力総合防災訓練に参加しました",
+      "id": "6cc31741afb8",
+      "title": "高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-07 20:00 JST",
+      "publishedAtJst": "2026-11-10 04:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は令和８年度原子力総合防災訓練に参加しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-07 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（２）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-10 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/07kunren.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202611/09vietnam2.html"
         }
       ]
     },
     {
-      "id": "d38ba6f8d531",
-      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "category": "A_GLOBAL",
+      "id": "4c031ea18a9a",
+      "title": "高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（１）",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "publishedAtJst": "2026-11-09 22:00 JST",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Our newest TPUs: 8tx and 8i Max, built for the agentic era\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.max-600x600.format-webp.webp\">We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-09 22:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-11-10 03:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（１）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-10 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
-          "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202611/09vietnam.html"
         }
       ]
     }

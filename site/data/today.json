@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-10",
+  "dateKey": "2026-11-11",
   "importantPoints": [
-    "最重要：Developers can now build with Google Maps Platform in AI Studio.（A_GLOBAL）",
-    "次点：閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について（B_JAPAN）",
-    "注目：高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました（B_JAPAN）"
+    "最重要：Gemini Intelligence: New features, on more devices（A_GLOBAL）",
+    "次点：第７４回民間放送全国大会　高市総理ビデオメッセージ（B_JAPAN）",
+    "注目：高市総理は韓日協力委員会一行による表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,40 @@
   ],
   "articles": [
     {
-      "id": "09e04483e584",
-      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "id": "ac5a661efbfd",
+      "title": "Gemini Intelligence: New features, on more devices",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-10 02:00 JST"
+      "publishedAtJst": "2026-11-11 04:00 JST"
     },
     {
-      "id": "709ccf094f87",
-      "title": "閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
+      "id": "b19a37afd700",
+      "title": "第７４回民間放送全国大会　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-10 18:00 JST"
+      "publishedAtJst": "2026-11-11 03:00 JST"
     },
     {
-      "id": "2feb0d4ab15a",
-      "title": "高市総理は全国高校生政策甲子園最優秀チームによる表敬を受けました",
+      "id": "7f082583d8ed",
+      "title": "高市総理は韓日協力委員会一行による表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-09 20:30 JST"
+      "publishedAtJst": "2026-11-11 01:10 JST"
+    },
+    {
+      "id": "3229de0d9192",
+      "title": "Decision Models in Hugging Face",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-10 09:00 JST"
     },
     {
       "id": "057e22ab69c0",
@@ -50,40 +57,31 @@
       "publishedAtJst": "2026-11-10 00:05 JST"
     },
     {
-      "id": "7b1451fc786c",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-09 21:34 JST"
-    },
-    {
-      "id": "47599020119e",
-      "title": "高市総理は全拉致被害者の即時一括帰国を求める国民大集会に出席しました",
+      "id": "709ccf094f87",
+      "title": "閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-08 23:00 JST"
+      "publishedAtJst": "2026-11-10 18:00 JST"
     },
     {
-      "id": "660bf673c08d",
-      "title": "高市総理は令和８年度原子力総合防災訓練に参加しました",
+      "id": "6cc31741afb8",
+      "title": "高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（２）",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-07 20:00 JST"
+      "publishedAtJst": "2026-11-10 04:00 JST"
     },
     {
-      "id": "d38ba6f8d531",
-      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "category": "A_GLOBAL",
+      "id": "4c031ea18a9a",
+      "title": "高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（１）",
+      "category": "B_JAPAN",
       "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-09 22:00 JST"
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-10 03:00 JST"
     }
   ]
 }
