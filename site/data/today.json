@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-11",
+  "dateKey": "2026-11-12",
   "importantPoints": [
-    "最重要：Gemini Intelligence: New features, on more devices（A_GLOBAL）",
-    "次点：第７４回民間放送全国大会　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：高市総理は韓日協力委員会一行による表敬を受けました（B_JAPAN）"
+    "最重要：Built on Googlebook: Play Henry Cavill’s video game to support Movember（A_GLOBAL）",
+    "次点：鳥インフルエンザ関係閣僚会議について（B_JAPAN）",
+    "注目：「パープルリボン・女性に対する暴力をなくす運動」に関する高市総理メッセージ（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,76 +12,78 @@
   ],
   "articles": [
     {
-      "id": "ac5a661efbfd",
-      "title": "Gemini Intelligence: New features, on more devices",
+      "id": "668ac258235f",
+      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-11 04:00 JST"
+      "publishedAtJst": "2026-11-12 03:00 JST"
     },
     {
-      "id": "b19a37afd700",
-      "title": "第７４回民間放送全国大会　高市総理ビデオメッセージ",
+      "id": "69e65332b4e3",
+      "title": "鳥インフルエンザ関係閣僚会議について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-11 03:00 JST"
+      "publishedAtJst": "2026-11-12 20:00 JST"
     },
     {
-      "id": "7f082583d8ed",
-      "title": "高市総理は韓日協力委員会一行による表敬を受けました",
+      "id": "bc874e362231",
+      "title": "「パープルリボン・女性に対する暴力をなくす運動」に関する高市総理メッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-11 01:10 JST"
+      "publishedAtJst": "2026-11-12 09:00 JST"
     },
     {
-      "id": "3229de0d9192",
-      "title": "Decision Models in Hugging Face",
+      "id": "8e4104a923ec",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "Meet the Gemini Decisions API, powered by our state-of-the-art model G…",
+      "publishedAtJst": "2026-11-12 03:00 JST"
+    },
+    {
+      "id": "b22522d14a17",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "category": "C_BIZ_AI",
       "tags": [],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-10 09:00 JST"
+      "publishedAtJst": "2026-11-11 14:01 JST"
     },
     {
-      "id": "057e22ab69c0",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-10 00:05 JST"
-    },
-    {
-      "id": "709ccf094f87",
-      "title": "閣議の概要／ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
+      "id": "28d52a4c3ae6",
+      "title": "木原内閣官房長官は第３回国と東京都の協議会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-10 18:00 JST"
+      "publishedAtJst": "2026-11-12 03:05 JST"
     },
     {
-      "id": "6cc31741afb8",
-      "title": "高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（２）",
+      "id": "7f0224778dba",
+      "title": "高市総理は令和８年第１６回経済財政諮問会議を開催しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-10 04:00 JST"
+      "publishedAtJst": "2026-11-12 02:20 JST"
     },
     {
-      "id": "4c031ea18a9a",
-      "title": "高市総理は、ベトナム社会主義共和国のトー・ラム共産党中央委員会書記長兼国家主席と首脳会談を行いました（１）",
+      "id": "9a01c5697982",
+      "title": "高市総理は第７０回町村議会議長全国大会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-10 03:00 JST"
+      "publishedAtJst": "2026-11-11 23:15 JST"
     }
   ]
 }
