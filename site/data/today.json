@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-12",
+  "dateKey": "2026-11-13",
   "importantPoints": [
-    "最重要：Built on Googlebook: Play Henry Cavill’s video game to support Movember（A_GLOBAL）",
-    "次点：鳥インフルエンザ関係閣僚会議について（B_JAPAN）",
-    "注目：「パープルリボン・女性に対する暴力をなくす運動」に関する高市総理メッセージ（B_JAPAN）"
+    "最重要：5 new Google Flow Tools designed by visual artists（A_GLOBAL）",
+    "次点：閣議の概要／高市総理のＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席／カスト・チリ共和国大統領夫妻及びフジモリ・ペルー共和国大統領の訪日／中東情勢等対応予備費の使用について（B_JAPAN）",
+    "注目：高市総理は日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,33 +12,33 @@
   ],
   "articles": [
     {
-      "id": "668ac258235f",
-      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+      "id": "d8a09585fbb8",
+      "title": "5 new Google Flow Tools designed by visual artists",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-12 03:00 JST"
+      "publishedAtJst": "2026-11-13 05:30 JST"
     },
     {
-      "id": "69e65332b4e3",
-      "title": "鳥インフルエンザ関係閣僚会議について",
+      "id": "eeecc9e92577",
+      "title": "閣議の概要／高市総理のＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席／カスト・チリ共和国大統領夫妻及びフジモリ・ペルー共和国大統領の訪日／中東情勢等対応予備費の使用について",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-13 18:00 JST"
+    },
+    {
+      "id": "25e6e494bc36",
+      "title": "高市総理は日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-12 20:00 JST"
-    },
-    {
-      "id": "bc874e362231",
-      "title": "「パープルリボン・女性に対する暴力をなくす運動」に関する高市総理メッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-12 09:00 JST"
+      "publishedAtJst": "2026-11-13 00:05 JST"
     },
     {
       "id": "8e4104a923ec",
@@ -50,40 +50,42 @@
       "publishedAtJst": "2026-11-12 03:00 JST"
     },
     {
-      "id": "b22522d14a17",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "id": "a88bddb17214",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "category": "C_BIZ_AI",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-11 14:01 JST"
+      "publishedAtJst": "2026-11-13 04:07 JST"
     },
     {
-      "id": "28d52a4c3ae6",
-      "title": "木原内閣官房長官は第３回国と東京都の協議会に出席しました",
+      "id": "e65d3d1adacd",
+      "title": "高市総理は自由民主党・ＡＺＥＣ議員連盟による提言を受け取りました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-12 03:05 JST"
+      "publishedAtJst": "2026-11-12 23:50 JST"
     },
     {
-      "id": "7f0224778dba",
-      "title": "高市総理は令和８年第１６回経済財政諮問会議を開催しました",
+      "id": "69e65332b4e3",
+      "title": "鳥インフルエンザ関係閣僚会議について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-12 02:20 JST"
+      "publishedAtJst": "2026-11-12 20:00 JST"
     },
     {
-      "id": "9a01c5697982",
-      "title": "高市総理は第７０回町村議会議長全国大会に出席しました",
+      "id": "4900e4c5ca2e",
+      "title": "高市総理はフィジカルＡＩ関連企業との意見交換会を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-11 23:15 JST"
+      "publishedAtJst": "2026-11-12 20:00 JST"
     }
   ]
 }
