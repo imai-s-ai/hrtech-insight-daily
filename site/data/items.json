@@ -1,18 +1,36 @@
 {
   "items": [
     {
-      "id": "d8a09585fbb8",
-      "title": "5 new Google Flow Tools designed by visual artists",
+      "id": "4207b38c9f3b",
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-11-13 05:30 JST",
+      "publishedAtJst": "2026-11-14 05:30 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 5 new Google Flow Tools designed by visual artists\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.max-600x600.format-webp.webp\">Designed by filmmakers and visual artists, five new Google Flow Tools will help you bring your next story to life.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-13 05:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Claim your Google Cloud Credits in Google AI Studio\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_BlogBanner_990x556.max-600x600.format-webp.webp\">Claim your Google Cloud Credits in Google AI Studio\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-14 05:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"
+        }
+      ]
+    },
+    {
+      "id": "3c7a5d0f2d64",
+      "title": "日米海底鉱物資源イノベーション・プラットフォーム　高市総理ビデオメッセージ",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-11-14 04:00 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 日米海底鉱物資源イノベーション・プラットフォーム　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-14 04:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20261113message.html"
         }
       ]
     },
@@ -35,22 +53,6 @@
       ]
     },
     {
-      "id": "25e6e494bc36",
-      "title": "高市総理は日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-13 00:05 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理は日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-13 00:05 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/12teigen02.html"
-        }
-      ]
-    },
-    {
       "id": "8e4104a923ec",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "category": "C_BIZ_AI",
@@ -67,20 +69,50 @@
       ]
     },
     {
-      "id": "a88bddb17214",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "id": "2427bacb74a9",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Hugging Face Blog",
-      "publishedAtJst": "2026-11-13 04:07 JST",
+      "publishedAtJst": "2026-11-14 03:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-11-13 04:07 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 Build a Robot Pick-and-Place Simulation with SimReady Assets\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Hugging Face Blog\n・公開日時：2026-11-14 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+        }
+      ]
+    },
+    {
+      "id": "8c98c04a772b",
+      "title": "高市総理は第２回令和８年熊本地震非常災害復旧復興本部を開催しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-11-13 17:35 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は第２回令和８年熊本地震非常災害復旧復興本部を開催しました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-13 17:35 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202611/13fukkyuhonbu.html"
+        }
+      ]
+    },
+    {
+      "id": "25e6e494bc36",
+      "title": "高市総理は日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "publishedAtJst": "2026-11-13 00:05 JST",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "summaryFull": "――――――――――\n📰 高市総理は日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言を受け取りました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-13 00:05 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "sources": [
+        {
+          "name": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202611/12teigen02.html"
         }
       ]
     },
@@ -97,38 +129,6 @@
         {
           "name": "首相官邸",
           "url": "https://www.kantei.go.jp/jp/105/actions/202611/12teigen.html"
-        }
-      ]
-    },
-    {
-      "id": "69e65332b4e3",
-      "title": "鳥インフルエンザ関係閣僚会議について",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-12 20:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 鳥インフルエンザ関係閣僚会議について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-12 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/12_a.html"
-        }
-      ]
-    },
-    {
-      "id": "4900e4c5ca2e",
-      "title": "高市総理はフィジカルＡＩ関連企業との意見交換会を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-12 20:00 JST",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はフィジカルＡＩ関連企業との意見交換会を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-12 20:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
-      "sources": [
-        {
-          "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/12ikenkoukan.html"
         }
       ]
     }
