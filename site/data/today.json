@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-11-14",
+  "dateKey": "2026-11-15",
   "importantPoints": [
     "最重要：Claim your Google Cloud Credits in Google AI Studio（A_GLOBAL）",
     "次点：日米海底鉱物資源イノベーション・プラットフォーム　高市総理ビデオメッセージ（B_JAPAN）",
@@ -43,15 +43,6 @@
       "publishedAtJst": "2026-11-13 18:00 JST"
     },
     {
-      "id": "8e4104a923ec",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "Meet the Gemini Decisions API, powered by our state-of-the-art model G…",
-      "publishedAtJst": "2026-11-12 03:00 JST"
-    },
-    {
       "id": "2427bacb74a9",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "category": "C_BIZ_AI",
@@ -59,6 +50,15 @@
       "sourceName": "Hugging Face Blog",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-14 03:00 JST"
+    },
+    {
+      "id": "8400bdfe1e2a",
+      "title": "XYBench: Helping with the problem behind the question",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-14 02:02 JST"
     },
     {
       "id": "8c98c04a772b",
