@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-16",
+  "dateKey": "2026-11-17",
   "importantPoints": [
-    "最重要：Claim your Google Cloud Credits in Google AI Studio（A_GLOBAL）",
-    "次点：日米海底鉱物資源イノベーション・プラットフォーム　高市総理ビデオメッセージ（B_JAPAN）",
-    "注目：閣議の概要／高市総理のＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席／カスト・チリ共和国大統領夫妻及びフジモリ・ペルー共和国大統領の訪日／中東情勢等対応予備費の使用について（B_JAPAN）"
+    "最重要：Regional voices are rolling out in the Gemini app.（A_GLOBAL）",
+    "次点：閣議の概要について（B_JAPAN）",
+    "注目：高市総理大臣によるフィリピン・デイリー・インクワイヤラー紙、フィリピン・スター紙、マニラ・ブレティン紙、星洲日報及びＮｉｋｋｅｉ Ａｓｉａへの寄稿（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,82 +12,82 @@
   ],
   "articles": [
     {
-      "id": "4207b38c9f3b",
-      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "id": "c7c8448629a5",
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-11-17 03:45 JST"
+    },
+    {
+      "id": "a47d32796d14",
+      "title": "閣議の概要について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-17 18:00 JST"
+    },
+    {
+      "id": "05b7c9792045",
+      "title": "高市総理大臣によるフィリピン・デイリー・インクワイヤラー紙、フィリピン・スター紙、マニラ・ブレティン紙、星洲日報及びＮｉｋｋｅｉ Ａｓｉａへの寄稿",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-16 22:00 JST"
+    },
+    {
+      "id": "3fdbdb7c5085",
+      "title": "政府主催拉致問題に関するシンポジウムについて",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-16 20:00 JST"
+    },
+    {
+      "id": "af16ea1dc03f",
+      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議出席等についての会見を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-16 19:40 JST"
+    },
+    {
+      "id": "0bb15db7b3f5",
+      "title": "The era of autonomous attacks has arrived.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-14 05:30 JST"
+      "publishedAtJst": "2026-11-17 03:30 JST"
     },
     {
-      "id": "3c7a5d0f2d64",
-      "title": "日米海底鉱物資源イノベーション・プラットフォーム　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-14 04:00 JST"
-    },
-    {
-      "id": "eeecc9e92577",
-      "title": "閣議の概要／高市総理のＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席／カスト・チリ共和国大統領夫妻及びフジモリ・ペルー共和国大統領の訪日／中東情勢等対応予備費の使用について",
-      "category": "B_JAPAN",
-      "tags": [
-        "地政学"
-      ],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-13 18:00 JST"
-    },
-    {
-      "id": "2427bacb74a9",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-14 03:00 JST"
-    },
-    {
-      "id": "8400bdfe1e2a",
-      "title": "XYBench: Helping with the problem behind the question",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-14 02:02 JST"
-    },
-    {
-      "id": "8c98c04a772b",
-      "title": "高市総理は第２回令和８年熊本地震非常災害復旧復興本部を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-13 17:35 JST"
-    },
-    {
-      "id": "12b9210cca15",
-      "title": "Connect Google Wallet to Gemini for personal finance insights",
-      "category": "A_GLOBAL",
-      "tags": [],
-      "sourceName": "Google Blog",
-      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-14 02:00 JST"
-    },
-    {
-      "id": "40e78db6601d",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "id": "0c01375e545f",
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-13 23:05 JST"
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-11-17 02:00 JST"
+    },
+    {
+      "id": "418b713021a0",
+      "title": "New AI training performance benchmarks for Google TPUs",
+      "category": "A_GLOBAL",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-11-17 01:00 JST"
     }
   ]
 }
