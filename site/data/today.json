@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-18",
+  "dateKey": "2026-11-19",
   "importantPoints": [
-    "最重要：How genome mapping can help researchers better understand disease（A_GLOBAL）",
-    "次点：高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（３）（B_JAPAN）",
-    "注目：高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（２）（B_JAPAN）"
+    "最重要：Introducing Gemini 4 Neon（A_GLOBAL）",
+    "次点：高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（４）（B_JAPAN）",
+    "注目：高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（３）（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,22 @@
   ],
   "articles": [
     {
-      "id": "2209ff09f797",
-      "title": "How genome mapping can help researchers better understand disease",
+      "id": "e2b6407cfa68",
+      "title": "Introducing Gemini 4 Neon",
       "category": "A_GLOBAL",
-      "tags": [
-        "生成AI"
-      ],
+      "tags": [],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-18 07:00 JST"
+      "publishedAtJst": "2026-11-19 06:00 JST"
+    },
+    {
+      "id": "5d568ca79944",
+      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（４）",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-18 19:52 JST"
     },
     {
       "id": "f2f350982ec7",
@@ -30,6 +37,26 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-18 05:00 JST"
+    },
+    {
+      "id": "f689168723dc",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-19 04:54 JST"
+    },
+    {
+      "id": "bf1424b145e4",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-19 00:00 JST"
     },
     {
       "id": "27b2a4cbe136",
@@ -57,33 +84,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-17 05:00 JST"
-    },
-    {
-      "id": "05b7c9792045",
-      "title": "高市総理大臣によるフィリピン・スター紙、マニラ・ブレティン紙、フィリピン・デイリー・インクワイアラー紙、及び星洲日報紙への寄稿、並びにＮｉｋｋｅｉ Ａｓｉａ及びアジア・ニュース・ネットワーク（Ａｓｉａ Ｎｅｗｓ Ｎｅｔｗｏｒｋ）へ記事転載",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-16 22:00 JST"
-    },
-    {
-      "id": "3fdbdb7c5085",
-      "title": "政府主催拉致問題に関するシンポジウムについて",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-16 20:00 JST"
-    },
-    {
-      "id": "af16ea1dc03f",
-      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議出席等についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-16 19:40 JST"
     }
   ]
 }
