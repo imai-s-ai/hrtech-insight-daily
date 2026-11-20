@@ -1,50 +1,52 @@
 {
   "items": [
     {
-      "id": "e2b6407cfa68",
-      "title": "Introducing Gemini 4 Neon",
+      "id": "63715c934641",
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
       "category": "A_GLOBAL",
-      "tags": [],
+      "tags": [
+        "生成AI"
+      ],
       "sourceName": "Google Blog",
-      "publishedAtJst": "2026-11-19 06:00 JST",
+      "publishedAtJst": "2026-11-20 05:30 JST",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "summaryFull": "――――――――――\n📰 Introducing Gemini 4 Neon\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp\">Today, we’re introducing Gemini 4 Neon\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-19 06:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 ICYMI: Transfer your history from other AI apps into Gemini.\n\n■ 概要（3行以内）\n・<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transfer_socialshare.max-600x600.format-webp.webp\">Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：Google Blog\n・公開日時：2026-11-20 05:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "Google Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/"
         }
       ]
     },
     {
-      "id": "5d568ca79944",
-      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（４）",
+      "id": "8be491dedc7a",
+      "title": "閣議の概要について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-18 19:52 JST",
+      "publishedAtJst": "2026-11-20 18:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（４）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-18 19:52 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-20 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/18asean.html"
+          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/20_a.html"
         }
       ]
     },
     {
-      "id": "f2f350982ec7",
-      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（３）",
+      "id": "4b881fcf0766",
+      "title": "高市総理はトランプ米国大統領との電話会談についての会見を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-18 05:00 JST",
+      "publishedAtJst": "2026-11-20 08:30 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（３）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-18 05:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理はトランプ米国大統領との電話会談についての会見を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-20 08:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/17asean2.html"
+          "url": "https://www.kantei.go.jp/jp/105/statement/2026/1119kaiken.html"
         }
       ]
     },
@@ -83,50 +85,50 @@
       ]
     },
     {
-      "id": "27b2a4cbe136",
-      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（２）",
+      "id": "8d7d2b41a43f",
+      "title": "高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-18 00:00 JST",
+      "publishedAtJst": "2026-11-20 08:30 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（２）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-18 00:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-20 08:30 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/17asean.html"
+          "url": "https://www.kantei.go.jp/jp/105/actions/202611/19tel_kaidan.html"
         }
       ]
     },
     {
-      "id": "a47d32796d14",
-      "title": "閣議の概要について",
+      "id": "2cc692f5d0da",
+      "title": "第６６回商工会全国大会　高市総理ビデオメッセージ",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-17 18:00 JST",
+      "publishedAtJst": "2026-11-20 03:00 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 閣議の概要について\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-17 18:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 第６６回商工会全国大会　高市総理ビデオメッセージ\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-20 03:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/17_a.html"
+          "url": "https://www.kantei.go.jp/jp/105/discourse/20261119message.html"
         }
       ]
     },
     {
-      "id": "8311fb336c9c",
-      "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（１）",
+      "id": "747c1a174e90",
+      "title": "木原内閣官房長官は埼玉県の大野元裕知事、千葉県の熊谷俊人知事、神奈川県の黒岩祐治（ゆうじ）知事による要請を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
-      "publishedAtJst": "2026-11-17 05:00 JST",
+      "publishedAtJst": "2026-11-20 02:10 JST",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "summaryFull": "――――――――――\n📰 高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（１）\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-17 05:00 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
+      "summaryFull": "――――――――――\n📰 木原内閣官房長官は埼玉県の大野元裕知事、千葉県の熊谷俊人知事、神奈川県の黒岩祐治（ゆうじ）知事による要請を受けました\n\n■ 概要（3行以内）\n・（RSSの概要情報が短いため、要点のみ表示）\n・（出典リンク参照：一次情報/公式発表を優先）\n\n■ 背景・補足\n・公開元：首相官邸\n・公開日時：2026-11-20 02:10 JST\n\n■ ビジネス／採用への示唆\n・顧客提案：『影響領域（賃金/規制/AI/景況）』と『次アクション（集客/自動化/運用最適化）』を会話の起点にする\n・社内戦略：類似ニュースの継続ウォッチ（翌日以降の追加報道/公式発表）を前提に、施策の優先度を見直す\n――――――――――",
       "sources": [
         {
           "name": "首相官邸",
-          "url": "https://www.kantei.go.jp/jp/105/actions/202611/16asean.html"
+          "url": "https://www.kantei.go.jp/jp/pages/20261119choukan_yousei.html"
         }
       ]
     }
