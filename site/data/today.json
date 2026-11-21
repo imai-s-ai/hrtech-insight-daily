@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-20",
+  "dateKey": "2026-11-21",
   "importantPoints": [
-    "最重要：ICYMI: Transfer your history from other AI apps into Gemini.（A_GLOBAL）",
-    "次点：閣議の概要について（B_JAPAN）",
-    "注目：高市総理はトランプ米国大統領との電話会談についての会見を行いました（B_JAPAN）"
+    "最重要：Get your year-end tasks done with new Connected Apps.（A_GLOBAL）",
+    "次点：高市総理はチリ共和国のホセ・アントニオ・カスト・リスト大統領と首脳会談を行いました（B_JAPAN）",
+    "注目：高市総理は日本ブラジル経済合同委員会メンバーによる表敬を受けました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,71 @@
   ],
   "articles": [
     {
-      "id": "63715c934641",
-      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "id": "0f4da97fb1bd",
+      "title": "Get your year-end tasks done with new Connected Apps.",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-20 05:30 JST"
+      "publishedAtJst": "2026-11-21 03:00 JST"
+    },
+    {
+      "id": "c40b2d7998b0",
+      "title": "高市総理はチリ共和国のホセ・アントニオ・カスト・リスト大統領と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-21 08:00 JST"
+    },
+    {
+      "id": "681e8ecea1f5",
+      "title": "高市総理は日本ブラジル経済合同委員会メンバーによる表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-21 00:40 JST"
+    },
+    {
+      "id": "80d31a6dee29",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-20 09:00 JST"
+    },
+    {
+      "id": "211fbe8009a4",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-20 09:00 JST"
+    },
+    {
+      "id": "466fda6960a3",
+      "title": "高市総理はペルー共和国のケイコ・ソフィア・フジモリ・ヒグチ大統領と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-20 23:00 JST"
+    },
+    {
+      "id": "ede6cdc48a03",
+      "title": "ウクライナに関する有志連合首脳会合に際する高市内閣総理大臣書面メッセージ",
+      "category": "B_JAPAN",
+      "tags": [
+        "地政学"
+      ],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-20 20:00 JST"
     },
     {
       "id": "8be491dedc7a",
@@ -30,62 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-20 18:00 JST"
-    },
-    {
-      "id": "4b881fcf0766",
-      "title": "高市総理はトランプ米国大統領との電話会談についての会見を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-20 08:30 JST"
-    },
-    {
-      "id": "f689168723dc",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-19 04:54 JST"
-    },
-    {
-      "id": "bf1424b145e4",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-19 00:00 JST"
-    },
-    {
-      "id": "8d7d2b41a43f",
-      "title": "高市総理はアメリカ合衆国のドナルド・トランプ大統領と電話会談を行いました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-20 08:30 JST"
-    },
-    {
-      "id": "2cc692f5d0da",
-      "title": "第６６回商工会全国大会　高市総理ビデオメッセージ",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-20 03:00 JST"
-    },
-    {
-      "id": "747c1a174e90",
-      "title": "木原内閣官房長官は埼玉県の大野元裕知事、千葉県の熊谷俊人知事、神奈川県の黒岩祐治（ゆうじ）知事による要請を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-20 02:10 JST"
     }
   ]
 }
