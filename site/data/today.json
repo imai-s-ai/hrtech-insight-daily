@@ -1,5 +1,5 @@
 {
-  "dateKey": "2026-11-22",
+  "dateKey": "2026-11-23",
   "importantPoints": [
     "最重要：Get your year-end tasks done with new Connected Apps.（A_GLOBAL）",
     "次点：高市総理はチリ共和国のホセ・アントニオ・カスト・リスト大統領と首脳会談を行いました（B_JAPAN）",
@@ -41,24 +41,6 @@
       "publishedAtJst": "2026-11-21 00:40 JST"
     },
     {
-      "id": "80d31a6dee29",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-20 09:00 JST"
-    },
-    {
-      "id": "211fbe8009a4",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-20 09:00 JST"
-    },
-    {
       "id": "466fda6960a3",
       "title": "高市総理はペルー共和国のケイコ・ソフィア・フジモリ・ヒグチ大統領と首脳会談を行いました",
       "category": "B_JAPAN",
@@ -86,6 +68,15 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-20 18:00 JST"
+    },
+    {
+      "id": "b224850c9f0f",
+      "title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "category": "A_GLOBAL",
+      "tags": [],
+      "sourceName": "Google Blog",
+      "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
+      "publishedAtJst": "2026-11-21 02:00 JST"
     }
   ]
 }
