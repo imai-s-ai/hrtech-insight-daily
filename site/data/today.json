@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-26",
+  "dateKey": "2026-11-27",
   "importantPoints": [
-    "最重要：We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.（A_GLOBAL）",
-    "次点：高市総理は日ＡＳＥＡＮヤング・将来世代ビジネスリーダーズサミット２０２６による提言を受け取りしました（B_JAPAN）",
-    "注目：高市総理は山下真奈良県知事、平岡清司五條市長等から「奈良の柿」の贈呈を受けました（B_JAPAN）"
+    "最重要：15 years of investing in Colombia’s talent and future（A_GLOBAL）",
+    "次点：閣議の概要／副首都の指定に係る基本方針の策定等に関する基本的考え方について／クマ被害対策等に関する関係閣僚会議の開催について（B_JAPAN）",
+    "注目：高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -12,15 +12,71 @@
   ],
   "articles": [
     {
-      "id": "18e10cef1dbd",
-      "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "id": "24fcc89fae48",
+      "title": "15 years of investing in Colombia’s talent and future",
       "category": "A_GLOBAL",
       "tags": [
         "生成AI"
       ],
       "sourceName": "Google Blog",
       "summaryShort": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/ima…",
-      "publishedAtJst": "2026-11-25 04:30 JST"
+      "publishedAtJst": "2026-11-27 03:00 JST"
+    },
+    {
+      "id": "e9d4127e5f17",
+      "title": "閣議の概要／副首都の指定に係る基本方針の策定等に関する基本的考え方について／クマ被害対策等に関する関係閣僚会議の開催について",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-27 19:00 JST"
+    },
+    {
+      "id": "10040e900ce5",
+      "title": "高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-27 03:00 JST"
+    },
+    {
+      "id": "02a088434703",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "category": "C_BIZ_AI",
+      "tags": [],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-26 20:37 JST"
+    },
+    {
+      "id": "c01600d41603",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-26 09:00 JST"
+    },
+    {
+      "id": "af71cded189b",
+      "title": "高市総理はノーベル化学賞受賞者硤合憲三東京理科大学栄誉教授による表敬を受けました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-27 01:00 JST"
+    },
+    {
+      "id": "3aea38548b85",
+      "title": "高市総理は第９回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
+      "category": "B_JAPAN",
+      "tags": [],
+      "sourceName": "首相官邸",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-26 22:20 JST"
     },
     {
       "id": "fd3e2f62767b",
@@ -30,62 +86,6 @@
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
       "publishedAtJst": "2026-11-26 19:40 JST"
-    },
-    {
-      "id": "4b4fc759e842",
-      "title": "高市総理は山下真奈良県知事、平岡清司五條市長等から「奈良の柿」の贈呈を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-26 19:10 JST"
-    },
-    {
-      "id": "37b5c9ba9326",
-      "title": "Where scientists draw the line on AI agents",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-26 03:52 JST"
-    },
-    {
-      "id": "d0a3a7f662b5",
-      "title": "An Indic Voice Agent with CUGA",
-      "category": "C_BIZ_AI",
-      "tags": [],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-25 19:22 JST"
-    },
-    {
-      "id": "0a02884bb546",
-      "title": "高市総理は令和８年第１７回経済財政諮問会議を開催しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-25 02:30 JST"
-    },
-    {
-      "id": "9f64fd14f072",
-      "title": "令和８年１１月２４日、高市総理は、月例経済報告等に関する関係閣僚会議に出席しました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-25 02:00 JST"
-    },
-    {
-      "id": "dbd372c17870",
-      "title": "高市総理は赤根国際刑事裁判所（ＩＣＣ）所長による表敬を受けました",
-      "category": "B_JAPAN",
-      "tags": [],
-      "sourceName": "首相官邸",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-25 00:30 JST"
     }
   ]
 }
