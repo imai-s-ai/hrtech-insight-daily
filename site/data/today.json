@@ -1,9 +1,9 @@
 {
-  "dateKey": "2026-11-27",
+  "dateKey": "2026-11-28",
   "importantPoints": [
     "最重要：15 years of investing in Colombia’s talent and future（A_GLOBAL）",
-    "次点：閣議の概要／副首都の指定に係る基本方針の策定等に関する基本的考え方について／クマ被害対策等に関する関係閣僚会議の開催について（B_JAPAN）",
-    "注目：高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました（B_JAPAN）"
+    "次点：高市総理は経済同友会８０周年祝賀会に出席しました（B_JAPAN）",
+    "注目：高市総理は全国都道府県知事会議に出席しました（B_JAPAN）"
   ],
   "implications": [
     "求人広告：景況/規制/AI動向に応じて、配分・訴求軸（給与/働き方/スキル）を微調整する",
@@ -23,22 +23,33 @@
       "publishedAtJst": "2026-11-27 03:00 JST"
     },
     {
-      "id": "e9d4127e5f17",
-      "title": "閣議の概要／副首都の指定に係る基本方針の策定等に関する基本的考え方について／クマ被害対策等に関する関係閣僚会議の開催について",
+      "id": "38c6da70a6f7",
+      "title": "高市総理は経済同友会８０周年祝賀会に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-27 19:00 JST"
+      "publishedAtJst": "2026-11-28 03:45 JST"
     },
     {
-      "id": "10040e900ce5",
-      "title": "高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました",
+      "id": "cc495f6499b5",
+      "title": "高市総理は全国都道府県知事会議に出席しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-27 03:00 JST"
+      "publishedAtJst": "2026-11-28 02:40 JST"
+    },
+    {
+      "id": "2d7f8b4f8454",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "category": "C_BIZ_AI",
+      "tags": [
+        "生成AI"
+      ],
+      "sourceName": "Hugging Face Blog",
+      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
+      "publishedAtJst": "2026-11-27 09:00 JST"
     },
     {
       "id": "02a088434703",
@@ -50,42 +61,31 @@
       "publishedAtJst": "2026-11-26 20:37 JST"
     },
     {
-      "id": "c01600d41603",
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "category": "C_BIZ_AI",
-      "tags": [
-        "生成AI"
-      ],
-      "sourceName": "Hugging Face Blog",
-      "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-26 09:00 JST"
-    },
-    {
-      "id": "af71cded189b",
-      "title": "高市総理はノーベル化学賞受賞者硤合憲三東京理科大学栄誉教授による表敬を受けました",
+      "id": "f8f7194f73b3",
+      "title": "高市総理は未来を選択する会議と面会しました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-27 01:00 JST"
+      "publishedAtJst": "2026-11-28 00:45 JST"
     },
     {
-      "id": "3aea38548b85",
-      "title": "高市総理は第９回地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告に出席しました",
+      "id": "044aa704d2d9",
+      "title": "高市総理は日仏クラブによる表敬を受けました",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-26 22:20 JST"
+      "publishedAtJst": "2026-11-28 00:00 JST"
     },
     {
-      "id": "fd3e2f62767b",
-      "title": "高市総理は日ＡＳＥＡＮヤング・将来世代ビジネスリーダーズサミット２０２６による提言を受け取りしました",
+      "id": "e9d4127e5f17",
+      "title": "閣議の概要／副首都の指定に係る基本方針の策定等に関する基本的考え方について／クマ被害対策等に関する関係閣僚会議の開催について",
       "category": "B_JAPAN",
       "tags": [],
       "sourceName": "首相官邸",
       "summaryShort": "要点は出典リンク参照（公式・一次情報優先）",
-      "publishedAtJst": "2026-11-26 19:40 JST"
+      "publishedAtJst": "2026-11-27 19:00 JST"
     }
   ]
 }
